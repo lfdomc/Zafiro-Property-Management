@@ -1,0 +1,1609 @@
+{
+  "checkInGeneral": "3:00 PM",
+  "checkOutGeneral": "11:00 AM",
+  "general": {
+    "formulario": {
+      "texto": "Enviar el formulario o el correo en las mañanas (idealmente antes de las 11) de las reservas que ingresarán en el día.",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSe3mnUmQeWruJvsPMnOVt2uLG4HPneCRWPLeh0j5ao4_jdvkw/viewform",
+      "linkLabel": "Formulario Urban Escalante",
+      "espaciosObligatorios": "Todo lo que aparece con asterisco rojo en el formulario es obligatorio. Los nombres de los invitados idealmente deben incluirse (si el huésped manda la información a tiempo); si no llega a tiempo, se envía sin esa información. El nombre del huésped principal siempre es obligatorio."
+    },
+    "comunicacion": {
+      "titulo": "Cómo contestar mensajes",
+      "bullets": [
+        "Idealmente no dejar pasar más de 1-2 horas sin respuesta.",
+        "Responder con alta atención al cliente, buscando solucionar con mucha amabilidad todo lo que se pueda (al final se busca una buena reseña).",
+        "Horario de atención: 8am a 10pm (de ser posible).",
+        "Ya se cuenta con mensajes automáticos de check-in, instrucciones y check-out — enfocarse en atender dudas y consultas puntuales del huésped."
+      ]
+    },
+    "mensajesFrecuentes": [
+      {
+        "id": "solicitud-datos-ingreso",
+        "title": "Solicitud de datos para autorizar ingreso",
+        "body": "¡Hola! 😊 Estamos muy contentos y ansiosos de recibirlos en la casa.\n\nPara poder gestionar la autorización de ingreso, ¿serían tan amables de compartirnos los nombres completos y números de cédula de todos los huéspedes? Además, si vienen en vehículo, agradeceríamos que nos indiquen el número de placa.\n\nMuchas gracias por la información. Será un gusto recibirlos y esperamos que disfruten muchísimo su estadía. ¡Estamos para servirles en todo lo que necesiten!"
+      }
+    ],
+    "contactos": [
+      {
+        "label": "Chofer / Taxi (Edwin)",
+        "value": "8865-5664",
+        "note": "Solo si es de madrugada. Decir que es para recoger un cliente de parte de Michelle y Álvaro, Urbn Escalante."
+      },
+      {
+        "label": "Limpieza Praia (Felipe)",
+        "value": "Coordinar directo",
+        "note": "Llamar si se necesita limpieza en Praia."
+      },
+      {
+        "label": "Golf cart Hacienda Pinilla (Paulina Suárez)",
+        "value": "+506 8483 6903",
+        "note": "Sea Scape Rentals"
+      },
+      {
+        "label": "Correo Qbo Skyhomes",
+        "value": "recepcion@condominioqbo.com"
+      }
+    ],
+    "faqs": [
+      {
+        "q": "¿Puedo hacer early check in?",
+        "a": "Si el apartamento está disponible, no hay problema aunque sea temprano. Si hay huéspedes, se le explica que se debe limpiar una vez que salen, pero puede dejar las maletas en el apartamento mientras se limpia, y se le avisa cuando puede ingresar."
+      },
+      {
+        "q": "¿Puedo hacer late check out?",
+        "a": "De ser posible se les deja salir MÁXIMO a las 12pm. Si requieren más tiempo, se les indica que podemos guardar las maletas en bodega hasta máximo las 4pm, y que pueden quedarse en áreas comunes; la llave debe entregarse en recepción a la hora acordada. (Coordinar con limpieza para que guarden las maletas)."
+      },
+      {
+        "q": "Reporte de algún daño en el apartamento",
+        "a": "Solicitar fotografías de lo reportado. Si es de limpieza, coordinar con el equipo de limpieza. Si es aire acondicionado o falla general, indicar al huésped que se va a coordinar con mantenimiento — y reportármelo a mí directamente para coordinarlo."
+      },
+      {
+        "q": "Recomendaciones de actividades o restaurantes",
+        "a": "En la pestaña NEIGHBORHOOD están las recomendaciones de restaurantes de la zona. Solo enviar o modificar de ser necesario."
+      },
+      {
+        "q": "Visitas",
+        "a": "En ninguna propiedad se permiten visitas adicionales a las personas registradas en la reserva."
+      }
+    ]
+  },
+  "masterTable": [
+    {
+      "property": "Urban Escalante",
+      "unit": "Mountain City View 2307",
+      "pax": "6",
+      "parqueo": "S2P34",
+      "forms": "SI",
+      "correo": "NO",
+      "whatsapp": "NO",
+      "app": "NO",
+      "propertyId": "urban-escalante"
+    },
+    {
+      "property": "Urban Escalante",
+      "unit": "Gourmet Terrace 1208B",
+      "pax": "4",
+      "parqueo": "N5P22",
+      "forms": "SI",
+      "correo": "NO",
+      "whatsapp": "NO",
+      "app": "NO",
+      "propertyId": "urban-escalante"
+    },
+    {
+      "property": "Urban Escalante",
+      "unit": "Vistas de Volcanes 1411",
+      "pax": "6",
+      "parqueo": "N4P25",
+      "forms": "SI",
+      "correo": "NO",
+      "whatsapp": "NO",
+      "app": "NO",
+      "propertyId": "urban-escalante"
+    },
+    {
+      "property": "Qbo Skyhomes",
+      "unit": "1422",
+      "pax": "4",
+      "parqueo": "Parqueo 304",
+      "forms": "NO",
+      "correo": "recepcion@condominioqbo.com",
+      "whatsapp": "NO",
+      "app": "NO",
+      "propertyId": "qbo"
+    },
+    {
+      "property": "Hermosa Palms",
+      "unit": "23A",
+      "pax": "8",
+      "parqueo": "2 parqueos o dejar afuera todo bien",
+      "forms": "NO",
+      "correo": "NO",
+      "whatsapp": "SI",
+      "app": "NO",
+      "propertyId": "hermosa-palms"
+    },
+    {
+      "property": "Hermosa Palms",
+      "unit": "23B",
+      "pax": "8",
+      "parqueo": "2 parqueos o dejar afuera todo bien",
+      "forms": "NO",
+      "correo": "NO",
+      "whatsapp": "SI",
+      "app": "NO",
+      "propertyId": "hermosa-palms"
+    },
+    {
+      "property": "Casa Praia",
+      "unit": "37-38-40-41-42-43",
+      "pax": "8",
+      "parqueo": "1 parqueo y visitas",
+      "forms": "NO",
+      "correo": "NO",
+      "whatsapp": "SI",
+      "app": "NO",
+      "propertyId": "praia"
+    },
+    {
+      "property": "Casa Mística",
+      "unit": "Barca 5",
+      "pax": "8",
+      "parqueo": "2 parqueos y visitas",
+      "forms": "NO",
+      "correo": "NO",
+      "whatsapp": "SI",
+      "app": "SI (ADITUM)",
+      "propertyId": "casa-mistica"
+    },
+    {
+      "property": "Arenas",
+      "unit": "Casa Celeste",
+      "pax": "5",
+      "parqueo": "2 parqueos o dejar afuera todo bien",
+      "forms": "SI",
+      "correo": "NO",
+      "whatsapp": "—",
+      "app": "SI (TREA)",
+      "propertyId": "arenas"
+    },
+    {
+      "property": "Villa Verde",
+      "unit": "Casa Oasis (# casa 1-2-3-3)",
+      "pax": "5",
+      "parqueo": "2 parqueos o dejar afuera todo bien",
+      "forms": "NO",
+      "correo": "NO",
+      "whatsapp": "SI",
+      "app": "SI (ADITUM)",
+      "propertyId": "villa-verde"
+    },
+    {
+      "property": "Nosara Estates",
+      "unit": "Casa Levita",
+      "pax": "8",
+      "parqueo": "3-4 parqueos",
+      "forms": "No",
+      "correo": "NO",
+      "whatsapp": "NO",
+      "app": "NO",
+      "propertyId": "nosara-estates"
+    },
+    {
+      "property": "Del Roble Refuge",
+      "unit": "Hacienda Pinilla — Palma Real (LPR 241)",
+      "pax": "10",
+      "parqueo": "2 parqueos",
+      "forms": "No",
+      "correo": "NO",
+      "whatsapp": "NO",
+      "app": "SI (HAC)",
+      "propertyId": "del-roble"
+    },
+    {
+      "property": "Malinches",
+      "unit": "Hacienda Pinilla — Casa Malinches",
+      "pax": "8",
+      "parqueo": "2 parqueos",
+      "forms": "No",
+      "correo": "NO",
+      "whatsapp": "NO",
+      "app": "SI (HAC)",
+      "propertyId": "malinches"
+    },
+    {
+      "property": "Heavenly Highlands (FarmStay)",
+      "unit": "San José / Santa Ana",
+      "pax": "6",
+      "parqueo": "—",
+      "forms": "—",
+      "correo": "—",
+      "whatsapp": "—",
+      "app": "—",
+      "propertyId": "farmstay"
+    }
+  ],
+  "properties": [
+    {
+      "id": "urban-escalante",
+      "group": "sanjose",
+      "name": "Urban Escalante",
+      "zone": "San José · Barrio Escalante",
+      "owner": "Varo & Michi",
+      "quickInfo": [
+        [
+          "Check in",
+          "3:00 PM"
+        ],
+        [
+          "Check out",
+          "11:00 AM"
+        ],
+        [
+          "Correo recepción",
+          "NO"
+        ],
+        [
+          "WhatsApp caseta",
+          "NO"
+        ],
+        [
+          "Ingreso app",
+          "NO"
+        ]
+      ],
+      "units": [
+        {
+          "id": "u2307",
+          "name": "Mountain City View",
+          "num": "2307",
+          "pax": "6",
+          "parqueo": "S2P34",
+          "forms": "SI",
+          "correo": "NO",
+          "whatsapp": "NO",
+          "app": "NO"
+        },
+        {
+          "id": "u1208b",
+          "name": "Gourmet Terrace",
+          "num": "1208B",
+          "pax": "4",
+          "parqueo": "N5P22",
+          "forms": "SI",
+          "correo": "NO",
+          "whatsapp": "NO",
+          "app": "NO"
+        },
+        {
+          "id": "u1411",
+          "name": "Vistas de Volcanes",
+          "num": "1411",
+          "pax": "6",
+          "parqueo": "N4P25",
+          "forms": "SI",
+          "correo": "NO",
+          "whatsapp": "NO",
+          "app": "NO"
+        }
+      ],
+      "rules": [
+        "POOL: 5AM–9PM (cerrado por mantenimiento lun/mié/vie 3–4PM). Piso 7.",
+        "GYM: 3:30AM–10:30PM (cerrado limpieza 11AM–12MD). Piso 7.",
+        "COWORKING, YOGA ROOM & LOUNGE: 8AM–11PM. Piso 29.",
+        "ÁREAS COMUNES, ROOFTOP, TV ROOM, TERRACE: 8AM–11PM. Piso 29. (Reserva de salas sujeta a disponibilidad)"
+      ],
+      "messages": [
+        {
+          "id": "urban-checkin",
+          "title": "Check In",
+          "body": "Hello again [guest first name]. Your arrival It's almost here! Here you have some important instructions.\n\nWe want you to feel at home and enjoy your stay in this space designed for you! It's important to mention that this apartment is a home, please treat it as you would treat your friend or family's space, we would really appreciate if you can review our house rules by accessing this link: https://www.dropbox.com/s/9z69jm67eorgboj/Moutain%26City_House%20Rules.pdf?dl=0\n\n[check-in method]\n\nWe have left some items in the kitchen for your convenience: Costa Rican coffee, black pepper, olive oil, salt and other spices.\n\nThe following common areas are open to public, alcohol or drugs are not allowed.\n\nCOMMON AREAS SCHEDULE:\n- POOL: 5AM - 9PM (Closed for maintenance: MON, WED & FRI from 3PM to 4PM). Located on the 7th floor.\n- GYM: 3:30AM - 10:30PM (Closed for cleaning from 11AM to 12MD). Located on the 7th floor.\n- COWORKING, YOGA ROOM & LOUNGE: 8AM to 11PM. Located on the 29th floor.\n- COMMON AREAS, ROOFTOP, TV ROOM, TERRACE: 8AM to 11PM. Located on the 29th floor. (Meeting rooms reservation needed, subject to availability)\n\nWe kindly request you take care of the sheet bedding and towels, be careful about stain or damage them, we are home not a hotel.\n\nWifi Name: [wifi name]\nPassword: [wifi password]\n\nWe hope you feel at home in this beautiful space, and if anything is missing, please don't hesitate to reach out to our team to ask! Messaging us through Airbnb is always the best option.\n\nThank you, have a good stay.\nVaro & Michi"
+        },
+        {
+          "id": "urban-checkout",
+          "title": "Check Out",
+          "body": "Hello [guest first name], we sincerely hope you had an amazing time during your stay at [listing name]. We wanted to take a moment to express our gratitude and remind you that check-out is today at [checkout time].\n\nWhen you're ready to leave, kindly drop off the keys along with the access card at the lobby. Before you go, please double-check that all windows, doors, and faucets are securely closed, and that all lights and electronic devices are switched off.\n\nWe want to make sure that you didn't leave anything behind, so we'll be conducting a thorough inspection of the unit.\n\nIf you ever plan to return to the area, please don't hesitate to reach out to us. We would be absolutely thrilled to have the opportunity to host you again.\n\nHave an absolutely fantastic day!\n\nWarm regards,\nVaro & Michi"
+        },
+        {
+          "id": "urban-welcome",
+          "title": "Welcome Message",
+          "body": "Hi [guest first name]\n\nThank you so much for choosing our place among many options. We are very happy that you are staying with us in our place [listing name]\n\nPrior arriving to the building, we will need the following information from you and all your guests:\n- First and last name\n- ID/Passport Number\n- Email address of the main guest\n- Parking space needed: YES/NO\n\nThis information is mandatory, at your check in the concierge will ask for your passport for this information.\n\nPlease let us know if you will need parking prior your check in and we will have that set up for you, as well if you need any recommendations for eating, drinking or touring. We will send more details the day prior to your arrival.\n\nHOW TO GET THERE?\nIt is very simple to get to the building. You can search on Google Maps or Waze for \"URBN Escalante\" and you will have the address displayed. Otherwise, let your taxi or transportation driver know that you are going 200mts south of Parque Francia in Barrio Escalante, San Jose.\n\nMake sure you CHECK IN FIRST, and then they will give you parking instructions. We will be sending you more details the day prior your check in date and will send you a confirmation email. Have a nice day! We hope to see you soon.\n\nHave a safe trip.\nVaro and Michi, your hosts."
+        }
+      ]
+    },
+    {
+      "id": "qbo",
+      "group": "sanjose",
+      "name": "Qbo Skyhomes",
+      "zone": "San José · Rohrmoser",
+      "owner": "Varo & Michi",
+      "quickInfo": [
+        [
+          "Check in",
+          "3:00 PM"
+        ],
+        [
+          "Check out",
+          "11:00 AM"
+        ],
+        [
+          "Correo recepción",
+          "recepcion@condominioqbo.com"
+        ],
+        [
+          "WhatsApp caseta",
+          "NO"
+        ],
+        [
+          "Ingreso app",
+          "NO"
+        ]
+      ],
+      "units": [
+        {
+          "id": "u1422",
+          "name": "Apartamento",
+          "num": "1422",
+          "pax": "4",
+          "parqueo": "304",
+          "forms": "NO",
+          "correo": "recepcion@condominioqbo.com",
+          "whatsapp": "NO",
+          "app": "NO"
+        }
+      ],
+      "rules": [
+        "Contrast Jacuzzis (piso 2): 5AM–10PM. Cerrado lun 9AM–1PM y vie 10AM–12PM.",
+        "Piscina Semi-Olímpica: 5AM–10PM. Mismos cierres por mantenimiento.",
+        "GYM (pesas piso 2, cardio piso 15): 5AM–10PM.",
+        "Sauna y Spa: 7AM–10PM. Reserva por nosotros (sujeto a disponibilidad).",
+        "Sala de masajes: 7AM–10PM. Reserva por nosotros (sujeto a disponibilidad).",
+        "Co-Working: 7AM–12PM. Máximo 2h por reserva; reserva por nosotros.",
+        "Jacuzzi (piso 15): 7AM–10PM. Horas de burbujas lun–vie 10–12 / 2–4 / 6–10PM; sáb–dom 7AM–10PM.",
+        "Daño a áreas comunes: penalidad a cargo del huésped. No fumar ni alcohol.",
+        "Daño a blancos: $35 por artículo dañado."
+      ],
+      "correoTemplate": {
+        "id": "qbo-correo",
+        "title": "Correo diario a recepción (huéspedes del día)",
+        "body": "Buenos dias, Adjunto la información de los huéspedes de hoy:\n\nhuesped principal:\n[nombre huésped principal]\n\nhuéspedes en total:\n[cantidad] personas\n\nfecha: [fechas de estadía]\n\nParqueo [número]\n\nGracias, saludos."
+      },
+      "messages": [
+        {
+          "id": "qbo-checkin",
+          "title": "Check In",
+          "body": "Hello again, [guest first name]\n\nYour arrival is almost here!\n\nWe want you to feel at home and enjoy your stay in this space designed for you! It's important to mention that this apartment is a home, so please treat it as you would treat your friend or family's space.\n\nWhen you arrive at Q-Bo Skyhomes, you can park in front of the building. Enter and let the concierge know that you are staying in apartment 1422. They will give you access to the apartment, you will find the access card and the key at the apartment, so please take good care of them.\n\nParking Spot:\nIf you requested a parking spot, after you check in and have your access card, you can park your car. Parking is located at the back of the building (North), on the 3rd floor (306). Once you are parked, you can take the elevator by the ramp, press 1 (first floor), and head to the elevators by the lobby. With your card in hand, place it on the black access box and press 14.\n\nWe have left some items in the kitchen for your convenience: Costa Rican coffee, black pepper, olive oil, salt, and other spices.\n\nWe appreciate if you can review our house rules.\n\nCOMMON AREAS SCHEDULE:\nContrast Jacuzzis (Floor 2): Open Monday to Sunday from 5:00 a.m. to 10:00 p.m. Closed for maintenance on Mondays from 9 a.m. to 1 p.m. and Fridays from 10 a.m. to 12 p.m.\nSemi-Olympic Pool: Open Monday to Sunday from 5:00 a.m. to 10:00 p.m. Closed for maintenance on Mondays from 9 a.m. to 1 p.m. and Fridays from 10 a.m. to 12 p.m.\nGYM (Weights on Floor 2, Cardio on Floor 15): Open Monday to Sunday from 5:00 a.m. to 10:00 p.m.\nSauna and Spa: Open Monday to Sunday from 7:00 a.m. to 10:00 p.m. Reservations are made through us (subject to availability).\nMassage Room: Open Monday to Sunday from 7:00 a.m. to 10:00 p.m. Reservations are made through us (subject to availability).\nCo-Working: Open Monday to Sunday from 7:00 a.m. to 12:00 p.m. The maximum reservation time for rooms is 2 hours. Reservations are made through us (subject to availability).\nJacuzzi (Floor 15): Open Monday to Sunday from 7:00 a.m. to 10:00 p.m. Bubble hours are Monday-Friday: 10:00 a.m. to 12:00 p.m. / 2:00 p.m. to 4:00 p.m. / 6:00 p.m. to 10:00 p.m.; Saturdays and Sundays: 7:00 a.m. to 10:00 p.m.\n\nPlease note that any damage to the areas will result in a penalty fee for repairs that the guest must cover. Smoking and alcohol consumption are not allowed.\n\nWe kindly request you take care of the bedding and towels. Be careful not to stain or damage them, as this is a home, not a hotel. If any damage is detected, a fee of $35 per damaged item will be charged.\n\nAfter your check-out, we will inspect the apartment. If any items are damaged, stained, or lost, we'll inform you and proceed with a charge if applicable.\n\nWifi Name: [wifi name]\nPassword: [wifi password]\n\nWe hope you feel at home in this beautiful space, and if anything is missing, please don't hesitate to reach out to our team to ask!\n\nMessaging us through Airbnb is always the best option.\n\nThank you, and have a good stay.\nVaro & Michi"
+        },
+        {
+          "id": "qbo-checkout",
+          "title": "Check Out",
+          "body": "Hello [guest first name], we sincerely hope you had an amazing time during your stay at [listing name]. We wanted to take a moment to express our gratitude and remind you that check-out is today at [checkout time].\n\nWhen you're ready to leave, kindly drop off the keys along with the access card at the apartment. Before you go, please double-check that all windows, doors, and faucets are securely closed, and that all lights and electronic devices are switched off.\n\nWe want to make sure that you didn't leave anything behind, so we'll be conducting a thorough inspection of the unit.\n\nWe kindly ask you to consider leaving us a review. Your feedback means the world to us and helps us maintain the high-quality service we strive for.\n\nIf you ever plan to return to the area, please don't hesitate to reach out to us. We would be absolutely thrilled to have the opportunity to host you again.\n\nHave an absolutely fantastic day!\n\nWarm regards,\nVaro & Michi"
+        },
+        {
+          "id": "qbo-welcome",
+          "title": "Welcome Message",
+          "body": "Hi [guest first name]\n\nThank you so much for choosing our place among many options. We're thrilled to have you stay with us at Skyhome Mountain & Park Views!\n\nBefore your arrival, we'll need a few details from you and your guests:\nFirst and last name\nID/Passport number\nEmail address of the main guest\nParking space needed: YES/NO\n\nThis information is required, and our concierge will ask for your passports at check-in to verify these details.\n\nIf you need parking, please let us know before your check-in so we can have everything ready for you. We're also happy to provide recommendations for places to eat, drink, or visit, so don't hesitate to ask!\n\nHOW TO GET THERE?\nGetting to the building is easy. Just search for \"Q-Bo Skyhomes\" on Google Maps or Waze to find the exact address. If you're using a taxi or transportation service, you can tell them that you're going to the building in front of Parque del Café in Rohrmoser, San José.\n\nWe'll send you more details the day before your check-in and a confirmation email. Have a great day, and we look forward to welcoming you soon!\n\nSafe travels,\nVaro and Michi, your hosts"
+        }
+      ]
+    },
+    {
+      "id": "hermosa-palms",
+      "group": "playa",
+      "name": "Hermosa Palms",
+      "zone": "Jacó · Playa Hermosa",
+      "owner": "Gustavo y Bruno",
+      "quickInfo": [
+        [
+          "Check in",
+          "3:00 PM"
+        ],
+        [
+          "Check out",
+          "11:00 AM"
+        ],
+        [
+          "Early check in",
+          "Dejar maletas desde 12PM (no pueden entrar a la casa)"
+        ],
+        [
+          "Beach club",
+          "8AM–10PM (no todas las casas tienen acceso, hay restaurante y spa)"
+        ],
+        [
+          "Puertas",
+          "Llave física (candado en la entrada)"
+        ],
+        [
+          "TV",
+          "Streaming, sin cable"
+        ],
+        [
+          "Parqueos",
+          "2 vehículos"
+        ],
+        [
+          "Mascotas",
+          "Solo de servicio"
+        ],
+        [
+          "Visitantes",
+          "Solo estadías +5 días y con identificación"
+        ],
+        [
+          "Check in interno",
+          "Enviar mensaje con datos de huéspedes, fechas y # casa antes de las 11AM"
+        ],
+        [
+          "Parrilla",
+          "No hay, cocina totalmente equipada"
+        ]
+      ],
+      "publicInfo": {
+        "amenities": [
+          "WiFi",
+          "A/C",
+          "Cocina equipada",
+          "Piscina",
+          "Parqueo gratis",
+          "TV",
+          "Cafetera",
+          "Agua caliente",
+          "Acceso a la playa",
+          "BBQ grill",
+          "Secadora de pelo",
+          "Jacuzzi (23A)"
+        ],
+        "nearby": [
+          "10 min — Mini Market Calle Hermosa",
+          "15 min — Farmacia",
+          "15 min — Royal Butterflies",
+          "15 min — The Park at Ocean Ranch",
+          "15 min — Jacó",
+          "2 h — Aeropuerto Internacional Juan Santamaría"
+        ],
+        "rules": [
+          "El acceso al Beach Club está incluido con la tarjeta de afiliado; reponerla cuesta $50 si se pierde.",
+          "Respetar las reglas de la piscina (es de uso del condominio).",
+          "No se permite recibir visitas por política del condominio.",
+          "Prohibido colgar ropa o toallas visibles desde la zona de piscina.",
+          "Volumen moderado después de las 10:00 pm.",
+          "No fumar dentro de la casa (aplica cargo de limpieza y posibles penalidades).",
+          "No mover el mobiliario de lugar.",
+          "No se permiten fiestas ni eventos.",
+          "Mascotas a discreción del anfitrión; no pueden subirse a camas ni sofás.",
+          "Capacidad máxima 6-8 personas según la unidad; todos los huéspedes deben estar identificados.",
+          "Solo puede ingresar antes del check-in la gente pre-registrada.",
+          "Uso de drogas ilegales: se reporta a las autoridades y se pide desalojar."
+        ]
+      },
+      "units": [
+        {
+          "id": "u23a",
+          "name": "Casa 23A",
+          "num": "23A",
+          "pax": "6",
+          "parqueo": "2 parqueos o dejar afuera todo bien",
+          "accessCode": "Código de caja: #1991",
+          "forms": "NO",
+          "correo": "NO",
+          "whatsapp": "SI",
+          "app": "NO",
+          "listing": {
+            "title": "Hermosa Palms Breeze & Beach Club",
+            "url": "https://zafiropm.hostify.club/listing/400017387",
+            "guests": 8,
+            "bedrooms": 3,
+            "beds": 5,
+            "bathrooms": 2,
+            "description": "Dúplex en comunidad cerrada frente al mar. Sala, cocina equipada, comedor exterior, bar, 2 baños completos, terraza en la azotea y 3 habitaciones. Parqueo para 3 vehículos, jardín trasero y acceso al Beach Club con spa, restaurante, bar y cafetería.",
+            "images": [
+              "https://img.hostify.com/400000158/property/1f457b222695fd78a6a5a827e8a0363b-lg.jpg",
+              "https://img.hostify.com/400000158/property/0516210dfb86d01bd7b0cd5e8a8f5024-lg.jpg",
+              "https://img.hostify.com/400000158/property/032c92a01fa55b2c1ba5a71c2944f367-lg.jpg",
+              "https://img.hostify.com/400000158/property/d9392fb064c2d52285cd0d5585ee8a44-lg.jpg",
+              "https://img.hostify.com/400000158/property/4adb9a5afb2bf23527326420859ca97e-lg.jpg"
+            ]
+          },
+          "rooms": [
+            "Habitación 1: Cama king",
+            "Habitación 2: Cama king",
+            "Habitación 3: 2 camas individuales",
+            "2 baños separados de las habitaciones"
+          ],
+          "extra": [
+            [
+              "Distribución",
+              "3 habitaciones, 4 camas, 2 baños"
+            ],
+            [
+              "Internet 1er piso",
+              "ITALMEX / chupichingon"
+            ],
+            [
+              "Internet 2do piso",
+              "ITALMEX 2D / chupichingonup"
+            ],
+            [
+              "Piscina",
+              "9AM–9PM"
+            ]
+          ],
+          "checkin": {
+            "id": "23a-checkin",
+            "title": "Check In Casa 23A",
+            "body": "Hello.\nYour arrival is just around the corner and we want to make sure it goes as smoothly as possible. If you have not yet provided the information requested in the previous message, please do so, as without it, entry will not be possible.\n\nArrival links:\nWaze: https://waze.com/ul/hd1ey7k83b\nGoogle Maps: https://goo.gl/maps/wocaUdp4KHJrEZzm7\n\nArrival and departure instructions:\nPlease provide the vehicle registration number, full names and identification documents of all guests of legal age to enter the main entrance of the condominium.\n\nEntrance to the house:\nAt the main entrance, you will check in with the security staff, identifying yourself and your visitors. Ask the guard to direct you to house #23A. Once there, use the safe box at the main door to access the keys (code: #1991).\n\nGeneral information\n\nFirst-floor Internet:\nUsername: ITALMEX\nPassword: chupichingon\n\nSecond-floor Internet:\nUsername: ITALMEX 2D\nPassword: chupichingonup\n\nPool access:\nThe condo facilities, including the pool, are available for guest use from 9 a.m. to 9 p.m.\n\nMod cons:\nFree use of gas barbecue and access to beach club. Please note that charges may apply for any repairs or losses.\n\nHouse Rules:\n*Access to the Beach Club is included; A replacement card costs $50 if lost.\n* Respect the pool rules to avoid interruptions.\n*Visitors are not allowed due to condominium policies.\n* Avoid drying clothes visible from the pool area.\n*Glass objects are not allowed in the pool area.\n*Moderate noise after 10:00 p.m.\n* Smoking prohibited inside; Fees and penalties apply.\n* Clean and wash kitchen utensils after using them.\n* DO NOT rearrange furniture.\n* Parties or events are not allowed.\n*Pets allowed at our discretion; an additional charge applies.\n*Guests must be identified; The accommodation capacity is 6 people.\n*Visitors or additional people beyond the reservation are not allowed.\n* The consumption of illegal drugs is not allowed.\n*In case of loss of the access card, a replacement fee of $35 will be applied. If the towels or cloths become irreversibly stained, a charge of $40 will also be applied.\n* Lastly, as this is an Airbnb community and a private family home, please respect and keep the property clean before departure.\n\nWe look forward to your stay!\n\nKind regards,\nZafiro Property Managment"
+          }
+        },
+        {
+          "id": "u23b",
+          "name": "Casa 23B",
+          "num": "23B",
+          "pax": "8",
+          "parqueo": "2 parqueos o dejar afuera todo bien",
+          "accessCode": "Código de caja: 3287",
+          "forms": "NO",
+          "correo": "NO",
+          "whatsapp": "SI",
+          "app": "NO",
+          "listing": {
+            "title": "Hermosa Palms Refuge Beach Front Club House",
+            "url": "https://zafiropm.hostify.club/listing/400013842",
+            "guests": 6,
+            "bedrooms": 3,
+            "beds": 4,
+            "bathrooms": 2,
+            "description": "Casa \"Refugio Hermosa\" dentro del Refugio Nacional de Vida Silvestre Playa Hermosa. Habitación principal con cama king, segunda habitación con cama king y balcón, tercera con dos camas individuales. Sala y cocina de concepto abierto, terraza para comer entre la naturaleza, y acceso al Beach Club con piscina vista al mar y restaurante.",
+            "images": [
+              "https://img.hostify.com/400000158/property/29ecd8f305461b8437ab2d85ce826c88-lg.jpg",
+              "https://img.hostify.com/400000158/property/a3c33b5f63319b034d25ed210839b6a4-lg.jpg",
+              "https://img.hostify.com/400000158/property/9f61d33c2a578b7a314d95f75713bd47-lg.jpg",
+              "https://img.hostify.com/400000158/property/ce0d5b90e907e3f9f6d7979cb6b58850-lg.jpg",
+              "https://img.hostify.com/400000158/property/922e9a4ea8aaf892b72b873df633e8d8-lg.jpg"
+            ]
+          },
+          "rooms": [
+            "Habitación 1: Cama king",
+            "Habitación 2: Cama queen, 1 cama individual",
+            "Habitación 3: Cama queen, 1 cama individual",
+            "2 baños separados de las habitaciones"
+          ],
+          "extra": [
+            [
+              "Distribución",
+              "3 habitaciones, 5 camas, 2 baños"
+            ],
+            [
+              "Internet",
+              "CASA 23 / Casahermosa23"
+            ],
+            [
+              "Piscina",
+              "8AM–10PM"
+            ]
+          ],
+          "checkin": {
+            "id": "23b-checkin",
+            "title": "Check In Casa 23B",
+            "body": "Hello\nYour arrival is just around the corner and we want to make sure it goes as smoothly as possible. If you have not yet provided the information requested in the previous message, please do so, as without it, entry will not be possible.\n\nArrival links:\nWaze: https://waze.com/ul/hd1ey7k83b\nGoogle Maps: https://goo.gl/maps/wocaUdp4KHJrEZzm7\n\nArrival and departure instructions:\nPlease provide the vehicle registration number, full names and identification documents of all guests of legal age to enter the main entrance of the condominium.\n\nEntrance to the house:\nAt the main entrance, guests will check in with security staff, identifying themselves and their visitors. Ask the guard to tell you how to get to house #23B. Once there, use the safe at the front door to access the keys (code: 3287).\n\nGeneral information\n\nInternet:\nUser: CASA 23\nPassword: Casahermosa23\n\nPool access:\nThe condo facilities, including the pool, are available for guest use from 8 am to 10 pm\n\nMod cons:\nFree use of gas barbecue and access to beach club. Please note that charges may apply for any repairs or losses.\n\nHouse Rules:\n*Access to the Beach Club is included; A replacement card costs $50 if lost.\n* Respect the pool rules to avoid interruptions.\n*Visitors are not allowed due to condominium policies.\n* Avoid drying clothes visible from the pool area.\n*Glass objects are not allowed in the pool area.\n*Moderate noise after 10:00 p.m.\n* Smoking prohibited inside; Fees and penalties apply.\n* Clean and wash kitchen utensils after using them.\n* DO NOT rearrange furniture.\n* Parties or events are not allowed.\n*Pets allowed at our discretion; an additional charge applies.\n*Guests must be identified; The accommodation capacity is 6 people.\n*Visitors or additional people beyond the reservation are not allowed.\n* The consumption of illegal drugs is not allowed.\n*In case of loss of the access card, a replacement fee of $35 will be applied. If the towels or cloths become irreversibly stained, a charge of $40 will also be applied.\n* Lastly, as this is an Airbnb community and a private family home, please respect and keep the property clean before departure.\n\nWe look forward to your stay!\n\nKind regards,\nZafiro Property Managment"
+          }
+        }
+      ]
+    },
+    {
+      "id": "del-roble",
+      "group": "playa",
+      "name": "Del Roble Refuge",
+      "zone": "Guanacaste · Hacienda Pinilla (Lagos de Palma Real)",
+      "owner": "Melissa Marie",
+      "quickInfo": [
+        [
+          "Check in",
+          "3:00 PM"
+        ],
+        [
+          "Check out",
+          "11:00 AM"
+        ],
+        [
+          "Early check in",
+          "Dejar maletas desde 12PM (no pueden entrar a la casa)"
+        ],
+        [
+          "Beach club",
+          "Sí tiene"
+        ],
+        [
+          "Puertas",
+          "Llave física (candado en la entrada)"
+        ],
+        [
+          "TV",
+          "Streaming, sin cable"
+        ],
+        [
+          "Parqueos",
+          "2 vehículos + visitas"
+        ],
+        [
+          "Mascotas",
+          "$50/día, no en estadías de 5 días"
+        ],
+        [
+          "Visitantes",
+          "Solo estadías +5 días y con identificación"
+        ],
+        [
+          "Check in interno",
+          "App HAC, enviar QR para ingresar"
+        ],
+        [
+          "Parrilla",
+          "Sí hay"
+        ],
+        [
+          "Limpieza",
+          "LPR 241"
+        ]
+      ],
+      "publicInfo": {
+        "amenities": [
+          "WiFi",
+          "A/C",
+          "Piscina",
+          "Jacuzzi",
+          "Cocina equipada",
+          "Parqueo gratis",
+          "Cancha de golf",
+          "Tenis",
+          "Concierge",
+          "TV cable",
+          "Caja fuerte",
+          "Comunidad cerrada",
+          "Bicicletas"
+        ],
+        "rules": [
+          "Respetar los horarios de check-in / check-out salvo acuerdo previo.",
+          "No se permiten fiestas ni eventos.",
+          "No exceder el máximo de ocupación.",
+          "Silencio después de las 10:00 pm.",
+          "No fumar dentro de la propiedad.",
+          "Mascotas solo con aprobación previa.",
+          "Cuidar la casa como si fuera propia; reportar cualquier daño de inmediato.",
+          "Seguir todas las reglas del residencial Hacienda Pinilla durante la estadía."
+        ]
+      },
+      "units": [
+        {
+          "id": "roble-241",
+          "name": "Unidad",
+          "num": "LPR 241",
+          "pax": "10",
+          "parqueo": "2 parqueos",
+          "accessCode": "Código de caja: #4102",
+          "forms": "No",
+          "correo": "NO",
+          "whatsapp": "NO",
+          "app": "SI (HAC)",
+          "listing": {
+            "title": "Del Roble Refuge, Hacienda Pinilla, Beach House",
+            "url": "https://zafiropm.hostify.club/listing/400035799",
+            "guests": 10,
+            "bedrooms": 3,
+            "beds": 5,
+            "bathrooms": 4.5,
+            "description": "Villa de estilo español dentro de Hacienda Pinilla, con habitaciones amplias cada una con baño privado. Vive de forma indoor-outdoor con acceso a Beach Club, cancha de golf, canchas de tenis y senderos para bicicleta dentro de más de 4,500 acres de terreno preservado.",
+            "images": [
+              "https://img.hostify.com/400000158/property/7eb119ea7d1b7b0d2348fc2b927f211f-lg.jpg",
+              "https://img.hostify.com/400000158/property/897ace8bc9633a82ccc67fec842f9c68-lg.jpg",
+              "https://img.hostify.com/400000158/property/f3930fc9a8e974ebae13de1b07d9d6ac-lg.jpg",
+              "https://img.hostify.com/400000158/property/985ae3932a79d5c18712726fbd7c96fd-lg.jpg",
+              "https://img.hostify.com/400000158/property/9836f1d27642fb12d1d1f7ddf0b64cee-lg.jpg"
+            ]
+          },
+          "rooms": [
+            "Habitación 1: Cama king",
+            "Habitación 2: Cama queen, 1 individual",
+            "Habitación 3: Cama queen, 1 individual",
+            "3.5 baños"
+          ],
+          "extra": [
+            [
+              "Distribución",
+              "3 habitaciones, 5 camas, 3.5 baños"
+            ],
+            [
+              "Internet",
+              "LPR 241 / PinillaLagos241"
+            ],
+            [
+              "Piscina",
+              "8AM–9PM"
+            ]
+          ]
+        }
+      ],
+      "messages": [
+        {
+          "id": "roble-checkin",
+          "title": "Check In",
+          "body": "Hello!\nYour arrival day is here and we want to make sure it goes as smoothly as possible. If you have not yet provided the information requested in the previous message, please do so, as without it, entry will not be possible.\n\nArrival links:\nWaze: Hacienda Pinilla (MAIN ENTRANCE) - https://waze.com/ul/hd1ffrq5b7\nLagos de palma Real (ONCE YOU ARE INSIDE HACIENDA PINILLA) - https://waze.com/ul/hd1ffqd1cv\nGoogle Maps: https://goo.gl/maps/wocaUdp4KHJrEZzm7\n\nEntrance to the house:\nAt the main entrance, you will check in with the security staff, identifying yourself and your visitors. Ask the guard to direct you to house #42 In Lagos de Palma Real. Once there, use the safe box at the main door to access the keys (code: #4102).\n\nGeneral information\n\nInternet:\nUsername: LPR 241\nPassword: PinillaLagos241\n\nPool access:\nThe condo facilities, including the pool, are available for guest use from 8 a.m. to 9 p.m.\n\nHouse Rules:\n* Respect the pool rules to avoid interruptions.\n*Visitors are not allowed due to condominium policies.\n*Glass objects are not allowed in the pool area.\n*Moderate noise after 10:00 p.m.\n* Smoking prohibited inside; Fees and penalties apply.\n* Clean and wash kitchen utensils after using them.\n* DO NOT rearrange furniture.\n* Parties or events are not allowed.\n*Pets allowed at our discretion; an additional charge applies.\n*Guests must be identified before the arrival so authorization can be sent to security.\n* The consumption of illegal drugs is not allowed.\nIf the towels or cloths become irreversibly stained, a charge of $40 will also be applied.\n* Lastly, as this is an Airbnb community and a private family home, please respect and keep the property clean before departure.\n\nBeach access:\nYou have full access to all the beaches inside Hacienda Pinilla. The beaches closer to the House are called Playa Mansita and Playa Langosta, they have amazing sunsets to check out.\n\nGeneral Map inside Hacienda Pinilla:\nhttps://www.flipsnack.com/CCC967BBDC9/general-map-hacienda-pinilla/full-view.html\n\nLagos de Palma Real Map: (Your unit 241)\nhttps://www.flipsnack.com/CCC967BBDC9/palma-real-residential-map/full-view.html\n\nGolf cart information:\nWe recommend this supplier in case you need to rent a golf cart\nSea Scape Rentals (Paulina Suarez) phone number +50684836903\n\nWe look forward to your stay!\n\nKind regards,\nZafiro Property Management"
+        }
+      ]
+    },
+    {
+      "id": "casa-mistica",
+      "group": "playa",
+      "name": "Casa Mística",
+      "zone": "Jacó · Playa Hermosa (Místico)",
+      "owner": "Jose Alberto",
+      "quickInfo": [
+        [
+          "Check in",
+          "3:00 PM"
+        ],
+        [
+          "Check out",
+          "11:00 AM"
+        ],
+        [
+          "Early check in",
+          "Dejar maletas desde 12PM (no pueden entrar a la casa)"
+        ],
+        [
+          "Beach club",
+          "No tiene, hay café cerca de las caballerizas"
+        ],
+        [
+          "Puertas",
+          "Llave física (la dan los guardas)"
+        ],
+        [
+          "TV",
+          "Streaming, sin cable"
+        ],
+        [
+          "Parqueos",
+          "2 vehículos + visitas"
+        ],
+        [
+          "Mascotas",
+          "No se permiten"
+        ],
+        [
+          "Visitantes",
+          "Solo estadías +5 días y con identificación"
+        ],
+        [
+          "Check in interno",
+          "Enviar mensaje con datos de huéspedes, fechas y # casa antes de las 11AM"
+        ],
+        [
+          "Parrilla",
+          "No hay, cocina totalmente equipada"
+        ]
+      ],
+      "publicInfo": {
+        "amenities": [
+          "WiFi",
+          "A/C",
+          "Piscina",
+          "Cocina equipada",
+          "Parqueo gratis",
+          "TV",
+          "Agua caliente",
+          "Vista al lago",
+          "Lavadora"
+        ],
+        "note": "La ficha pública de esta propiedad no detalla reglas de la casa; para dudas específicas usar el link de la ficha."
+      },
+      "units": [
+        {
+          "id": "barca5",
+          "name": "Barca 5",
+          "num": "Barca 5",
+          "pax": "8",
+          "parqueo": "Espacio #5 (asignado exclusivamente a Barca 5)",
+          "forms": "NO",
+          "correo": "NO",
+          "whatsapp": "SI",
+          "app": "SI (ADITUM)",
+          "listing": {
+            "title": "Mística Lakeside House (Místico)",
+            "url": "https://zafiropm.hostify.club/listing/400030821",
+            "guests": 8,
+            "bedrooms": 3,
+            "beds": 3,
+            "bathrooms": 2.5,
+            "description": "Casa dentro del residencial Místico, frente al lago. 3 habitaciones, cocina completamente equipada, piscina y vista al lago muy tranquila. A pocos minutos de Jacó y Herradura.",
+            "images": [
+              "https://img.hostify.com/400000158/property/c027856b8bec4f91f299a2a4e97dff72-lg.jpg",
+              "https://img.hostify.com/400000158/property/8f7483e2eb3743b4a3126cbe7d05e9d1-lg.jpg",
+              "https://img.hostify.com/400000158/property/ab64a3470e7c82668c64630d0b24fd77-lg.jpg",
+              "https://img.hostify.com/400000158/property/1ea877f516ca9187aea619b24ce4501a-lg.jpg",
+              "https://img.hostify.com/400000158/property/5f9d127d02e8d2a37ac79ae799e225b3-lg.jpg"
+            ]
+          },
+          "rooms": [
+            "Habitación 1: Cama queen",
+            "Habitación 2: Cama queen",
+            "Habitación 3: 1 camarote cama queen",
+            "2.5 baños separados de las habitaciones"
+          ],
+          "extra": [
+            [
+              "Distribución",
+              "3 habitaciones, 5 camas, 2.5 baños"
+            ],
+            [
+              "WiFi",
+              "TicoPassCasa5ONU / Jose2024$"
+            ]
+          ]
+        }
+      ],
+      "messages": [
+        {
+          "id": "mistica-ingreso",
+          "title": "Mensaje de Ingreso",
+          "body": "Muy buenas tardes:\n\nEsperamos sinceramente que te encuentres muy bien y que tu viaje haya sido placentero. Nos complace darte la bienvenida y brindarte las indicaciones necesarias para tu ingreso a la propiedad.\n\nAl llegar a Místico, por favor dirígete al puesto de seguridad para realizar tu registro de ingreso. Indica al oficial de seguridad que te diriges a Barca 5; él te proporcionará las llaves correspondientes.\n\nUna vez que hayas ingresado al residencial, podrás estacionar tu vehículo en el espacio de parqueo número 5, el cual está asignado exclusivamente a Barca 5.\n\nCon respecto al WIFI:\nEl usuario sería: TicoPassCasa5ONU\nLa clave: Jose2024$\n\nPor favor, no dudes en comunicarte con nosotros si surge alguna pregunta o si necesitas asistencia adicional durante tu estadía. Estamos a tu disposición para ayudarte en lo que necesites y deseamos que disfrutes al máximo tu tiempo con nosotros.\n\n¡Que tengas una excelente estadía!"
+        }
+      ]
+    },
+    {
+      "id": "praia",
+      "group": "playa",
+      "name": "Casa Praia",
+      "zone": "Jacó · The Town at Praia",
+      "owner": "Bruno Casalvolone",
+      "note": "En las guías de cada propiedad está la información de la clave y del internet.",
+      "quickInfo": [
+        [
+          "Check in",
+          "3:00 PM"
+        ],
+        [
+          "Check out",
+          "11:00 AM"
+        ],
+        [
+          "Early check in",
+          "Dejar maletas desde 12PM (no pueden entrar a la casa)"
+        ],
+        [
+          "Beach club",
+          "Sí"
+        ],
+        [
+          "Puertas",
+          "Código; si falla, candado con llave física a la par"
+        ],
+        [
+          "TV",
+          "Streaming, sin cable"
+        ],
+        [
+          "Parqueos",
+          "1 vehículo + visitas sujeto a disponibilidad"
+        ],
+        [
+          "Mascotas",
+          "Solo de servicio"
+        ],
+        [
+          "Visitantes",
+          "Solo estadías +5 días y con identificación"
+        ],
+        [
+          "Check in interno",
+          "Enviar mensaje con datos de huéspedes, fechas y # casa antes de las 11AM"
+        ],
+        [
+          "Parrilla",
+          "Llamar a Felipe si se necesita limpieza"
+        ]
+      ],
+      "publicInfo": {
+        "amenities": [
+          "WiFi",
+          "A/C",
+          "Piscina privada",
+          "Piscina infantil",
+          "Cocina equipada",
+          "Parqueo gratis",
+          "Gimnasio",
+          "BBQ",
+          "Lavadora",
+          "Secadora",
+          "TV",
+          "Workspace",
+          "Cargador EV"
+        ],
+        "rules": [
+          "Solo pueden ingresar los huéspedes registrados en la reserva; visitas no autorizadas serán rechazadas por seguridad.",
+          "Cualquier visita debe aprobarse con el anfitrión de antemano.",
+          "Horario de silencio: 10:00 pm a 7:00 am.",
+          "La piscina y zona de BBQ son exclusivas de los huéspedes registrados; supervisar niños en todo momento.",
+          "No fiestas, no música alta, no fumar dentro de la casa.",
+          "Enjuagar la arena antes de entrar a la casa o piscina.",
+          "Comunidad cerrada con seguridad 24/7 — cerrar siempre el portón principal.",
+          "Cuidar la casa como propia y reportar cualquier daño de inmediato."
+        ]
+      },
+      "units": [
+        {
+          "id": "praia43",
+          "name": "Praia 43",
+          "num": "43",
+          "pax": "8",
+          "parqueo": "1 parqueo y visitas",
+          "forms": "NO",
+          "correo": "NO",
+          "whatsapp": "SI",
+          "app": "NO",
+          "rooms": [
+            "Habitación 1 y 3: Cama king",
+            "Habitación 2: 1 cama king, 1 camarote",
+            "Baños completos separados de las habitaciones"
+          ],
+          "extra": [
+            [
+              "Distribución",
+              "3 habitaciones, 3 baños"
+            ]
+          ],
+          "listing": {
+            "title": "The Town Praia 43",
+            "url": "https://zafiropm.hostify.club/listing/400036456",
+            "guests": 8,
+            "bedrooms": 3,
+            "beds": 4,
+            "bathrooms": 3,
+            "description": "Villa de 3 habitaciones y 3 baños completos en Casa Praia, Jacó. Piscina privada, zona de BBQ y espacios abiertos que combinan diseño moderno con confort tropical. Acceso al beach club de Casa Praia con jardines, restaurante y acceso directo al mar.",
+            "images": [
+              "https://img.hostify.com/400000158/property/bc6ae54d59939c52f26cc910f4d7209c-lg.jpg",
+              "https://img.hostify.com/400000158/property/04b9f378079b320d6be213a2d26ddcb4-lg.jpg",
+              "https://img.hostify.com/400000158/property/5463bbc6dd573cd0cb17bc25c4b32ef1-lg.jpg",
+              "https://img.hostify.com/400000158/property/91c0d359db754c9dff8b4f17eda7e0de-lg.jpg",
+              "https://img.hostify.com/400000158/property/bf21c11577b3e86789589c278c17c842-lg.jpg"
+            ]
+          }
+        },
+        {
+          "id": "praia40",
+          "name": "Praia 40",
+          "num": "40",
+          "pax": "6",
+          "parqueo": "1 parqueo y visitas",
+          "forms": "NO",
+          "correo": "NO",
+          "whatsapp": "SI",
+          "app": "NO",
+          "rooms": [
+            "Habitación 1: Cama king",
+            "Habitación 2: 1 cama king, 1 camarote",
+            "2 baños completos separados de las habitaciones"
+          ],
+          "extra": [
+            [
+              "Distribución",
+              "2 habitaciones, 2.5 baños"
+            ]
+          ],
+          "listing": {
+            "title": "The Town Praia 40",
+            "url": "https://zafiropm.hostify.club/listing/400036453",
+            "guests": 6,
+            "bedrooms": 2,
+            "beds": 3,
+            "bathrooms": 2.5,
+            "description": "Casa de playa de 2 habitaciones con piscina privada, zona de BBQ y living abierto hacia el exterior. Cocina completamente equipada y acceso al beach club exclusivo de Casa Praia.",
+            "images": [
+              "https://img.hostify.com/400000158/property/dbc09f458c880412953a5e675715da76-lg.jpg",
+              "https://img.hostify.com/400000158/property/c5f8db6409f97af0a8cc2f00a2a1cc36-lg.jpg",
+              "https://img.hostify.com/400000158/property/2eed956163317799ed2bba583a0e901c-lg.jpg",
+              "https://img.hostify.com/400000158/property/ff7152f7fe7ba4e5e77dafabb6364db6-lg.jpg",
+              "https://img.hostify.com/400000158/property/d637af34b8ef04cbc4d3fbbe5fc8812f-lg.jpg"
+            ]
+          }
+        },
+        {
+          "id": "praia38",
+          "name": "Praia 38",
+          "num": "38",
+          "pax": "6",
+          "parqueo": "1 parqueo y visitas",
+          "forms": "NO",
+          "correo": "NO",
+          "whatsapp": "SI",
+          "app": "NO",
+          "rooms": [
+            "Habitación 1: Cama king",
+            "Habitación 2: 1 cama king, 1 camarote",
+            "2 baños completos separados de las habitaciones"
+          ],
+          "extra": [
+            [
+              "Distribución",
+              "2 habitaciones, 2.5 baños"
+            ]
+          ],
+          "listing": {
+            "title": "The Town Praia 38",
+            "url": "https://zafiropm.hostify.club/listing/400036454",
+            "guests": 6,
+            "bedrooms": 2,
+            "beds": 3,
+            "bathrooms": 2.5,
+            "description": "Villa tropical moderna en Casa Praia, Jacó. Piscina privada, BBQ exterior y acceso al beach club exclusivo. Cerca de restaurantes, playas de surf y parques naturales.",
+            "images": [
+              "https://img.hostify.com/400000158/property/6856b2f39844ec56586d982ef9a7b8fd-lg.jpg",
+              "https://img.hostify.com/400000158/property/2b10c1db5785b3a858a18c2ae9616df5-lg.jpg",
+              "https://img.hostify.com/400000158/property/e040d0b27d176c5bda3e031cc2b0e36f-lg.jpg",
+              "https://img.hostify.com/400000158/property/8c3607178a08da5a743e48d7cb97700b-lg.jpg",
+              "https://img.hostify.com/400000158/property/1c8ed934bdb7c85b90920f1e4902305e-lg.jpg"
+            ]
+          }
+        },
+        {
+          "id": "praia37",
+          "name": "Praia 37",
+          "num": "37",
+          "pax": "6",
+          "parqueo": "1 parqueo y visitas",
+          "forms": "NO",
+          "correo": "NO",
+          "whatsapp": "SI",
+          "app": "NO",
+          "rooms": [
+            "Habitación 1: Cama king",
+            "Habitación 2: 1 cama king, 1 camarote",
+            "2 baños completos separados de las habitaciones"
+          ],
+          "extra": [
+            [
+              "Distribución",
+              "2 habitaciones, 2.5 baños"
+            ]
+          ],
+          "listing": {
+            "title": "The Town Praia 37",
+            "url": "https://zafiropm.hostify.club/listing/400036455",
+            "guests": 6,
+            "bedrooms": 2,
+            "beds": 3,
+            "bathrooms": 2.5,
+            "description": "Villa contemporánea a pasos del mar en Casa Praia, Jacó. Piscina privada, BBQ y diseño tropical elegante. A 40 minutos del Parque Nacional Manuel Antonio.",
+            "images": [
+              "https://img.hostify.com/400000158/property/bdbe6242f79dd8b1d2a4f96dd03651d4-lg.jpg",
+              "https://img.hostify.com/400000158/property/aa44087bc53c881223beb1002f0f08bb-lg.jpg",
+              "https://img.hostify.com/400000158/property/a6cc3c872a9246818fedcb2569331a69-lg.jpg",
+              "https://img.hostify.com/400000158/property/9ae067a47abccc4aaf0c2eee5144a285-lg.jpg",
+              "https://img.hostify.com/400000158/property/19924dd33af02da18fd147a80549c461-lg.jpg"
+            ]
+          }
+        },
+        {
+          "id": "praia42",
+          "name": "Praia 42",
+          "num": "42",
+          "pax": "6",
+          "parqueo": "1 parqueo y visitas",
+          "forms": "NO",
+          "correo": "NO",
+          "whatsapp": "SI",
+          "app": "NO",
+          "rooms": [
+            "Habitación 1: Cama king",
+            "Habitación 2: 1 cama king, 1 camarote",
+            "2 baños completos separados de las habitaciones"
+          ],
+          "extra": [
+            [
+              "Distribución",
+              "2 habitaciones, 2.5 baños"
+            ]
+          ],
+          "listing": {
+            "title": "The Town Praia 42",
+            "url": "https://zafiropm.hostify.club/listing/400036451",
+            "guests": 6,
+            "bedrooms": 2,
+            "beds": 3,
+            "bathrooms": 2.5,
+            "description": "Villa luminosa de 2 habitaciones en la comunidad segura de Casa Praia, con piscina privada, BBQ y diseño tropical moderno. A 40 minutos del Parque Nacional Manuel Antonio.",
+            "images": [
+              "https://img.hostify.com/400000158/property/ca7ebcb5f28368aaa77da86eac4c3f20-lg.jpg",
+              "https://img.hostify.com/400000158/property/bb7d1cbccf8415e3c70eb5b28bad5604-lg.jpg",
+              "https://img.hostify.com/400000158/property/f4fb0b9775991e7db757ba1cd5595477-lg.jpg",
+              "https://img.hostify.com/400000158/property/f505cc9a43e3b8a7f4cd0f794ffef050-lg.jpg",
+              "https://img.hostify.com/400000158/property/81a4e6168f745d6f9bcd25e38e851138-lg.jpg"
+            ]
+          }
+        },
+        {
+          "id": "praia41",
+          "name": "Praia 41",
+          "num": "41",
+          "pax": "6",
+          "parqueo": "1 parqueo y visitas",
+          "forms": "NO",
+          "correo": "NO",
+          "whatsapp": "SI",
+          "app": "NO",
+          "rooms": [
+            "Habitación 1: Cama king",
+            "Habitación 2: 1 cama king, 1 camarote",
+            "2 baños completos separados de las habitaciones"
+          ],
+          "extra": [
+            [
+              "Distribución",
+              "2 habitaciones, 2.5 baños"
+            ]
+          ],
+          "listing": {
+            "title": "The Town Praia 41",
+            "url": "https://zafiropm.hostify.club/listing/400036452",
+            "guests": 6,
+            "bedrooms": 2,
+            "beds": 3,
+            "bathrooms": 2.5,
+            "description": "Villa de playa tropical-moderna en Casa Praia. Piscina privada, BBQ y diseño sereno, a pasos de los mejores surf breaks, restaurantes y vida nocturna de Jacó.",
+            "images": [
+              "https://img.hostify.com/400000158/property/338da820c51669c649232a6da45c1cf5-lg.jpg",
+              "https://img.hostify.com/400000158/property/4b56ff1f1d1260df0d5f43cc3ef1ff72-lg.jpg",
+              "https://img.hostify.com/400000158/property/c1d8b0fc609708c798fb4a2117a0f5b2-lg.jpg",
+              "https://img.hostify.com/400000158/property/6ebdbc118f18f2540203d75fcfbb2f51-lg.jpg",
+              "https://img.hostify.com/400000158/property/91f0d67cab626ade5b8ab4bc6d43f739-lg.jpg"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "villa-verde",
+      "group": "playa",
+      "name": "Villa Verde",
+      "zone": "Herradura · Quebrada Ganado",
+      "owner": "—",
+      "note": "El check-in interno queda tal cual estaba documentado. La distribución y fotos de cada Oasis se agregaron desde la ficha pública de Zafiro PM.",
+      "quickInfo": [
+        [
+          "Casa",
+          "Casa Oasis (# casa 1-2-3-4)"
+        ],
+        [
+          "Parqueo",
+          "2 parqueos o dejar afuera todo bien"
+        ],
+        [
+          "Formulario",
+          "NO"
+        ],
+        [
+          "WhatsApp caseta",
+          "SI"
+        ],
+        [
+          "Ingreso app",
+          "SI (ADITUM)"
+        ]
+      ],
+      "publicInfo": {
+        "amenities": [
+          "WiFi",
+          "A/C",
+          "Piscina",
+          "Jacuzzi",
+          "Cocina equipada",
+          "Parqueo gratis",
+          "TV",
+          "Cafetera",
+          "Agua caliente",
+          "Comunidad con cancha de tenis"
+        ],
+        "rules": [
+          "No fumar dentro de la propiedad.",
+          "No se permiten fiestas ni eventos.",
+          "Silencio después de las 10:00 pm.",
+          "Cerrar puertas y ventanas al salir; apagar el A/C cuando no se use.",
+          "Mascotas no permitidas.",
+          "Parquear correctamente sin bloquear las aceras.",
+          "Botar la basura en los contenedores de la entrada del condominio.",
+          "No colgar ropa en la terraza.",
+          "No se permiten visitas por política del condominio.",
+          "No objetos de vidrio en el área de piscina.",
+          "No mover el mobiliario.",
+          "Todos los huéspedes deben estar identificados y respetar el máximo de ocupación; no se permiten personas adicionales a la reserva.",
+          "Prohibido el uso de drogas ilegales."
+        ]
+      },
+      "units": [
+        {
+          "id": "oasis1",
+          "name": "Oasis 1",
+          "num": "1",
+          "pax": "5",
+          "listing": {
+            "title": "Oasis 1 Near Jaco Beach Spacious Great Value Stay",
+            "url": "https://zafiropm.hostify.club/listing/400041272",
+            "guests": 5,
+            "bedrooms": 2,
+            "beds": 3,
+            "bathrooms": 1,
+            "description": "Unidad en Villa Verde, Quebrada Ganado, a pocos minutos de Playa Jacó. Áreas amplias, cocina funcional y ambiente privado; buena relación espacio/precio fuera del bullicio de Jacó.",
+            "images": [
+              "https://img.hostify.com/400000158/property/f8f22d01629a5cd32ab3b798bd3d65a9-lg.jpg",
+              "https://img.hostify.com/400000158/property/62fc73b3857643816b3ce769485b7436-lg.jpg",
+              "https://img.hostify.com/400000158/property/b7bceb31d81cf975a3fab2479f5b0c92-lg.jpg",
+              "https://img.hostify.com/400000158/property/43ae2850757036ea0575dbaa33c640a1-lg.jpg",
+              "https://img.hostify.com/400000158/property/674b5266ae68ef2b7f9226c7330435a4-lg.jpg"
+            ]
+          }
+        },
+        {
+          "id": "oasis2",
+          "name": "Oasis 2",
+          "num": "2",
+          "pax": "5",
+          "listing": {
+            "title": "Oasis 2 Near Jaco Quiet And Comfortable Apartment",
+            "url": "https://zafiropm.hostify.club/listing/400041273",
+            "guests": 5,
+            "bedrooms": 2,
+            "beds": 3,
+            "bathrooms": 1,
+            "description": "Unidad en Villa Verde, Quebrada Ganado, a pocos minutos de Playa Jacó. Áreas amplias, cocina funcional y ambiente privado; buena relación espacio/precio fuera del bullicio de Jacó.",
+            "images": [
+              "https://img.hostify.com/400000158/property/934c0630e5d9fa70b851dbd82a7f30ae-lg.jpg",
+              "https://img.hostify.com/400000158/property/d5462e1a225dc78c973910da361afe33-lg.jpg",
+              "https://img.hostify.com/400000158/property/851f29408ca2cf588edc79b97ac9a77b-lg.jpg",
+              "https://img.hostify.com/400000158/property/02976134392c17f1b420629206bcfa6d-lg.jpg",
+              "https://img.hostify.com/400000158/property/5a93580429b886bf6a32f8a5ac0f9716-lg.jpg"
+            ]
+          }
+        },
+        {
+          "id": "oasis3",
+          "name": "Oasis 3",
+          "num": "3",
+          "pax": "5",
+          "listing": {
+            "title": "Oasis 3 Best Value Near Jacó Peaceful Stay",
+            "url": "https://zafiropm.hostify.club/listing/400041271",
+            "guests": 5,
+            "bedrooms": 2,
+            "beds": 3,
+            "bathrooms": 1,
+            "description": "Unidad en Villa Verde, Quebrada Ganado, a pocos minutos de Playa Jacó. Áreas amplias, cocina funcional y ambiente privado; buena relación espacio/precio fuera del bullicio de Jacó.",
+            "images": [
+              "https://img.hostify.com/400000158/property/c122fcca0e4b8122654d36e954ad0506-lg.jpg",
+              "https://img.hostify.com/400000158/property/450b840cc7700c73941e433bc08dcdc2-lg.jpg",
+              "https://img.hostify.com/400000158/property/893cc5c65b1179d8468dd23b39862d7d-lg.jpg",
+              "https://img.hostify.com/400000158/property/d816e09a4af7136ba8604fd0caffa0b8-lg.jpg",
+              "https://img.hostify.com/400000158/property/08ff77938f90293294e27fd7ccfdfb3a-lg.jpg"
+            ]
+          }
+        },
+        {
+          "id": "oasis4",
+          "name": "Oasis 4",
+          "num": "4",
+          "pax": "5",
+          "listing": {
+            "title": "Oasis 4 Jaco Area Spacious Home Quiet Location",
+            "url": "https://zafiropm.hostify.club/listing/400041270",
+            "guests": 5,
+            "bedrooms": 2,
+            "beds": 3,
+            "bathrooms": 1,
+            "description": "Unidad en Villa Verde, Quebrada Ganado, a pocos minutos de Playa Jacó. Áreas amplias, cocina funcional y ambiente privado; buena relación espacio/precio fuera del bullicio de Jacó.",
+            "images": [
+              "https://img.hostify.com/400000158/property/83fdffe2f08e6ed2218649c44397c9cc-lg.jpg",
+              "https://img.hostify.com/400000158/property/d881c06404ce45034d27da28f2c66d10-lg.jpg",
+              "https://img.hostify.com/400000158/property/7e3cb536d19a6ca8a3d39867d303a095-lg.jpg",
+              "https://img.hostify.com/400000158/property/25cf910fec42502ddda343d8c6680d3e-lg.jpg",
+              "https://img.hostify.com/400000158/property/d5ced698591c778d557ed282f1fc6a42-lg.jpg"
+            ]
+          }
+        }
+      ],
+      "messages": [
+        {
+          "id": "villaverde-checkin",
+          "title": "Check In Villa Verde",
+          "body": "SI NO HAN LLENADO EL FORMULARIO CON TODOS LOS NOMBRES COMPLETOS NO LOS VAN A DEJAR ACCESAR. TIENE QUE METERSE EN EL APP Y TAMBIEN ENVIAR MENSAJE EN CASETA DE SEGURIDAD CON NOMBRES COMPLETOS"
+        }
+      ]
+    },
+    {
+      "id": "arenas",
+      "group": "playa",
+      "name": "Arenas",
+      "zone": "Herradura",
+      "owner": "—",
+      "note": "Distribución y fotos agregadas desde la ficha pública de Zafiro PM (Condominio Arenas).",
+      "quickInfo": [
+        [
+          "Casa",
+          "Casa Celeste"
+        ],
+        [
+          "Parqueo",
+          "2 parqueos o dejar afuera todo bien"
+        ],
+        [
+          "Formulario",
+          "SI"
+        ],
+        [
+          "Ingreso app",
+          "SI (TREA)"
+        ]
+      ],
+      "publicInfo": {
+        "amenities": [
+          "WiFi",
+          "A/C",
+          "Piscinas (3)",
+          "Gimnasio",
+          "Cocina equipada",
+          "Parqueo gratis",
+          "Cancha básket/fútbol/vóley",
+          "Juegos infantiles (3)",
+          "Ping pong y billar",
+          "Workspace",
+          "Lavadora",
+          "BBQ"
+        ],
+        "note": "La ficha pública no detalla reglas de la casa explícitas; para dudas específicas usar el link de la ficha."
+      },
+      "units": [
+        {
+          "id": "arenas-celeste",
+          "name": "Casa Celeste",
+          "num": "",
+          "pax": "6",
+          "listing": {
+            "title": "Family House in Herradura | Near Jacó | Near Beach",
+            "url": "https://zafiropm.hostify.club/listing/400038676",
+            "guests": 6,
+            "bedrooms": 2,
+            "beds": 4,
+            "bathrooms": 2,
+            "description": "Condominio Arenas: comunidad cerrada en Herradura con piscina estilo resort, casa club, zonas verdes, juegos infantiles y cancha deportiva. Cocina totalmente equipada, habitaciones con A/C, terraza privada y wifi rápido. A 2 minutos de Plaza Herradura (Auto Mercado) y cerca de Los Sueños Marina.",
+            "images": [
+              "https://img.hostify.com/400000158/property/23f0952cdae08cbc548b8877f697c029-lg.jpg",
+              "https://img.hostify.com/400000158/property/91ce57c956881b0120b65794ce901e68-lg.jpg",
+              "https://img.hostify.com/400000158/property/e378a231d3d3257aa4664e4821f5ff48-lg.jpg",
+              "https://img.hostify.com/400000158/property/ead3cdfbc17a34a14fdbb47595efcc97-lg.jpg",
+              "https://img.hostify.com/400000158/property/2b68f0163ac69ea04a241823b6c469cb-lg.jpg"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "nosara-estates",
+      "group": "playa",
+      "name": "Nosara Estates",
+      "zone": "Nosara",
+      "owner": "—",
+      "note": "Distribución y fotos agregadas desde la ficha pública de Zafiro PM (Lévita Nosara).",
+      "quickInfo": [
+        [
+          "Casa",
+          "Casa Levita"
+        ],
+        [
+          "Parqueo",
+          "3-4 parqueos"
+        ],
+        [
+          "Formulario",
+          "No"
+        ],
+        [
+          "Ingreso app",
+          "NO"
+        ]
+      ],
+      "publicInfo": {
+        "amenities": [
+          "WiFi",
+          "A/C",
+          "Piscina privada",
+          "Calefacción",
+          "Cocina equipada",
+          "Parqueo gratis",
+          "Vista al mar y montaña",
+          "Concierge",
+          "Terraza",
+          "Caja fuerte",
+          "Lavadora/secadora"
+        ],
+        "rules": [
+          "No fiestas ni eventos — es una comunidad residencial tranquila (Nosara Estates).",
+          "No fumar ni vapear en la propiedad.",
+          "Horario de silencio 10 pm–7 am.",
+          "Se requiere vehículo 4x4 para el último tramo (camino de lastre) — manejar con cuidado.",
+          "No alimentar a los monos; mantener puertas y mosquiteros cerrados.",
+          "Ducharse antes de usar la piscina; avisar de inmediato si algo necesita atención."
+        ]
+      },
+      "units": [
+        {
+          "id": "levita",
+          "name": "Casa Levita",
+          "num": "",
+          "pax": "6",
+          "listing": {
+            "title": "Lévita Nosara — Mountain-Top Retreat with Ocean View",
+            "url": "https://zafiropm.hostify.club/listing/400045451",
+            "guests": 6,
+            "bedrooms": 4,
+            "beds": 4,
+            "bathrooms": 3,
+            "description": "Casa de arquitectura moderna en la montaña de Nosara, con paredes de vidrio que se abren hacia la selva y vista al mar. Piscina privada, terraza y 4 habitaciones con vista propia. Se recomienda 4x4 para el último tramo de camino de lastre.",
+            "images": [
+              "https://img.hostify.com/400000158/property/70b7f08207fdd9ce172b6023a1dc16a5-lg.jpg",
+              "https://img.hostify.com/400000158/property/a64e8943e33f5af7d8c0851fb022db0f-lg.jpg",
+              "https://img.hostify.com/400000158/property/24dfa5908d5385a5c30ce43f7209e788-lg.jpg",
+              "https://img.hostify.com/400000158/property/f963ae98b0b4a960f63f4fdefb0e3ffe-lg.jpg",
+              "https://img.hostify.com/400000158/property/d602aa8dad0e18d77da6ad162190720b-lg.jpg"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "malinches",
+      "group": "playa",
+      "name": "Malinches",
+      "zone": "Guanacaste · Hacienda Pinilla",
+      "owner": "—",
+      "note": "Distribución y fotos agregadas desde la ficha pública de Zafiro PM (Casa Malinches 26A).",
+      "quickInfo": [
+        [
+          "Casa",
+          "Casa Malinches 26A"
+        ],
+        [
+          "Parqueo",
+          "2 parqueos"
+        ],
+        [
+          "Formulario",
+          "No"
+        ],
+        [
+          "Ingreso app",
+          "SI (HAC)"
+        ]
+      ],
+      "publicInfo": {
+        "amenities": [
+          "WiFi",
+          "A/C",
+          "Piscina",
+          "Gimnasio",
+          "Beach club",
+          "Cocina equipada",
+          "Parqueo gratis",
+          "Cancha de golf",
+          "Tenis",
+          "Workspace",
+          "Chef disponible",
+          "Terraza cubierta"
+        ],
+        "rules": [
+          "Respetar los horarios de check-in / check-out salvo acuerdo previo.",
+          "No se permiten fiestas ni eventos.",
+          "No exceder el máximo de ocupación.",
+          "Silencio después de las 10:00 pm.",
+          "No fumar dentro de la propiedad.",
+          "Cuidar la casa como propia; reportar cualquier daño de inmediato.",
+          "Seguir todas las reglas del residencial Hacienda Pinilla."
+        ]
+      },
+      "units": [
+        {
+          "id": "malinches-26a",
+          "name": "Casa Malinches 26A",
+          "num": "26A",
+          "pax": "8",
+          "listing": {
+            "title": "Casa Malinches 26A Nature Retreat",
+            "url": "https://zafiropm.hostify.club/listing/400041562",
+            "guests": 8,
+            "bedrooms": 4,
+            "beds": 4,
+            "bathrooms": 4.5,
+            "description": "Villa de lujo dentro de Hacienda Pinilla, con habitaciones amplias cada una con baño privado y terraza cubierta indoor-outdoor. Acceso al Beach Club con piscina infinita frente al mar, gimnasio, cancha de golf, tenis y senderos para bicicleta. Cerca de Avellanas y Tamarindo.",
+            "images": [
+              "https://img.hostify.com/400000158/property/96f1f975078763afd7d15ae2c9264666-lg.jpg",
+              "https://img.hostify.com/400000158/property/f7e8670c20867bacd21ea7a7531acc80-lg.jpg",
+              "https://img.hostify.com/400000158/property/e0f82ea212bb6a20f055833ae67303fd-lg.jpg",
+              "https://img.hostify.com/400000158/property/4043756ff7aa6b1fface6e8a9aae2416-lg.jpg",
+              "https://img.hostify.com/400000158/property/76e05c0eb33e6fa64a56cc7c22bcfef8-lg.jpg"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "farmstay",
+      "group": "sanjose",
+      "name": "Heavenly Highlands (FarmStay)",
+      "zone": "San José · Santa Ana / Tabarcia",
+      "owner": "Bruno y Erica",
+      "note": "Propiedad nueva del portal de Zafiro PM. Aún no tiene proceso operativo interno documentado (códigos, wifi, mensajes de check-in) — solo la ficha pública.",
+      "quickInfo": [
+        [
+          "Check in",
+          "3:00 PM"
+        ],
+        [
+          "Check out",
+          "11:00 AM"
+        ],
+        [
+          "Acceso",
+          "Último tramo de camino lastreado, muy empinado — se recomienda SUV"
+        ]
+      ],
+      "publicInfo": {
+        "amenities": [
+          "WiFi",
+          "A/C",
+          "Chimenea interior/exterior",
+          "Fogata",
+          "Horno de pizza",
+          "Cocina completa",
+          "Parqueo gratis",
+          "Self check-in con clave",
+          "Recomendaciones de niñera",
+          "Acceso para silla de ruedas",
+          "Mascota en la propiedad"
+        ],
+        "rules": [
+          "No mover el mobiliario.",
+          "No se permiten sustancias ilegales en la propiedad.",
+          "No se permiten huéspedes no registrados.",
+          "Prohibido el uso comercial de la propiedad.",
+          "No publicar fotos en redes sociales que comprometan la privacidad de la propiedad.",
+          "Ruido mínimo entre 10 pm y 8 am.",
+          "No fumar en ningún área de la propiedad.",
+          "Mascotas bienvenidas solo si se acordaron previamente.",
+          "Respetar los límites de la propiedad — salir de ellos se considera invasión de propiedad privada vecina."
+        ],
+        "note": "El camino de acceso es seguro pero angosto y empinado; el último kilómetro no está pavimentado, se recomienda SUV."
+      },
+      "units": [
+        {
+          "id": "farmstay-main",
+          "name": "Heavenly Highlands",
+          "num": "",
+          "pax": "6",
+          "listing": {
+            "title": "FarmStay Family Vacation: Nature, Views, Wellness",
+            "url": "https://zafiropm.hostify.club/listing/400013844",
+            "guests": 6,
+            "bedrooms": 2,
+            "beds": 3,
+            "bathrooms": 1,
+            "description": "Finca familiar en las montañas cerca de Santa Ana, con huerta, árboles frutales, cabras, un burrito y gallinas. Arquitectura moderna con fachada oscura, terrazas panorámicas, horno de pizza y senderos privados. Ideal para desconectar en familia con vistas espectaculares.",
+            "images": [
+              "https://img.hostify.com/400000158/property/1a59c739b642176be7e95108d89c673e-lg.jpg",
+              "https://img.hostify.com/400000158/property/1132a74a57ef05ffa59f7ab637e8b75e-lg.jpg",
+              "https://img.hostify.com/400000158/property/6e9f035992531bd0b7fd08e9388889fd-lg.jpg",
+              "https://img.hostify.com/400000158/property/f13aa5ee6f7a066fa9ee97aef56f939a-lg.jpg",
+              "https://img.hostify.com/400000158/property/4d31c8c3c096ac211ff41c8f3e11483f-lg.jpg"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
