@@ -200,7 +200,7 @@
       "propertyId": "nosara-estates"
     },
     {
-      "property": "Del Roble Refuge",
+      "property": "Del Roble Refuge - Hacienda Pinilla",
       "unit": "Hacienda Pinilla — Palma Real (LPR 241)",
       "pax": "10",
       "parqueo": "2 parqueos",
@@ -686,7 +686,7 @@
     {
       "id": "del-roble",
       "group": "guanacaste",
-      "name": "Del Roble Refuge",
+      "name": "Del Roble Refuge - Hacienda Pinilla",
       "zone": "Guanacaste · Hacienda Pinilla (Lagos de Palma Real)",
       "owner": "Melissa Marie",
       "quickInfo": [
@@ -805,7 +805,8 @@
           "app": "SI (HAC)",
           "guiaDigital": {
             "url": "https://auditoria.zafiropm.com/g/31bf8720-3645-47bb-ae7e-0ba3ea3bf945",
-            "nota": "Guía digital de esta unidad."
+            "nota": "Guía digital de esta unidad.",
+            "comoLlegar": "https://maps.google.com/maps?daddr=10.252623753755,-85.850157275922"
           },
           "listing": {
             "title": "Del Roble Refuge, Hacienda Pinilla, Beach House",
@@ -1284,7 +1285,8 @@
           ],
           "guiaDigital": {
             "url": "https://auditoria.zafiropm.com/g/7af6a4b3-0869-4f66-9abd-01163252e9e9",
-            "nota": "Guía digital de esta unidad. Trae también: instrucciones de A/C automático, cómo cerrar sesión de streaming, aviso de personal de mantenimiento uniformado, y checklist de basura/salida (mismo patrón que Praia 43)."
+            "nota": "Guía digital de esta unidad. Trae también: instrucciones de A/C automático, cómo cerrar sesión de streaming, aviso de personal de mantenimiento uniformado, y checklist de basura/salida (mismo patrón que Praia 43).",
+            "comoLlegar": "https://maps.google.com/maps?daddr=9.6079416891972,-84.615829569836"
           },
           "listing": {
             "title": "The Town Praia 40",
