@@ -211,7 +211,7 @@
       "propertyId": "del-roble"
     },
     {
-      "property": "Malinches",
+      "property": "Malinches - Hacienda Pinilla",
       "unit": "Hacienda Pinilla — Casa Malinches",
       "pax": "8",
       "parqueo": "2 parqueos",
@@ -398,7 +398,7 @@
     },
     {
       "id": "hermosa-palms",
-      "group": "playa",
+      "group": "jaco",
       "name": "Hermosa Palms",
       "zone": "Jacó · Playa Hermosa",
       "owner": "Gustavo y Bruno",
@@ -619,7 +619,8 @@
           ],
           "guiaDigital": {
             "url": "https://auditoria.zafiropm.com/g/afbdc39b-756b-49e7-ad29-9e06d1ac1d9c",
-            "nota": "Guía digital confirmada como link fijo de esta propiedad (Zafiro confirmó que Místico usa el mismo patrón). Check-out confirmado: 11:00 AM."
+            "nota": "Guía digital confirmada como link fijo de esta propiedad (Zafiro confirmó que Místico usa el mismo patrón). Check-out confirmado: 11:00 AM.",
+            "comoLlegar": "https://maps.google.com/maps?daddr=9.5620728020015,-84.582859615869"
           },
           "checkin": {
             "id": "23a-checkin",
@@ -684,7 +685,7 @@
     },
     {
       "id": "del-roble",
-      "group": "playa",
+      "group": "guanacaste",
       "name": "Del Roble Refuge",
       "zone": "Guanacaste · Hacienda Pinilla (Lagos de Palma Real)",
       "owner": "Melissa Marie",
@@ -854,7 +855,7 @@
     },
     {
       "id": "casa-mistica",
-      "group": "playa",
+      "group": "jaco",
       "name": "Casa Mística",
       "zone": "Jacó · Playa Hermosa (Místico)",
       "owner": "Jose Alberto",
@@ -980,8 +981,7 @@
       "guiaDigital": {
         "url": "https://auditoria.zafiropm.com/g/a52dbe38-b076-45d0-b128-615ea8cddb10",
         "nota": "Guía digital que recibe el huésped al llegar (dirección con Google Maps, checklist de salida, wifi/keypad, reglas, botón de emergencias 911, link de reseña en Airbnb y link de reserva directa).",
-        "whatsappConcierge": "https://wa.me/13058467025?text=Hola%20%F0%9F%91%8B%20Soy%20hu%C3%A9sped%20de%20Mistica%20Lakeside%20House%20-%20Playa%20Hermosa%20(Zafiro%20Property%20Management)%20y%20quiero%20reservar%20una%20experiencia%20con%20Local%20Bird.",
-        "linkReview": "https://www.airbnb.com/rooms/1420476142534015378"
+        "comoLlegar": "https://maps.google.com/maps?daddr=9.5627822318555,-84.576035575269"
       },
       "units": [
         {
@@ -1042,7 +1042,7 @@
     },
     {
       "id": "praia",
-      "group": "playa",
+      "group": "jaco",
       "name": "Casa Praia",
       "zone": "Jacó · The Town at Praia",
       "owner": "Bruno Casalvolone",
@@ -1233,7 +1233,8 @@
           ],
           "guiaDigital": {
             "url": "https://auditoria.zafiropm.com/g/9fb36a72-02b6-4426-9805-d5f81800f5f4",
-            "nota": "Guía digital de esta unidad (probablemente link fijo por propiedad, igual que Casa Mística). Trae también: instrucciones de A/C automático, cómo cerrar sesión de streaming, aviso de personal de mantenimiento uniformado, y checklist de basura/salida."
+            "nota": "Guía digital de esta unidad (probablemente link fijo por propiedad, igual que Casa Mística). Trae también: instrucciones de A/C automático, cómo cerrar sesión de streaming, aviso de personal de mantenimiento uniformado, y checklist de basura/salida.",
+            "comoLlegar": "https://maps.google.com/maps?daddr=9.6045936308635,-84.620826888391"
           },
           "listing": {
             "title": "The Town Praia 43",
@@ -1333,7 +1334,8 @@
           ],
           "guiaDigital": {
             "url": "https://auditoria.zafiropm.com/g/887c7fd2-491d-481b-a203-7a3b4aa7907e",
-            "nota": "Guía digital de esta unidad (mismo patrón que Praia 40/43: A/C automático, cerrar sesión de streaming, personal de mantenimiento uniformado, checklist de basura/salida)."
+            "nota": "Guía digital de esta unidad (mismo patrón que Praia 40/43: A/C automático, cerrar sesión de streaming, personal de mantenimiento uniformado, checklist de basura/salida).",
+            "comoLlegar": "https://maps.google.com/maps?daddr=9.606667,-84.6166641"
           },
           "listing": {
             "title": "The Town Praia 38",
@@ -1470,7 +1472,7 @@
     },
     {
       "id": "villa-verde",
-      "group": "playa",
+      "group": "jaco",
       "name": "Villa Verde",
       "zone": "Herradura · Quebrada Ganado",
       "owner": "—",
@@ -1648,7 +1650,8 @@
           ],
           "guiaDigital": {
             "url": "https://auditoria.zafiropm.com/g/8940c5db-dcd9-494c-92f4-c903e8adf035",
-            "nota": "Guía digital de esta unidad."
+            "nota": "Guía digital de esta unidad.",
+            "comoLlegar": "https://maps.google.com/maps?daddr=9.7146185666351,-84.638650417328"
           },
           "listing": {
             "title": "Oasis 2 Near Jaco Quiet And Comfortable Apartment",
@@ -1722,7 +1725,7 @@
     },
     {
       "id": "arenas",
-      "group": "playa",
+      "group": "jaco",
       "name": "Arenas - Casa Celeste",
       "zone": "Herradura",
       "owner": "—",
@@ -1871,7 +1874,8 @@
           ],
           "guiaDigital": {
             "url": "https://auditoria.zafiropm.com/g/d945f352-85b0-4c42-ad30-9d274bdd714b",
-            "nota": "Guía digital de esta unidad. La dirección en la guía dice \"Playa Hermosa\" aunque la propiedad es en Herradura — posible error de la plantilla, no de la ubicación real."
+            "nota": "Guía digital de esta unidad. La dirección en la guía dice \"Playa Hermosa\" aunque la propiedad es en Herradura — posible error de la plantilla, no de la ubicación real.",
+            "comoLlegar": "https://maps.google.com/maps?daddr=9.6645545,-84.6353114"
           },
           "listing": {
             "title": "Family House in Herradura | Near Jacó | Near Beach",
@@ -1894,7 +1898,7 @@
     },
     {
       "id": "nosara-estates",
-      "group": "playa",
+      "group": "guanacaste",
       "name": "Nosara Estates",
       "zone": "Nosara",
       "owner": "—",
@@ -1967,8 +1971,8 @@
     },
     {
       "id": "malinches",
-      "group": "playa",
-      "name": "Malinches",
+      "group": "guanacaste",
+      "name": "Malinches - Hacienda Pinilla",
       "zone": "Guanacaste · Hacienda Pinilla",
       "owner": "—",
       "note": "Distribución y fotos agregadas desde la ficha pública de Zafiro PM (Casa Malinches 26A).",
@@ -2038,7 +2042,8 @@
       },
       "guiaDigital": {
         "url": "https://auditoria.zafiropm.com/g/404be756-9ca0-4ae5-9cbb-b8113449cf18",
-        "nota": "Guía digital que recibe el huésped al llegar (cómo llegar desde Liberia/SJO, checklist de salida, wifi/main gate/keypad, reglas, recomendaciones locales, botón de emergencias 911, reseña y reserva directa)."
+        "nota": "Guía digital que recibe el huésped al llegar (cómo llegar desde Liberia/SJO, checklist de salida, wifi/main gate/keypad, reglas, recomendaciones locales, botón de emergencias 911, reseña y reserva directa).",
+        "comoLlegar": "https://maps.google.com/maps?daddr=10.258694448142,-85.833212037249"
       },
       "units": [
         {
