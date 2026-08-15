@@ -477,6 +477,65 @@
           "Uso de drogas ilegales: se reporta a las autoridades y se pide desalojar."
         ]
       },
+      "localExperiences": {
+        "url": "https://p.localbird.io/zafiro-jaco/browse",
+        "resumen": "Catálogo de 121 experiencias y tours cerca de Jacó (Localbird), con chat de concierge (Luna) para armar itinerarios o resolver dudas.",
+        "categorias": [
+          "Tours de aventura",
+          "Tours aéreos y traslados",
+          "ATV",
+          "Avistamiento de aves",
+          "Paseos en bote/yate",
+          "Canopy",
+          "Alquiler de auto/ATV",
+          "Tours de cocodrilos y manglares",
+          "Pesca",
+          "Cabalgatas",
+          "Tours por la ciudad de Jacó",
+          "Kayak y SUP",
+          "Tours de naturaleza",
+          "Chef privado",
+          "Spa y masajes",
+          "Clases de surf",
+          "Cascadas",
+          "Rafting",
+          "Yoga y bienestar"
+        ],
+        "destacados": [
+          {
+            "nombre": "Isla Tortuga One Day Cruise",
+            "precio": "Desde $150"
+          },
+          {
+            "nombre": "Massage by Isaura",
+            "precio": "Desde $80"
+          },
+          {
+            "nombre": "10 Waterfalls Hike",
+            "precio": "Desde $72"
+          },
+          {
+            "nombre": "Extreme Full-day Adventure Park in Jaco",
+            "precio": "Desde $210"
+          },
+          {
+            "nombre": "Private Lunch Chef in Jaco",
+            "precio": "Desde $280"
+          },
+          {
+            "nombre": "Paragliding Experience in Jaco",
+            "precio": "Desde $160"
+          },
+          {
+            "nombre": "Surf Lesson with Personal Instructor",
+            "precio": "Desde $70"
+          },
+          {
+            "nombre": "Thrilling Horseback Riding, Waterfall & ATV Adventure",
+            "precio": "Desde $131"
+          }
+        ]
+      },
       "units": [
         {
           "id": "u23a",
@@ -673,6 +732,12 @@
           "Seguir todas las reglas del residencial Hacienda Pinilla durante la estadía."
         ]
       },
+      "localExperiences": {
+        "url": "https://p.localbird.io/zafiro-tamarindo",
+        "resumen": "Guía de experiencias, traslados y tours cerca de Tamarindo (Localbird), con chat de concierge (Luna) para armar el itinerario.",
+        "categorias": [],
+        "destacados": []
+      },
       "units": [
         {
           "id": "roble-241",
@@ -797,6 +862,72 @@
         ],
         "note": "La ficha pública de esta propiedad no detalla reglas de la casa; para dudas específicas usar el link de la ficha."
       },
+      "localExperiences": {
+        "url": "https://p.localbird.io/zafiro-jaco/browse",
+        "resumen": "Catálogo de 121 experiencias y tours cerca de Jacó (Localbird), con chat de concierge (Luna) para armar itinerarios o resolver dudas.",
+        "categorias": [
+          "Tours de aventura",
+          "Tours aéreos y traslados",
+          "ATV",
+          "Avistamiento de aves",
+          "Paseos en bote/yate",
+          "Canopy",
+          "Alquiler de auto/ATV",
+          "Tours de cocodrilos y manglares",
+          "Pesca",
+          "Cabalgatas",
+          "Tours por la ciudad de Jacó",
+          "Kayak y SUP",
+          "Tours de naturaleza",
+          "Chef privado",
+          "Spa y masajes",
+          "Clases de surf",
+          "Cascadas",
+          "Rafting",
+          "Yoga y bienestar"
+        ],
+        "destacados": [
+          {
+            "nombre": "Isla Tortuga One Day Cruise",
+            "precio": "Desde $150"
+          },
+          {
+            "nombre": "Massage by Isaura",
+            "precio": "Desde $80"
+          },
+          {
+            "nombre": "10 Waterfalls Hike",
+            "precio": "Desde $72"
+          },
+          {
+            "nombre": "Extreme Full-day Adventure Park in Jaco",
+            "precio": "Desde $210"
+          },
+          {
+            "nombre": "Private Lunch Chef in Jaco",
+            "precio": "Desde $280"
+          },
+          {
+            "nombre": "Paragliding Experience in Jaco",
+            "precio": "Desde $160"
+          },
+          {
+            "nombre": "Surf Lesson with Personal Instructor",
+            "precio": "Desde $70"
+          },
+          {
+            "nombre": "Thrilling Horseback Riding, Waterfall & ATV Adventure",
+            "precio": "Desde $131"
+          }
+        ]
+      },
+      "guiaDigital": {
+        "url": "https://auditoria.zafiropm.com/g/a52dbe38-b076-45d0-b128-615ea8cddb10",
+        "nota": "Guía digital que recibe el huésped al llegar (dirección con Google Maps, checklist de salida, wifi/keypad, reglas, botón de emergencias 911, link de reseña en Airbnb y link de reserva directa).",
+        "whatsappConcierge": "https://wa.me/13058467025?text=Hola%20%F0%9F%91%8B%20Soy%20hu%C3%A9sped%20de%20Mistica%20Lakeside%20House%20-%20Playa%20Hermosa%20(Zafiro%20Property%20Management)%20y%20quiero%20reservar%20una%20experiencia%20con%20Local%20Bird.",
+        "linkReview": "https://www.airbnb.com/rooms/1420476142534015378",
+        "linkReservaDirecta": "https://www.zafiropm.com/"
+      },
       "units": [
         {
           "id": "barca5",
@@ -838,6 +969,10 @@
             [
               "WiFi",
               "TicoPassCasa5ONU / Jose2024$"
+            ],
+            [
+              "KeyPad",
+              "74742"
             ]
           ]
         }
@@ -928,6 +1063,65 @@
           "Enjuagar la arena antes de entrar a la casa o piscina.",
           "Comunidad cerrada con seguridad 24/7 — cerrar siempre el portón principal.",
           "Cuidar la casa como propia y reportar cualquier daño de inmediato."
+        ]
+      },
+      "localExperiences": {
+        "url": "https://p.localbird.io/zafiro-jaco/browse",
+        "resumen": "Catálogo de 121 experiencias y tours cerca de Jacó (Localbird), con chat de concierge (Luna) para armar itinerarios o resolver dudas.",
+        "categorias": [
+          "Tours de aventura",
+          "Tours aéreos y traslados",
+          "ATV",
+          "Avistamiento de aves",
+          "Paseos en bote/yate",
+          "Canopy",
+          "Alquiler de auto/ATV",
+          "Tours de cocodrilos y manglares",
+          "Pesca",
+          "Cabalgatas",
+          "Tours por la ciudad de Jacó",
+          "Kayak y SUP",
+          "Tours de naturaleza",
+          "Chef privado",
+          "Spa y masajes",
+          "Clases de surf",
+          "Cascadas",
+          "Rafting",
+          "Yoga y bienestar"
+        ],
+        "destacados": [
+          {
+            "nombre": "Isla Tortuga One Day Cruise",
+            "precio": "Desde $150"
+          },
+          {
+            "nombre": "Massage by Isaura",
+            "precio": "Desde $80"
+          },
+          {
+            "nombre": "10 Waterfalls Hike",
+            "precio": "Desde $72"
+          },
+          {
+            "nombre": "Extreme Full-day Adventure Park in Jaco",
+            "precio": "Desde $210"
+          },
+          {
+            "nombre": "Private Lunch Chef in Jaco",
+            "precio": "Desde $280"
+          },
+          {
+            "nombre": "Paragliding Experience in Jaco",
+            "precio": "Desde $160"
+          },
+          {
+            "nombre": "Surf Lesson with Personal Instructor",
+            "precio": "Desde $70"
+          },
+          {
+            "nombre": "Thrilling Horseback Riding, Waterfall & ATV Adventure",
+            "precio": "Desde $131"
+          }
         ]
       },
       "units": [
@@ -1219,6 +1413,65 @@
           "Prohibido el uso de drogas ilegales."
         ]
       },
+      "localExperiences": {
+        "url": "https://p.localbird.io/zafiro-jaco/browse",
+        "resumen": "Catálogo de 121 experiencias y tours cerca de Jacó (Localbird), con chat de concierge (Luna) para armar itinerarios o resolver dudas.",
+        "categorias": [
+          "Tours de aventura",
+          "Tours aéreos y traslados",
+          "ATV",
+          "Avistamiento de aves",
+          "Paseos en bote/yate",
+          "Canopy",
+          "Alquiler de auto/ATV",
+          "Tours de cocodrilos y manglares",
+          "Pesca",
+          "Cabalgatas",
+          "Tours por la ciudad de Jacó",
+          "Kayak y SUP",
+          "Tours de naturaleza",
+          "Chef privado",
+          "Spa y masajes",
+          "Clases de surf",
+          "Cascadas",
+          "Rafting",
+          "Yoga y bienestar"
+        ],
+        "destacados": [
+          {
+            "nombre": "Isla Tortuga One Day Cruise",
+            "precio": "Desde $150"
+          },
+          {
+            "nombre": "Massage by Isaura",
+            "precio": "Desde $80"
+          },
+          {
+            "nombre": "10 Waterfalls Hike",
+            "precio": "Desde $72"
+          },
+          {
+            "nombre": "Extreme Full-day Adventure Park in Jaco",
+            "precio": "Desde $210"
+          },
+          {
+            "nombre": "Private Lunch Chef in Jaco",
+            "precio": "Desde $280"
+          },
+          {
+            "nombre": "Paragliding Experience in Jaco",
+            "precio": "Desde $160"
+          },
+          {
+            "nombre": "Surf Lesson with Personal Instructor",
+            "precio": "Desde $70"
+          },
+          {
+            "nombre": "Thrilling Horseback Riding, Waterfall & ATV Adventure",
+            "precio": "Desde $131"
+          }
+        ]
+      },
       "units": [
         {
           "id": "oasis1",
@@ -1358,6 +1611,65 @@
           "BBQ"
         ],
         "note": "La ficha pública no detalla reglas de la casa explícitas; para dudas específicas usar el link de la ficha."
+      },
+      "localExperiences": {
+        "url": "https://p.localbird.io/zafiro-jaco/browse",
+        "resumen": "Catálogo de 121 experiencias y tours cerca de Jacó (Localbird), con chat de concierge (Luna) para armar itinerarios o resolver dudas.",
+        "categorias": [
+          "Tours de aventura",
+          "Tours aéreos y traslados",
+          "ATV",
+          "Avistamiento de aves",
+          "Paseos en bote/yate",
+          "Canopy",
+          "Alquiler de auto/ATV",
+          "Tours de cocodrilos y manglares",
+          "Pesca",
+          "Cabalgatas",
+          "Tours por la ciudad de Jacó",
+          "Kayak y SUP",
+          "Tours de naturaleza",
+          "Chef privado",
+          "Spa y masajes",
+          "Clases de surf",
+          "Cascadas",
+          "Rafting",
+          "Yoga y bienestar"
+        ],
+        "destacados": [
+          {
+            "nombre": "Isla Tortuga One Day Cruise",
+            "precio": "Desde $150"
+          },
+          {
+            "nombre": "Massage by Isaura",
+            "precio": "Desde $80"
+          },
+          {
+            "nombre": "10 Waterfalls Hike",
+            "precio": "Desde $72"
+          },
+          {
+            "nombre": "Extreme Full-day Adventure Park in Jaco",
+            "precio": "Desde $210"
+          },
+          {
+            "nombre": "Private Lunch Chef in Jaco",
+            "precio": "Desde $280"
+          },
+          {
+            "nombre": "Paragliding Experience in Jaco",
+            "precio": "Desde $160"
+          },
+          {
+            "nombre": "Surf Lesson with Personal Instructor",
+            "precio": "Desde $70"
+          },
+          {
+            "nombre": "Thrilling Horseback Riding, Waterfall & ATV Adventure",
+            "precio": "Desde $131"
+          }
+        ]
       },
       "units": [
         {
@@ -1506,6 +1818,12 @@
           "Cuidar la casa como propia; reportar cualquier daño de inmediato.",
           "Seguir todas las reglas del residencial Hacienda Pinilla."
         ]
+      },
+      "localExperiences": {
+        "url": "https://p.localbird.io/zafiro-tamarindo",
+        "resumen": "Guía de experiencias, traslados y tours cerca de Tamarindo (Localbird), con chat de concierge (Luna) para armar el itinerario.",
+        "categorias": [],
+        "destacados": []
       },
       "units": [
         {
