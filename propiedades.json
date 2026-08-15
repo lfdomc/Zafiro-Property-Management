@@ -43,6 +43,11 @@
       {
         "label": "Correo Qbo Skyhomes",
         "value": "recepcion@condominioqbo.com"
+      },
+      {
+        "label": "Anfitrión Zafiro PM (WhatsApp general)",
+        "value": "+506 8888-7777",
+        "note": "Número de anfitrión que aparece en las guías digitales de huésped (auditoria.zafiropm.com)."
       }
     ],
     "faqs": [
@@ -460,7 +465,27 @@
           "15 min — Royal Butterflies",
           "15 min — The Park at Ocean Ranch",
           "15 min — Jacó",
-          "2 h — Aeropuerto Internacional Juan Santamaría"
+          "2 h — Aeropuerto Internacional Juan Santamaría",
+          {
+            "text": "Vida Hermosa Bar and Restaurant — Restaurante de mariscos ★4.5 (1635 reseñas)",
+            "url": "https://maps.google.com/?cid=6973166465829797315"
+          },
+          {
+            "text": "PuddleFish Brewery — Cervecería ★4.6 (808 reseñas)",
+            "url": "https://maps.google.com/?cid=13116553035606468819"
+          },
+          {
+            "text": "Cafe Bohio — Café ★4.7 (274 reseñas)",
+            "url": "https://maps.google.com/?cid=15684692709591387144"
+          },
+          {
+            "text": "Mahi Mahi Restaurant — Restaurante ★4.3 (206 reseñas)",
+            "url": "https://maps.google.com/?cid=13015114035591487407"
+          },
+          {
+            "text": "Restaurante Vista Hermosa — Restaurante de mariscos ★4.4 (960 reseñas)",
+            "url": "https://maps.google.com/?cid=10605020768466844964"
+          }
         ],
         "rules": [
           "El acceso al Beach Club está incluido con la tarjeta de afiliado; reponerla cuesta $50 si se pierde.",
@@ -588,6 +613,11 @@
               "9AM–9PM"
             ]
           ],
+          "guiaDigital": {
+            "url": "https://auditoria.zafiropm.com/g/afbdc39b-756b-49e7-ad29-9e06d1ac1d9c",
+            "nota": "Guía digital confirmada como link fijo de esta propiedad (Zafiro confirmó que Místico usa el mismo patrón). Check-out confirmado: 11:00 AM.",
+            "linkReservaDirecta": "https://www.zafiropm.com/"
+          },
           "checkin": {
             "id": "23a-checkin",
             "title": "Check In Casa 23A",
@@ -1054,6 +1084,28 @@
           "Workspace",
           "Cargador EV"
         ],
+        "nearby": [
+          {
+            "text": "Koko — Restaurante ★4.6 (1123 reseñas)",
+            "url": "https://maps.google.com/?cid=1347495756619901181"
+          },
+          {
+            "text": "Vida Hermosa Bar and Restaurant — Restaurante de mariscos ★4.5 (1635 reseñas)",
+            "url": "https://maps.google.com/?cid=6973166465829797315"
+          },
+          {
+            "text": "Restaurant Green Room Jaco — Restaurante ★4.4 (1688 reseñas)",
+            "url": "https://maps.google.com/?cid=9084303398156280050"
+          },
+          {
+            "text": "Soda Garabito — Restaurante ★4.6 (2382 reseñas)",
+            "url": "https://maps.google.com/?cid=12181984869846835961"
+          },
+          {
+            "text": "Orange Pub — Bar ★4.0 (570 reseñas)",
+            "url": "https://maps.google.com/?cid=13042613877878419361"
+          }
+        ],
         "rules": [
           "Solo pueden ingresar los huéspedes registrados en la reserva; visitas no autorizadas serán rechazadas por seguridad.",
           "Cualquier visita debe aprobarse con el anfitrión de antemano.",
@@ -1144,8 +1196,21 @@
             [
               "Distribución",
               "3 habitaciones, 3 baños"
+            ],
+            [
+              "WiFi",
+              "Praia 43 / cocodrilo"
+            ],
+            [
+              "KeyPad",
+              "567763"
             ]
           ],
+          "guiaDigital": {
+            "url": "https://auditoria.zafiropm.com/g/9fb36a72-02b6-4426-9805-d5f81800f5f4",
+            "nota": "Guía digital de esta unidad (probablemente link fijo por propiedad, igual que Casa Mística). Trae también: instrucciones de A/C automático, cómo cerrar sesión de streaming, aviso de personal de mantenimiento uniformado, y checklist de basura/salida.",
+            "linkReservaDirecta": "https://www.zafiropm.com/"
+          },
           "listing": {
             "title": "The Town Praia 43",
             "url": "https://zafiropm.hostify.club/listing/400036456",
@@ -1182,8 +1247,21 @@
             [
               "Distribución",
               "2 habitaciones, 2.5 baños"
+            ],
+            [
+              "WiFi",
+              "Praia 40 / monocongo"
+            ],
+            [
+              "Touch Pad",
+              "225043"
             ]
           ],
+          "guiaDigital": {
+            "url": "https://auditoria.zafiropm.com/g/7af6a4b3-0869-4f66-9abd-01163252e9e9",
+            "nota": "Guía digital de esta unidad. Trae también: instrucciones de A/C automático, cómo cerrar sesión de streaming, aviso de personal de mantenimiento uniformado, y checklist de basura/salida (mismo patrón que Praia 43).",
+            "linkReservaDirecta": "https://www.zafiropm.com/"
+          },
           "listing": {
             "title": "The Town Praia 40",
             "url": "https://zafiropm.hostify.club/listing/400036453",
@@ -1220,8 +1298,21 @@
             [
               "Distribución",
               "2 habitaciones, 2.5 baños"
+            ],
+            [
+              "WiFi",
+              "Praia 38 / colablanca"
+            ],
+            [
+              "KeyPad",
+              "531262"
             ]
           ],
+          "guiaDigital": {
+            "url": "https://auditoria.zafiropm.com/g/887c7fd2-491d-481b-a203-7a3b4aa7907e",
+            "nota": "Guía digital de esta unidad (mismo patrón que Praia 40/43: A/C automático, cerrar sesión de streaming, personal de mantenimiento uniformado, checklist de basura/salida).",
+            "linkReservaDirecta": "https://www.zafiropm.com/"
+          },
           "listing": {
             "title": "The Town Praia 38",
             "url": "https://zafiropm.hostify.club/listing/400036454",
@@ -1583,6 +1674,14 @@
           "Casa Celeste"
         ],
         [
+          "Check in",
+          "3:00 PM"
+        ],
+        [
+          "Check out",
+          "11:00 AM"
+        ],
+        [
           "Parqueo",
           "2 parqueos o dejar afuera todo bien"
         ],
@@ -1610,7 +1709,34 @@
           "Lavadora",
           "BBQ"
         ],
-        "note": "La ficha pública no detalla reglas de la casa explícitas; para dudas específicas usar el link de la ficha."
+        "nearby": [
+          {
+            "text": "Koko — Restaurante ★4.6 (1119 reseñas)",
+            "url": "https://maps.google.com/?cid=1347495756619901181"
+          },
+          {
+            "text": "Soda Garabito — Restaurante ★4.6 (2380 reseñas)",
+            "url": "https://maps.google.com/?cid=12181984869846835961"
+          },
+          {
+            "text": "Restaurant Green Room Jaco — Restaurante ★4.4 (1688 reseñas)",
+            "url": "https://maps.google.com/?cid=9084303398156280050"
+          },
+          {
+            "text": "El Hicaco Seafood — Restaurante de mariscos ★4.3 (1170 reseñas)",
+            "url": "https://maps.google.com/?cid=12821907371088116548"
+          },
+          {
+            "text": "Orange Pub — Bar ★4.0 (570 reseñas)",
+            "url": "https://maps.google.com/?cid=13042613877878419361"
+          }
+        ],
+        "rules": [
+          "No se permiten fiestas ni eventos.",
+          "No fumar dentro de la propiedad.",
+          "Mascotas permitidas (consultar condiciones).",
+          "Horario silencioso de 10:00 pm a 7:00 am."
+        ]
       },
       "localExperiences": {
         "url": "https://p.localbird.io/zafiro-jaco/browse",
@@ -1677,6 +1803,18 @@
           "name": "Casa Celeste",
           "num": "",
           "pax": "6",
+          "accessCode": "Cerradura inteligente en puerta principal: código 3287 (tocar el teclado para activar la pantalla, ingresar el código, y presionar ✓ para confirmar)",
+          "extra": [
+            [
+              "WiFi",
+              "Maki playa / Perrofoca2024"
+            ]
+          ],
+          "guiaDigital": {
+            "url": "https://auditoria.zafiropm.com/g/d945f352-85b0-4c42-ad30-9d274bdd714b",
+            "nota": "Guía digital de esta unidad. La dirección en la guía dice \"Playa Hermosa\" aunque la propiedad es en Herradura — posible error de la plantilla, no de la ubicación real.",
+            "linkReservaDirecta": "https://www.zafiropm.com/"
+          },
           "listing": {
             "title": "Family House in Herradura | Near Jacó | Near Beach",
             "url": "https://zafiropm.hostify.club/listing/400038676",
@@ -1792,6 +1930,14 @@
         [
           "Ingreso app",
           "SI (HAC)"
+        ],
+        [
+          "Beach Club",
+          "Para reservar/ingresar, reportarlo al grupo de WhatsApp \"Malinches BeachClub\" para que autoricen el acceso"
+        ],
+        [
+          "Acceso",
+          "Desde Aeropuerto Liberia (LIR): ~1h15. Desde San José (SJO): ~4.5-5h. Se recomienda alquilar auto; dentro de Hacienda Pinilla conviene auto, carrito de golf o bicicleta para moverse."
         ]
       ],
       "publicInfo": {
@@ -1800,7 +1946,7 @@
           "A/C",
           "Piscina",
           "Gimnasio",
-          "Beach club",
+          "Beach club (reservar vía WhatsApp \"Malinches BeachClub\")",
           "Cocina equipada",
           "Parqueo gratis",
           "Cancha de golf",
@@ -1808,6 +1954,13 @@
           "Workspace",
           "Chef disponible",
           "Terraza cubierta"
+        ],
+        "nearby": [
+          "Lola's — Restaurante ★4.4 (2471 reseñas en Google)",
+          "El Mercadito de Tamarindo Food and Cocktail Market — Restaurante ★4.6 (2689 reseñas)",
+          "El Chiringuito — Restaurante ★4.3 (1227 reseñas)",
+          "Pangas Tamarindo — Restaurante ★4.5 (1190 reseñas)",
+          "Langosta Beach Club — Restaurante ★4.3 (810 reseñas)"
         ],
         "rules": [
           "Respetar los horarios de check-in / check-out salvo acuerdo previo.",
@@ -1825,12 +1978,31 @@
         "categorias": [],
         "destacados": []
       },
+      "guiaDigital": {
+        "url": "https://auditoria.zafiropm.com/g/404be756-9ca0-4ae5-9cbb-b8113449cf18",
+        "nota": "Guía digital que recibe el huésped al llegar (cómo llegar desde Liberia/SJO, checklist de salida, wifi/main gate/keypad, reglas, recomendaciones locales, botón de emergencias 911, reseña y reserva directa).",
+        "linkReservaDirecta": "https://www.zafiropm.com/"
+      },
       "units": [
         {
           "id": "malinches-26a",
           "name": "Casa Malinches 26A",
           "num": "26A",
           "pax": "8",
+          "extra": [
+            [
+              "WiFi",
+              "Mnet26A / SurfMalinches26A"
+            ],
+            [
+              "Main Gate",
+              "2102#"
+            ],
+            [
+              "Keypad",
+              "1407"
+            ]
+          ],
           "listing": {
             "title": "Casa Malinches 26A Nature Retreat",
             "url": "https://zafiropm.hostify.club/listing/400041562",
