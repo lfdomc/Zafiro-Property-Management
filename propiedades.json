@@ -17,6 +17,10 @@
         "Ya se cuenta con mensajes automáticos de check-in, instrucciones y check-out — enfocarse en atender dudas y consultas puntuales del huésped."
       ]
     },
+    "reservaDirecta": {
+      "url": "https://www.zafiropm.com/",
+      "nota": "Link general de reserva directa con Zafiro PM (el mismo para todas las propiedades) — mejor tarifa, sin comisiones de la plataforma."
+    },
     "mensajesFrecuentes": [
       {
         "id": "solicitud-datos-ingreso",
@@ -163,7 +167,7 @@
       "propertyId": "casa-mistica"
     },
     {
-      "property": "Arenas",
+      "property": "Arenas - Casa Celeste",
       "unit": "Casa Celeste",
       "pax": "5",
       "parqueo": "2 parqueos o dejar afuera todo bien",
@@ -615,8 +619,7 @@
           ],
           "guiaDigital": {
             "url": "https://auditoria.zafiropm.com/g/afbdc39b-756b-49e7-ad29-9e06d1ac1d9c",
-            "nota": "Guía digital confirmada como link fijo de esta propiedad (Zafiro confirmó que Místico usa el mismo patrón). Check-out confirmado: 11:00 AM.",
-            "linkReservaDirecta": "https://www.zafiropm.com/"
+            "nota": "Guía digital confirmada como link fijo de esta propiedad (Zafiro confirmó que Místico usa el mismo patrón). Check-out confirmado: 11:00 AM."
           },
           "checkin": {
             "id": "23a-checkin",
@@ -733,6 +736,18 @@
         [
           "Limpieza",
           "LPR 241"
+        ],
+        [
+          "Dirección",
+          "Lagos de Palma Real, Hacienda Pinilla, Tamarindo, 50309"
+        ],
+        [
+          "Acceso",
+          "Desde Aeropuerto Liberia (LIR): ~1h15. Desde San José (SJO): ~4.5-5h. Se recomienda alquilar auto; dentro de Hacienda Pinilla conviene auto, carrito de golf o bicicleta."
+        ],
+        [
+          "Número de casa",
+          "Casa #41, Lagos de Palma Real (confirmado — el mensaje de check-in viejo decía #42 por error, ya corregido)"
         ]
       ],
       "publicInfo": {
@@ -750,6 +765,13 @@
           "Caja fuerte",
           "Comunidad cerrada",
           "Bicicletas"
+        ],
+        "nearby": [
+          "Lola's — Restaurante ★4.4 (2471 reseñas)",
+          "El Mercadito de Tamarindo Food and Cocktail Market — Restaurante ★4.6 (2691 reseñas)",
+          "El Chiringuito — Restaurante ★4.3 (1227 reseñas)",
+          "Langosta Beach Club — Restaurante ★4.3 (811 reseñas)",
+          "Dragonfly Bar & Grill — Restaurante ★4.7 (1036 reseñas)"
         ],
         "rules": [
           "Respetar los horarios de check-in / check-out salvo acuerdo previo.",
@@ -780,6 +802,10 @@
           "correo": "NO",
           "whatsapp": "NO",
           "app": "SI (HAC)",
+          "guiaDigital": {
+            "url": "https://auditoria.zafiropm.com/g/31bf8720-3645-47bb-ae7e-0ba3ea3bf945",
+            "nota": "Guía digital de esta unidad."
+          },
           "listing": {
             "title": "Del Roble Refuge, Hacienda Pinilla, Beach House",
             "url": "https://zafiropm.hostify.club/listing/400035799",
@@ -822,7 +848,7 @@
         {
           "id": "roble-checkin",
           "title": "Check In",
-          "body": "Hello!\nYour arrival day is here and we want to make sure it goes as smoothly as possible. If you have not yet provided the information requested in the previous message, please do so, as without it, entry will not be possible.\n\nArrival links:\nWaze: Hacienda Pinilla (MAIN ENTRANCE) - https://waze.com/ul/hd1ffrq5b7\nLagos de palma Real (ONCE YOU ARE INSIDE HACIENDA PINILLA) - https://waze.com/ul/hd1ffqd1cv\nGoogle Maps: https://goo.gl/maps/wocaUdp4KHJrEZzm7\n\nEntrance to the house:\nAt the main entrance, you will check in with the security staff, identifying yourself and your visitors. Ask the guard to direct you to house #42 In Lagos de Palma Real. Once there, use the safe box at the main door to access the keys (code: #4102).\n\nGeneral information\n\nInternet:\nUsername: LPR 241\nPassword: PinillaLagos241\n\nPool access:\nThe condo facilities, including the pool, are available for guest use from 8 a.m. to 9 p.m.\n\nHouse Rules:\n* Respect the pool rules to avoid interruptions.\n*Visitors are not allowed due to condominium policies.\n*Glass objects are not allowed in the pool area.\n*Moderate noise after 10:00 p.m.\n* Smoking prohibited inside; Fees and penalties apply.\n* Clean and wash kitchen utensils after using them.\n* DO NOT rearrange furniture.\n* Parties or events are not allowed.\n*Pets allowed at our discretion; an additional charge applies.\n*Guests must be identified before the arrival so authorization can be sent to security.\n* The consumption of illegal drugs is not allowed.\nIf the towels or cloths become irreversibly stained, a charge of $40 will also be applied.\n* Lastly, as this is an Airbnb community and a private family home, please respect and keep the property clean before departure.\n\nBeach access:\nYou have full access to all the beaches inside Hacienda Pinilla. The beaches closer to the House are called Playa Mansita and Playa Langosta, they have amazing sunsets to check out.\n\nGeneral Map inside Hacienda Pinilla:\nhttps://www.flipsnack.com/CCC967BBDC9/general-map-hacienda-pinilla/full-view.html\n\nLagos de Palma Real Map: (Your unit 241)\nhttps://www.flipsnack.com/CCC967BBDC9/palma-real-residential-map/full-view.html\n\nGolf cart information:\nWe recommend this supplier in case you need to rent a golf cart\nSea Scape Rentals (Paulina Suarez) phone number +50684836903\n\nWe look forward to your stay!\n\nKind regards,\nZafiro Property Management"
+          "body": "Hello!\nYour arrival day is here and we want to make sure it goes as smoothly as possible. If you have not yet provided the information requested in the previous message, please do so, as without it, entry will not be possible.\n\nArrival links:\nWaze: Hacienda Pinilla (MAIN ENTRANCE) - https://waze.com/ul/hd1ffrq5b7\nLagos de palma Real (ONCE YOU ARE INSIDE HACIENDA PINILLA) - https://waze.com/ul/hd1ffqd1cv\nGoogle Maps: https://goo.gl/maps/wocaUdp4KHJrEZzm7\n\nEntrance to the house:\nAt the main entrance, you will check in with the security staff, identifying yourself and your visitors. Ask the guard to direct you to house #41 In Lagos de Palma Real. Once there, use the safe box at the main door to access the keys (code: #4102).\n\nGeneral information\n\nInternet:\nUsername: LPR 241\nPassword: PinillaLagos241\n\nPool access:\nThe condo facilities, including the pool, are available for guest use from 8 a.m. to 9 p.m.\n\nHouse Rules:\n* Respect the pool rules to avoid interruptions.\n*Visitors are not allowed due to condominium policies.\n*Glass objects are not allowed in the pool area.\n*Moderate noise after 10:00 p.m.\n* Smoking prohibited inside; Fees and penalties apply.\n* Clean and wash kitchen utensils after using them.\n* DO NOT rearrange furniture.\n* Parties or events are not allowed.\n*Pets allowed at our discretion; an additional charge applies.\n*Guests must be identified before the arrival so authorization can be sent to security.\n* The consumption of illegal drugs is not allowed.\nIf the towels or cloths become irreversibly stained, a charge of $40 will also be applied.\n* Lastly, as this is an Airbnb community and a private family home, please respect and keep the property clean before departure.\n\nBeach access:\nYou have full access to all the beaches inside Hacienda Pinilla. The beaches closer to the House are called Playa Mansita and Playa Langosta, they have amazing sunsets to check out.\n\nGeneral Map inside Hacienda Pinilla:\nhttps://www.flipsnack.com/CCC967BBDC9/general-map-hacienda-pinilla/full-view.html\n\nLagos de Palma Real Map: (Your unit 241)\nhttps://www.flipsnack.com/CCC967BBDC9/palma-real-residential-map/full-view.html\n\nGolf cart information:\nWe recommend this supplier in case you need to rent a golf cart\nSea Scape Rentals (Paulina Suarez) phone number +50684836903\n\nWe look forward to your stay!\n\nKind regards,\nZafiro Property Management"
         }
       ]
     },
@@ -955,8 +981,7 @@
         "url": "https://auditoria.zafiropm.com/g/a52dbe38-b076-45d0-b128-615ea8cddb10",
         "nota": "Guía digital que recibe el huésped al llegar (dirección con Google Maps, checklist de salida, wifi/keypad, reglas, botón de emergencias 911, link de reseña en Airbnb y link de reserva directa).",
         "whatsappConcierge": "https://wa.me/13058467025?text=Hola%20%F0%9F%91%8B%20Soy%20hu%C3%A9sped%20de%20Mistica%20Lakeside%20House%20-%20Playa%20Hermosa%20(Zafiro%20Property%20Management)%20y%20quiero%20reservar%20una%20experiencia%20con%20Local%20Bird.",
-        "linkReview": "https://www.airbnb.com/rooms/1420476142534015378",
-        "linkReservaDirecta": "https://www.zafiropm.com/"
+        "linkReview": "https://www.airbnb.com/rooms/1420476142534015378"
       },
       "units": [
         {
@@ -1208,8 +1233,7 @@
           ],
           "guiaDigital": {
             "url": "https://auditoria.zafiropm.com/g/9fb36a72-02b6-4426-9805-d5f81800f5f4",
-            "nota": "Guía digital de esta unidad (probablemente link fijo por propiedad, igual que Casa Mística). Trae también: instrucciones de A/C automático, cómo cerrar sesión de streaming, aviso de personal de mantenimiento uniformado, y checklist de basura/salida.",
-            "linkReservaDirecta": "https://www.zafiropm.com/"
+            "nota": "Guía digital de esta unidad (probablemente link fijo por propiedad, igual que Casa Mística). Trae también: instrucciones de A/C automático, cómo cerrar sesión de streaming, aviso de personal de mantenimiento uniformado, y checklist de basura/salida."
           },
           "listing": {
             "title": "The Town Praia 43",
@@ -1259,8 +1283,7 @@
           ],
           "guiaDigital": {
             "url": "https://auditoria.zafiropm.com/g/7af6a4b3-0869-4f66-9abd-01163252e9e9",
-            "nota": "Guía digital de esta unidad. Trae también: instrucciones de A/C automático, cómo cerrar sesión de streaming, aviso de personal de mantenimiento uniformado, y checklist de basura/salida (mismo patrón que Praia 43).",
-            "linkReservaDirecta": "https://www.zafiropm.com/"
+            "nota": "Guía digital de esta unidad. Trae también: instrucciones de A/C automático, cómo cerrar sesión de streaming, aviso de personal de mantenimiento uniformado, y checklist de basura/salida (mismo patrón que Praia 43)."
           },
           "listing": {
             "title": "The Town Praia 40",
@@ -1310,8 +1333,7 @@
           ],
           "guiaDigital": {
             "url": "https://auditoria.zafiropm.com/g/887c7fd2-491d-481b-a203-7a3b4aa7907e",
-            "nota": "Guía digital de esta unidad (mismo patrón que Praia 40/43: A/C automático, cerrar sesión de streaming, personal de mantenimiento uniformado, checklist de basura/salida).",
-            "linkReservaDirecta": "https://www.zafiropm.com/"
+            "nota": "Guía digital de esta unidad (mismo patrón que Praia 40/43: A/C automático, cerrar sesión de streaming, personal de mantenimiento uniformado, checklist de basura/salida)."
           },
           "listing": {
             "title": "The Town Praia 38",
@@ -1488,6 +1510,28 @@
           "Agua caliente",
           "Comunidad con cancha de tenis"
         ],
+        "nearby": [
+          {
+            "text": "Auto Mercado - Plaza Herradura — Supermercado ★4.6 (2661 reseñas)",
+            "url": "https://maps.google.com/?cid=7653150027407056972"
+          },
+          {
+            "text": "Starbucks Herradura — Café ★4.4 (206 reseñas)",
+            "url": "https://maps.google.com/?cid=4446705884878298959"
+          },
+          {
+            "text": "Vista Mar — Restaurante ★4.5 (865 reseñas)",
+            "url": "https://maps.google.com/?cid=944886647740401927"
+          },
+          {
+            "text": "Burger King Herradura — Comida rápida ★4.1 (224 reseñas)",
+            "url": "https://maps.google.com/?cid=5561051188339974401"
+          },
+          {
+            "text": "La Ostra — Restaurante de mariscos ★4.4 (1432 reseñas)",
+            "url": "https://maps.google.com/?cid=16224617731805690279"
+          }
+        ],
         "rules": [
           "No fumar dentro de la propiedad.",
           "No se permiten fiestas ni eventos.",
@@ -1591,6 +1635,21 @@
           "name": "Oasis 2",
           "num": "2",
           "pax": "5",
+          "accessCode": "Caja de seguridad (lockbox) cerca de la puerta: código 0502. Deslizar la tapa negra hacia abajo para ver los discos del código, ingresarlo, y jalar el panel frontal para abrir. Adentro está la llave. Al salir: volver a poner la llave, cerrar firme, y revolver los números para bloquearla.",
+          "extra": [
+            [
+              "WiFi",
+              "Oasis del Pacifico / Casa52026"
+            ],
+            [
+              "Dirección",
+              "Condominio Villa Verde, Quebrada Ganado, Puntarenas"
+            ]
+          ],
+          "guiaDigital": {
+            "url": "https://auditoria.zafiropm.com/g/8940c5db-dcd9-494c-92f4-c903e8adf035",
+            "nota": "Guía digital de esta unidad."
+          },
           "listing": {
             "title": "Oasis 2 Near Jaco Quiet And Comfortable Apartment",
             "url": "https://zafiropm.hostify.club/listing/400041273",
@@ -1664,7 +1723,7 @@
     {
       "id": "arenas",
       "group": "playa",
-      "name": "Arenas",
+      "name": "Arenas - Casa Celeste",
       "zone": "Herradura",
       "owner": "—",
       "note": "Distribución y fotos agregadas desde la ficha pública de Zafiro PM (Condominio Arenas).",
@@ -1812,8 +1871,7 @@
           ],
           "guiaDigital": {
             "url": "https://auditoria.zafiropm.com/g/d945f352-85b0-4c42-ad30-9d274bdd714b",
-            "nota": "Guía digital de esta unidad. La dirección en la guía dice \"Playa Hermosa\" aunque la propiedad es en Herradura — posible error de la plantilla, no de la ubicación real.",
-            "linkReservaDirecta": "https://www.zafiropm.com/"
+            "nota": "Guía digital de esta unidad. La dirección en la guía dice \"Playa Hermosa\" aunque la propiedad es en Herradura — posible error de la plantilla, no de la ubicación real."
           },
           "listing": {
             "title": "Family House in Herradura | Near Jacó | Near Beach",
@@ -1980,8 +2038,7 @@
       },
       "guiaDigital": {
         "url": "https://auditoria.zafiropm.com/g/404be756-9ca0-4ae5-9cbb-b8113449cf18",
-        "nota": "Guía digital que recibe el huésped al llegar (cómo llegar desde Liberia/SJO, checklist de salida, wifi/main gate/keypad, reglas, recomendaciones locales, botón de emergencias 911, reseña y reserva directa).",
-        "linkReservaDirecta": "https://www.zafiropm.com/"
+        "nota": "Guía digital que recibe el huésped al llegar (cómo llegar desde Liberia/SJO, checklist de salida, wifi/main gate/keypad, reglas, recomendaciones locales, botón de emergencias 911, reseña y reserva directa)."
       },
       "units": [
         {
