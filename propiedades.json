@@ -135,8 +135,8 @@
     },
     {
       "property": "Hermosa Palms",
-      "unit": "23B",
-      "pax": "8",
+      "unit": "Hermosa Palms Zafiro 23B",
+      "pax": "6",
       "parqueo": "2 parqueos o dejar afuera todo bien",
       "forms": "NO",
       "correo": "NO",
@@ -614,7 +614,7 @@
           "id": "u23a",
           "name": "Casa 23A",
           "num": "23A",
-          "pax": "6",
+          "pax": "8",
           "parqueo": "2 parqueos o dejar afuera todo bien",
           "accessCode": "Código de caja: #1991",
           "forms": "NO",
@@ -669,14 +669,14 @@
           "checkin": {
             "id": "23a-checkin",
             "title": "Check In Casa 23A",
-            "body": "Hello.\nYour arrival is just around the corner and we want to make sure it goes as smoothly as possible. If you have not yet provided the information requested in the previous message, please do so, as without it, entry will not be possible.\n\nArrival links:\nWaze: https://waze.com/ul/hd1ey7k83b\nGoogle Maps: https://goo.gl/maps/wocaUdp4KHJrEZzm7\n\nArrival and departure instructions:\nPlease provide the vehicle registration number, full names and identification documents of all guests of legal age to enter the main entrance of the condominium.\n\nEntrance to the house:\nAt the main entrance, you will check in with the security staff, identifying yourself and your visitors. Ask the guard to direct you to house #23A. Once there, use the safe box at the main door to access the keys (code: #1991).\n\nGeneral information\n\nFirst-floor Internet:\nUsername: ITALMEX\nPassword: chupichingon\n\nSecond-floor Internet:\nUsername: ITALMEX 2D\nPassword: chupichingonup\n\nPool access:\nThe condo facilities, including the pool, are available for guest use from 9 a.m. to 9 p.m.\n\nMod cons:\nFree use of gas barbecue and access to beach club. Please note that charges may apply for any repairs or losses.\n\nHouse Rules:\n*Access to the Beach Club is included; A replacement card costs $50 if lost.\n* Respect the pool rules to avoid interruptions.\n*Visitors are not allowed due to condominium policies.\n* Avoid drying clothes visible from the pool area.\n*Glass objects are not allowed in the pool area.\n*Moderate noise after 10:00 p.m.\n* Smoking prohibited inside; Fees and penalties apply.\n* Clean and wash kitchen utensils after using them.\n* DO NOT rearrange furniture.\n* Parties or events are not allowed.\n*Pets allowed at our discretion; an additional charge applies.\n*Guests must be identified; The accommodation capacity is 6 people.\n*Visitors or additional people beyond the reservation are not allowed.\n* The consumption of illegal drugs is not allowed.\n*In case of loss of the access card, a replacement fee of $35 will be applied. If the towels or cloths become irreversibly stained, a charge of $40 will also be applied.\n* Lastly, as this is an Airbnb community and a private family home, please respect and keep the property clean before departure.\n\nWe look forward to your stay!\n\nKind regards,\nZafiro Property Managment"
+            "body": "Hello.\nYour arrival is just around the corner and we want to make sure it goes as smoothly as possible. If you have not yet provided the information requested in the previous message, please do so, as without it, entry will not be possible.\n\nArrival links:\nWaze: https://waze.com/ul/hd1ey7k83b\nGoogle Maps: https://goo.gl/maps/wocaUdp4KHJrEZzm7\n\nArrival and departure instructions:\nPlease provide the vehicle registration number, full names and identification documents of all guests of legal age to enter the main entrance of the condominium.\n\nEntrance to the house:\nAt the main entrance, you will check in with the security staff, identifying yourself and your visitors. Ask the guard to direct you to house #23A. Once there, use the safe box at the main door to access the keys (code: #1991).\n\nGeneral information\n\nFirst-floor Internet:\nUsername: ITALMEX\nPassword: chupichingon\n\nSecond-floor Internet:\nUsername: ITALMEX 2D\nPassword: chupichingonup\n\nPool access:\nThe condo facilities, including the pool, are available for guest use from 9 a.m. to 9 p.m.\n\nMod cons:\nFree use of gas barbecue and access to beach club. Please note that charges may apply for any repairs or losses.\n\nHouse Rules:\n*Access to the Beach Club is included; A replacement card costs $50 if lost.\n* Respect the pool rules to avoid interruptions.\n*Visitors are not allowed due to condominium policies.\n* Avoid drying clothes visible from the pool area.\n*Glass objects are not allowed in the pool area.\n*Moderate noise after 10:00 p.m.\n* Smoking prohibited inside; Fees and penalties apply.\n* Clean and wash kitchen utensils after using them.\n* DO NOT rearrange furniture.\n* Parties or events are not allowed.\n*Pets allowed at our discretion; an additional charge applies.\n*Guests must be identified; The accommodation capacity is 8 people.\n*Visitors or additional people beyond the reservation are not allowed.\n* The consumption of illegal drugs is not allowed.\n*In case of loss of the access card, a replacement fee of $35 will be applied. If the towels or cloths become irreversibly stained, a charge of $40 will also be applied.\n* Lastly, as this is an Airbnb community and a private family home, please respect and keep the property clean before departure.\n\nWe look forward to your stay!\n\nKind regards,\nZafiro Property Managment"
           }
         },
         {
           "id": "u23b",
-          "name": "Casa 23B",
+          "name": "Hermosa Palms Zafiro 23B",
           "num": "23B",
-          "pax": "8",
+          "pax": "6",
           "parqueo": "2 parqueos o dejar afuera todo bien",
           "accessCode": "Código de caja: 3287",
           "forms": "NO",
