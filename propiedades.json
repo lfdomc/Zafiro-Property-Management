@@ -222,6 +222,17 @@
       "propertyId": "malinches"
     },
     {
+      "property": "Casa Providencia",
+      "unit": "Hacienda Pinilla — Villa 7 recámaras",
+      "pax": "22",
+      "parqueo": "6 vehículos",
+      "forms": "No",
+      "correo": "NO",
+      "whatsapp": "NO",
+      "app": "SI (HAC)",
+      "propertyId": "casa-providencia"
+    },
+    {
       "property": "Heavenly Highlands (FarmStay)",
       "unit": "San José / Santa Ana",
       "pax": "6",
@@ -240,6 +251,12 @@
       "name": "Urban Escalante",
       "zone": "San José · Barrio Escalante",
       "owner": "Varo & Michi",
+      "requisitosCheckIn": {
+        "resumen": "Llenar el formulario antes de las 11am de las reservas que ingresan ese día, y mandar por WhatsApp los datos del huésped junto con una foto de que el formulario ya fue enviado.",
+        "detalle": "Todo lo marcado con asterisco rojo en el formulario es obligatorio. El nombre del huésped principal siempre es obligatorio; los nombres de los demás invitados se incluyen si llegan a tiempo. Después de llenarlo, enviar por WhatsApp los datos del huésped junto con una captura de pantalla que confirme que el formulario ya fue enviado.",
+        "link": "https://docs.google.com/forms/d/e/1FAIpQLSe3mnUmQeWruJvsPMnOVt2uLG4HPneCRWPLeh0j5ao4_jdvkw/viewform",
+        "linkLabel": "Formulario Urban Escalante"
+      },
       "quickInfo": [
         [
           "Check in",
@@ -260,6 +277,10 @@
         [
           "Ingreso app",
           "NO"
+        ],
+        [
+          "Reglas de la casa (link para compartir)",
+          "https://zafiro-rules.vercel.app/"
         ]
       ],
       "units": [
@@ -273,22 +294,49 @@
           "correo": "NO",
           "whatsapp": "NO",
           "app": "NO",
+          "listing": {
+            "title": "Experiencia con vistas a la montaña y la ciudad",
+            "url": "https://www.airbnb.mx/rooms/52509641",
+            "airbnbUrl": "https://www.airbnb.mx/rooms/52509641",
+            "airbnbTitle": "Experiencia con vistas a la montaña y la ciudad",
+            "guests": 6,
+            "bedrooms": 2,
+            "beds": 2,
+            "bathrooms": 2,
+            "description": "Apartamento en el piso 23 de URBN, en Barrio Escalante. Conserje y seguridad 24/7, cowork, sala de yoga, sala de cine, Monkey Bar, gimnasio, piscina de agua templada. Vistas espectaculares a la montaña desde el balcón.",
+            "images": [
+              "https://a0.muscache.com/im/pictures/miso/Hosting-52509641/original/108e6c62-dca5-4a38-8368-bf79671a7707.jpeg",
+              "https://a0.muscache.com/im/pictures/miso/Hosting-52509641/original/fd8bdf7c-2ba0-42d2-a997-a0af6130fe13.jpeg",
+              "https://a0.muscache.com/im/pictures/miso/Hosting-52509641/original/17aa08ba-ca85-4f50-b158-00ccd4fcba8d.jpeg",
+              "https://a0.muscache.com/im/pictures/miso/Hosting-52509641/original/bddf9247-6b94-42b4-b3b6-aef8c3e4fe02.jpeg",
+              "https://a0.muscache.com/im/pictures/miso/Hosting-52509641/original/188fee88-991e-4512-9194-8c8578816ec9.jpeg"
+            ]
+          },
+          "rooms": [
+            "Habitación 1",
+            "Habitación 2",
+            "Sala: Sofá cama (para el 5to/6to huésped)"
+          ],
           "extra": [
             [
               "WiFi",
               "APT2307-5G / mountainview"
+            ],
+            [
+              "Velocidad WiFi",
+              "164 Mbps"
             ]
           ],
           "checkin": [
             {
               "id": "u2307-checkin",
               "title": "Check In Mountain City View (2307) (Español)",
-              "body": "¡Hola de nuevo! 😊\n\nTu llegada está a punto de llegar! Aquí tienes algunas instrucciones importantes.\n\n¡Queremos que te sientas como en casa y disfrutes de tu estancia en este espacio diseñado para ti! Es importante mencionar que este apartamento es un hogar, por favor trátalo como tratarías el espacio de tu amigo o familia, realmente te agradeceríamos que pudieras revisar nuestras normas de la casa accediendo a este enlace: https://www.dropbox.com/s/9z69jm67eorgboj/Moutain%26City_House%20Rules.pdf?dl=0\n\nCuando llegues al edificio, ve al vestíbulo. Avísale al conserje que vas a APT: 2307. Por favor, presenta el documento de identificación de todos los huéspedes (como el pasaporte, documento de identidad, permiso de conducir, etc.) y entrega al conserje el número de apartamento para que pueda acelerar el proceso de llegada y darte la tarjeta de acceso y la llave del apartamento. Si solicitaste una plaza de estacionamiento para tu estancia, será S2P34.\n\nDebes escanear un código QR con las normas del edificio, así que ayúdanos a cumplir esos acuerdos.\n\nRecuerda que el registro de entrada es a las 15:00 y el de salida a las 11:00.\n\nHemos dejado algunos artículos en la cocina para tu comodidad: café costarricense, pimienta negra, aceite de oliva, sal y otras especias.\n\nLas siguientes zonas comunes están abiertas al público, no se permiten bebidas alcohólicas ni drogas.\n\nHORARIO DE LAS ZONAS COMUNES:\n- PISCINA: de 5:00 A. M. a 9:00 P. M. (Cerrado por mantenimiento: LUNES, MIÉRCOLES y VIERNES de 3:00 P. M. a 4:00 P. M.) Esta se encuentra en el 7mo piso.\n- GIMNASIO: 3:30 A. M. a 10:30 P. M. (Cerrado por limpieza de 11:00 A. M. a 12:00 A. M.) Este se encuentra en el 7mo piso.\n- COWORKING, SALA DE YOGA y SALÓN: de 8:00 A. M. a 11:00 P. M. Este se encuentra en el piso 29.\n- ZONAS COMUNES, AZOTEA, SALA de televisión, TERRAZA: de 8:00 A. M. a 11:00 P. M. Se encuentran en el piso 29.\n(Es necesario reservar las salas de reuniones, sujeto a disponibilidad)\n\nTe rogamos que cuides la ropa de cama y las toallas, que tengas cuidado de no mancharlas ni dañarlas. Estamos en casa, no en un hotel.\n\nAquí encontrarás la información del wifi:\nNombre wifi: APT2307-5G\nContraseña: mountainview\n\nEsperamos que te sientas como en casa en este hermoso espacio, y si falta algo, no dudes en ponerte en contacto con nuestro equipo para preguntar.\n\nEnviarnos un mensaje a través de Airbnb es siempre la mejor opción.\n\nGracias a ti, que tengas una buena estancia.\nVaro y Michi"
+              "body": "¡Hola de nuevo! 😊\n\nTu llegada está a punto de llegar! Aquí tienes algunas instrucciones importantes.\n\n¡Queremos que te sientas como en casa y disfrutes de tu estancia en este espacio diseñado para ti! Es importante mencionar que este apartamento es un hogar, por favor trátalo como tratarías el espacio de tu amigo o familia, realmente te agradeceríamos que pudieras revisar nuestras normas de la casa accediendo a este enlace: https://zafiro-rules.vercel.app/\n\nCuando llegues al edificio, ve al vestíbulo. Avísale al conserje que vas a APT: 2307. Por favor, presenta el documento de identificación de todos los huéspedes (como el pasaporte, documento de identidad, permiso de conducir, etc.) y entrega al conserje el número de apartamento para que pueda acelerar el proceso de llegada y darte la tarjeta de acceso y la llave del apartamento. Si solicitaste una plaza de estacionamiento para tu estancia, será S2P34.\n\nDebes escanear un código QR con las normas del edificio, así que ayúdanos a cumplir esos acuerdos.\n\nRecuerda que el registro de entrada es a las 15:00 y el de salida a las 11:00.\n\nHemos dejado algunos artículos en la cocina para tu comodidad: café costarricense, pimienta negra, aceite de oliva, sal y otras especias.\n\nLas siguientes zonas comunes están abiertas al público, no se permiten bebidas alcohólicas ni drogas.\n\nHORARIO DE LAS ZONAS COMUNES:\n- PISCINA: de 5:00 A. M. a 9:00 P. M. (Cerrado por mantenimiento: LUNES, MIÉRCOLES y VIERNES de 3:00 P. M. a 4:00 P. M.) Esta se encuentra en el 7mo piso.\n- GIMNASIO: 3:30 A. M. a 10:30 P. M. (Cerrado por limpieza de 11:00 A. M. a 12:00 A. M.) Este se encuentra en el 7mo piso.\n- COWORKING, SALA DE YOGA y SALÓN: de 8:00 A. M. a 11:00 P. M. Este se encuentra en el piso 29.\n- ZONAS COMUNES, AZOTEA, SALA de televisión, TERRAZA: de 8:00 A. M. a 11:00 P. M. Se encuentran en el piso 29.\n(Es necesario reservar las salas de reuniones, sujeto a disponibilidad)\n\nTe rogamos que cuides la ropa de cama y las toallas, que tengas cuidado de no mancharlas ni dañarlas. Estamos en casa, no en un hotel.\n\nAquí encontrarás la información del wifi:\nNombre wifi: APT2307-5G\nContraseña: mountainview\n\nEsperamos que te sientas como en casa en este hermoso espacio, y si falta algo, no dudes en ponerte en contacto con nuestro equipo para preguntar.\n\nEnviarnos un mensaje a través de Airbnb es siempre la mejor opción.\n\nGracias a ti, que tengas una buena estancia.\nVaro y Michi"
             },
             {
               "id": "u2307-checkin-en",
               "title": "Check In Mountain City View (2307)",
-              "body": "Hi again! 😊\n\nYour arrival is coming up! Here are some important instructions.\n\nWe want you to feel at home and enjoy your stay in this space designed for you! It's important to mention that this apartment is a home, please treat it as you would treat your friend or family's space — we'd really appreciate it if you could review our house rules by accessing this link: https://www.dropbox.com/s/9z69jm67eorgboj/Moutain%26City_House%20Rules.pdf?dl=0\n\nWhen you arrive at the building, go to the lobby. Let the concierge know you're going to APT: 2307. Please present the ID of all guests (passport, ID card, driver's license, etc.) and give the concierge the apartment number so they can speed up the check-in process and give you the access card and apartment key. If you requested a parking spot for your stay, it will be S2P34.\n\nYou'll need to scan a QR code with the building rules, so please help us follow those agreements.\n\nRemember that check-in is at 15:00 and check-out is at 11:00.\n\nWe've left some items in the kitchen for your convenience: Costa Rican coffee, black pepper, olive oil, salt, and other spices.\n\nThe following common areas are open to the public; alcohol and drugs are not allowed.\n\nCOMMON AREAS SCHEDULE:\n- POOL: 5:00 AM to 9:00 PM (Closed for maintenance: MONDAY, WEDNESDAY and FRIDAY from 3:00 PM to 4:00 PM). Located on the 7th floor.\n- GYM: 3:30 AM to 10:30 PM (Closed for cleaning from 11:00 AM to 12:00 PM). Located on the 7th floor.\n- CO-WORKING, YOGA ROOM & LOUNGE: 8:00 AM to 11:00 PM. Located on the 29th floor.\n- COMMON AREAS, ROOFTOP, TV ROOM, TERRACE: 8:00 AM to 11:00 PM. Located on the 29th floor.\n(Meeting rooms need to be reserved, subject to availability)\n\nWe kindly ask that you take care of the bedding and towels, being careful not to stain or damage them. We're a home, not a hotel.\n\nHere's the WiFi info:\nWiFi name: APT2307-5G\nPassword: mountainview\n\nWe hope you feel at home in this beautiful space, and if anything is missing, please don't hesitate to reach out to our team to ask.\n\nMessaging us through Airbnb is always the best option.\n\nThank you, have a great stay.\nVaro y Michi"
+              "body": "Hi again! 😊\n\nYour arrival is coming up! Here are some important instructions.\n\nWe want you to feel at home and enjoy your stay in this space designed for you! It's important to mention that this apartment is a home, please treat it as you would treat your friend or family's space — we'd really appreciate it if you could review our house rules by accessing this link: https://zafiro-rules.vercel.app/\n\nWhen you arrive at the building, go to the lobby. Let the concierge know you're going to APT: 2307. Please present the ID of all guests (passport, ID card, driver's license, etc.) and give the concierge the apartment number so they can speed up the check-in process and give you the access card and apartment key. If you requested a parking spot for your stay, it will be S2P34.\n\nYou'll need to scan a QR code with the building rules, so please help us follow those agreements.\n\nRemember that check-in is at 15:00 and check-out is at 11:00.\n\nWe've left some items in the kitchen for your convenience: Costa Rican coffee, black pepper, olive oil, salt, and other spices.\n\nThe following common areas are open to the public; alcohol and drugs are not allowed.\n\nCOMMON AREAS SCHEDULE:\n- POOL: 5:00 AM to 9:00 PM (Closed for maintenance: MONDAY, WEDNESDAY and FRIDAY from 3:00 PM to 4:00 PM). Located on the 7th floor.\n- GYM: 3:30 AM to 10:30 PM (Closed for cleaning from 11:00 AM to 12:00 PM). Located on the 7th floor.\n- CO-WORKING, YOGA ROOM & LOUNGE: 8:00 AM to 11:00 PM. Located on the 29th floor.\n- COMMON AREAS, ROOFTOP, TV ROOM, TERRACE: 8:00 AM to 11:00 PM. Located on the 29th floor.\n(Meeting rooms need to be reserved, subject to availability)\n\nWe kindly ask that you take care of the bedding and towels, being careful not to stain or damage them. We're a home, not a hotel.\n\nHere's the WiFi info:\nWiFi name: APT2307-5G\nPassword: mountainview\n\nWe hope you feel at home in this beautiful space, and if anything is missing, please don't hesitate to reach out to our team to ask.\n\nMessaging us through Airbnb is always the best option.\n\nThank you, have a great stay.\nVaro y Michi"
             }
           ]
         },
@@ -320,12 +368,12 @@
             {
               "id": "u1208b-checkin",
               "title": "Check In Gourmet Terrace (1208B) (Español)",
-              "body": "¡Hola de nuevo! 😊\n\nTu llegada está a punto de llegar! Aquí tienes algunas instrucciones importantes.\n\n¡Queremos que te sientas como en casa y disfrutes de tu estancia en este espacio diseñado para ti! Es importante mencionar que este apartamento es un hogar, por favor trátalo como tratarías el espacio de tu amigo o familia, realmente te agradeceríamos que pudieras revisar nuestras normas de la casa accediendo a este enlace: https://www.dropbox.com/s/9z69jm67eorgboj/Moutain%26City_House%20Rules.pdf?dl=0\n\nCuando llegues al edificio, ve al vestíbulo. Avísale al conserje que vas a APT: 1208B. Por favor, presenta el documento de identificación de todos los huéspedes (como el pasaporte, documento de identidad, permiso de conducir, etc.) y entrega al conserje el número de apartamento para que pueda acelerar el proceso de llegada y darte la tarjeta de acceso y la llave del apartamento.\n\nDebes escanear un código QR con las normas del edificio, así que ayúdanos a cumplir esos acuerdos.\n\nRecuerda que el registro de entrada es a las 15:00 y el de salida a las 11:00.\n\nHemos dejado algunos artículos en la cocina para tu comodidad: café costarricense, pimienta negra, aceite de oliva, sal y otras especias.\n\nLas siguientes zonas comunes están abiertas al público, no se permiten bebidas alcohólicas ni drogas.\n\nHORARIO DE LAS ZONAS COMUNES:\n- PISCINA: de 5:00 A. M. a 9:00 P. M. (Cerrado por mantenimiento: LUNES, MIÉRCOLES y VIERNES de 3:00 P. M. a 4:00 P. M.) Esta se encuentra en el 7mo piso.\n- GIMNASIO: 3:30 A. M. a 10:30 P. M. (Cerrado por limpieza de 11:00 A. M. a 12:00 A. M.) Este se encuentra en el 7mo piso.\n- COWORKING, SALA DE YOGA y SALÓN: de 8:00 A. M. a 11:00 P. M. Este se encuentra en el piso 29.\n- ZONAS COMUNES, AZOTEA, SALA de televisión, TERRAZA: de 8:00 A. M. a 11:00 P. M. Se encuentran en el piso 29.\n(Es necesario reservar las salas de reuniones, sujeto a disponibilidad)\n\nTe rogamos que cuides la ropa de cama y las toallas, que tengas cuidado de no mancharlas ni dañarlas. Estamos en casa, no en un hotel.\n\nAquí encontrarás la información del wifi:\nNombre del wifi: APT1208B\nContraseña: PuraVida\n\nEsperamos que te sientas como en casa en este hermoso espacio, y si falta algo, no dudes en ponerte en contacto con nuestro equipo para preguntar.\n\nEnviarnos un mensaje a través de Airbnb es siempre la mejor opción.\n\nGracias a ti, que tengas una buena estancia.\nVaro y Michi"
+              "body": "¡Hola de nuevo! 😊\n\nTu llegada está a punto de llegar! Aquí tienes algunas instrucciones importantes.\n\n¡Queremos que te sientas como en casa y disfrutes de tu estancia en este espacio diseñado para ti! Es importante mencionar que este apartamento es un hogar, por favor trátalo como tratarías el espacio de tu amigo o familia, realmente te agradeceríamos que pudieras revisar nuestras normas de la casa accediendo a este enlace: https://zafiro-rules.vercel.app/\n\nCuando llegues al edificio, ve al vestíbulo. Avísale al conserje que vas a APT: 1208B. Por favor, presenta el documento de identificación de todos los huéspedes (como el pasaporte, documento de identidad, permiso de conducir, etc.) y entrega al conserje el número de apartamento para que pueda acelerar el proceso de llegada y darte la tarjeta de acceso y la llave del apartamento.\n\nDebes escanear un código QR con las normas del edificio, así que ayúdanos a cumplir esos acuerdos.\n\nRecuerda que el registro de entrada es a las 15:00 y el de salida a las 11:00.\n\nHemos dejado algunos artículos en la cocina para tu comodidad: café costarricense, pimienta negra, aceite de oliva, sal y otras especias.\n\nLas siguientes zonas comunes están abiertas al público, no se permiten bebidas alcohólicas ni drogas.\n\nHORARIO DE LAS ZONAS COMUNES:\n- PISCINA: de 5:00 A. M. a 9:00 P. M. (Cerrado por mantenimiento: LUNES, MIÉRCOLES y VIERNES de 3:00 P. M. a 4:00 P. M.) Esta se encuentra en el 7mo piso.\n- GIMNASIO: 3:30 A. M. a 10:30 P. M. (Cerrado por limpieza de 11:00 A. M. a 12:00 A. M.) Este se encuentra en el 7mo piso.\n- COWORKING, SALA DE YOGA y SALÓN: de 8:00 A. M. a 11:00 P. M. Este se encuentra en el piso 29.\n- ZONAS COMUNES, AZOTEA, SALA de televisión, TERRAZA: de 8:00 A. M. a 11:00 P. M. Se encuentran en el piso 29.\n(Es necesario reservar las salas de reuniones, sujeto a disponibilidad)\n\nTe rogamos que cuides la ropa de cama y las toallas, que tengas cuidado de no mancharlas ni dañarlas. Estamos en casa, no en un hotel.\n\nAquí encontrarás la información del wifi:\nNombre del wifi: APT1208B\nContraseña: PuraVida\n\nEsperamos que te sientas como en casa en este hermoso espacio, y si falta algo, no dudes en ponerte en contacto con nuestro equipo para preguntar.\n\nEnviarnos un mensaje a través de Airbnb es siempre la mejor opción.\n\nGracias a ti, que tengas una buena estancia.\nVaro y Michi"
             },
             {
               "id": "u1208b-checkin-en",
               "title": "Check In Gourmet Terrace (1208B)",
-              "body": "Hi again! 😊\n\nYour arrival is coming up! Here are some important instructions.\n\nWe want you to feel at home and enjoy your stay in this space designed for you! It's important to mention that this apartment is a home, please treat it as you would treat your friend or family's space — we'd really appreciate it if you could review our house rules by accessing this link: https://www.dropbox.com/s/9z69jm67eorgboj/Moutain%26City_House%20Rules.pdf?dl=0\n\nWhen you arrive at the building, go to the lobby. Let the concierge know you're going to APT: 1208B. Please present the ID of all guests (passport, ID card, driver's license, etc.) and give the concierge the apartment number so they can speed up the check-in process and give you the access card and apartment key.\n\nYou'll need to scan a QR code with the building rules, so please help us follow those agreements.\n\nRemember that check-in is at 15:00 and check-out is at 11:00.\n\nWe've left some items in the kitchen for your convenience: Costa Rican coffee, black pepper, olive oil, salt, and other spices.\n\nThe following common areas are open to the public; alcohol and drugs are not allowed.\n\nCOMMON AREAS SCHEDULE:\n- POOL: 5:00 AM to 9:00 PM (Closed for maintenance: MONDAY, WEDNESDAY and FRIDAY from 3:00 PM to 4:00 PM). Located on the 7th floor.\n- GYM: 3:30 AM to 10:30 PM (Closed for cleaning from 11:00 AM to 12:00 PM). Located on the 7th floor.\n- CO-WORKING, YOGA ROOM & LOUNGE: 8:00 AM to 11:00 PM. Located on the 29th floor.\n- COMMON AREAS, ROOFTOP, TV ROOM, TERRACE: 8:00 AM to 11:00 PM. Located on the 29th floor.\n(Meeting rooms need to be reserved, subject to availability)\n\nWe kindly ask that you take care of the bedding and towels, being careful not to stain or damage them. We're a home, not a hotel.\n\nHere's the WiFi info:\nWiFi name: APT1208B\nPassword: PuraVida\n\nWe hope you feel at home in this beautiful space, and if anything is missing, please don't hesitate to reach out to our team to ask.\n\nMessaging us through Airbnb is always the best option.\n\nThank you, have a great stay.\nVaro y Michi"
+              "body": "Hi again! 😊\n\nYour arrival is coming up! Here are some important instructions.\n\nWe want you to feel at home and enjoy your stay in this space designed for you! It's important to mention that this apartment is a home, please treat it as you would treat your friend or family's space — we'd really appreciate it if you could review our house rules by accessing this link: https://zafiro-rules.vercel.app/\n\nWhen you arrive at the building, go to the lobby. Let the concierge know you're going to APT: 1208B. Please present the ID of all guests (passport, ID card, driver's license, etc.) and give the concierge the apartment number so they can speed up the check-in process and give you the access card and apartment key.\n\nYou'll need to scan a QR code with the building rules, so please help us follow those agreements.\n\nRemember that check-in is at 15:00 and check-out is at 11:00.\n\nWe've left some items in the kitchen for your convenience: Costa Rican coffee, black pepper, olive oil, salt, and other spices.\n\nThe following common areas are open to the public; alcohol and drugs are not allowed.\n\nCOMMON AREAS SCHEDULE:\n- POOL: 5:00 AM to 9:00 PM (Closed for maintenance: MONDAY, WEDNESDAY and FRIDAY from 3:00 PM to 4:00 PM). Located on the 7th floor.\n- GYM: 3:30 AM to 10:30 PM (Closed for cleaning from 11:00 AM to 12:00 PM). Located on the 7th floor.\n- CO-WORKING, YOGA ROOM & LOUNGE: 8:00 AM to 11:00 PM. Located on the 29th floor.\n- COMMON AREAS, ROOFTOP, TV ROOM, TERRACE: 8:00 AM to 11:00 PM. Located on the 29th floor.\n(Meeting rooms need to be reserved, subject to availability)\n\nWe kindly ask that you take care of the bedding and towels, being careful not to stain or damage them. We're a home, not a hotel.\n\nHere's the WiFi info:\nWiFi name: APT1208B\nPassword: PuraVida\n\nWe hope you feel at home in this beautiful space, and if anything is missing, please don't hesitate to reach out to our team to ask.\n\nMessaging us through Airbnb is always the best option.\n\nThank you, have a great stay.\nVaro y Michi"
             }
           ]
         },
@@ -349,12 +397,12 @@
             {
               "id": "u1411-checkin",
               "title": "Check In Vistas de Volcanes (1411) (Español)",
-              "body": "¡Hola de nuevo! 😊\n\nTu llegada está a punto de llegar! Aquí tienes algunas instrucciones importantes.\n\n¡Queremos que te sientas como en casa y disfrutes de tu estancia en este espacio diseñado para ti! Es importante mencionar que este apartamento es un hogar, por favor trátalo como tratarías el espacio de tu amigo o familia, realmente te agradeceríamos que pudieras revisar nuestras normas de la casa accediendo a este enlace: https://www.dropbox.com/s/9z69jm67eorgboj/Moutain%26City_House%20Rules.pdf?dl=0\n\nCuando llegues al edificio, ve al vestíbulo. Avísale al conserje que vas a APT: 1411. Por favor, presenta el documento de identificación de todos los huéspedes (como el pasaporte, documento de identidad, permiso de conducir, etc.) y entrega al conserje el número de apartamento para que pueda acelerar el proceso de llegada y darte la tarjeta de acceso y la llave del apartamento. Si solicitaste una plaza de estacionamiento para tu estancia, será N4P25.\n\nDebes escanear un código QR con las normas del edificio, así que ayúdanos a cumplir esos acuerdos.\n\nRecuerda que el registro de entrada es a las 15:00 y el de salida a las 11:00.\n\nHemos dejado algunos artículos en la cocina para tu comodidad: café costarricense, pimienta negra, aceite de oliva, sal y otras especias.\n\nLas siguientes zonas comunes están abiertas al público, no se permiten bebidas alcohólicas ni drogas.\n\nHORARIO DE LAS ZONAS COMUNES:\n- PISCINA: de 5:00 A. M. a 9:00 P. M. (Cerrado por mantenimiento: LUNES, MIÉRCOLES y VIERNES de 3:00 P. M. a 4:00 P. M.) Esta se encuentra en el 7mo piso.\n- GIMNASIO: 3:30 A. M. a 10:30 P. M. (Cerrado por limpieza de 11:00 A. M. a 12:00 A. M.) Este se encuentra en el 7mo piso.\n- COWORKING, SALA DE YOGA y SALÓN: de 8:00 A. M. a 11:00 P. M. Este se encuentra en el piso 29.\n- ZONAS COMUNES, AZOTEA, SALA de televisión, TERRAZA: de 8:00 A. M. a 11:00 P. M. Se encuentran en el piso 29.\n(Es necesario reservar las salas de reuniones, sujeto a disponibilidad)\n\nTe rogamos que cuides la ropa de cama y las toallas, que tengas cuidado de no mancharlas ni dañarlas. Estamos en casa, no en un hotel.\n\nAquí encontrarás la información del wifi:\nNombre del wifi: APTO 1411\nContraseña: PuraVida\n\nEsperamos que te sientas como en casa en este hermoso espacio, y si falta algo, no dudes en ponerte en contacto con nuestro equipo para preguntar.\n\nEnviarnos un mensaje a través de Airbnb es siempre la mejor opción.\n\nGracias a ti, que tengas una buena estancia.\nVaro y Michi"
+              "body": "¡Hola de nuevo! 😊\n\nTu llegada está a punto de llegar! Aquí tienes algunas instrucciones importantes.\n\n¡Queremos que te sientas como en casa y disfrutes de tu estancia en este espacio diseñado para ti! Es importante mencionar que este apartamento es un hogar, por favor trátalo como tratarías el espacio de tu amigo o familia, realmente te agradeceríamos que pudieras revisar nuestras normas de la casa accediendo a este enlace: https://zafiro-rules.vercel.app/\n\nCuando llegues al edificio, ve al vestíbulo. Avísale al conserje que vas a APT: 1411. Por favor, presenta el documento de identificación de todos los huéspedes (como el pasaporte, documento de identidad, permiso de conducir, etc.) y entrega al conserje el número de apartamento para que pueda acelerar el proceso de llegada y darte la tarjeta de acceso y la llave del apartamento. Si solicitaste una plaza de estacionamiento para tu estancia, será N4P25.\n\nDebes escanear un código QR con las normas del edificio, así que ayúdanos a cumplir esos acuerdos.\n\nRecuerda que el registro de entrada es a las 15:00 y el de salida a las 11:00.\n\nHemos dejado algunos artículos en la cocina para tu comodidad: café costarricense, pimienta negra, aceite de oliva, sal y otras especias.\n\nLas siguientes zonas comunes están abiertas al público, no se permiten bebidas alcohólicas ni drogas.\n\nHORARIO DE LAS ZONAS COMUNES:\n- PISCINA: de 5:00 A. M. a 9:00 P. M. (Cerrado por mantenimiento: LUNES, MIÉRCOLES y VIERNES de 3:00 P. M. a 4:00 P. M.) Esta se encuentra en el 7mo piso.\n- GIMNASIO: 3:30 A. M. a 10:30 P. M. (Cerrado por limpieza de 11:00 A. M. a 12:00 A. M.) Este se encuentra en el 7mo piso.\n- COWORKING, SALA DE YOGA y SALÓN: de 8:00 A. M. a 11:00 P. M. Este se encuentra en el piso 29.\n- ZONAS COMUNES, AZOTEA, SALA de televisión, TERRAZA: de 8:00 A. M. a 11:00 P. M. Se encuentran en el piso 29.\n(Es necesario reservar las salas de reuniones, sujeto a disponibilidad)\n\nTe rogamos que cuides la ropa de cama y las toallas, que tengas cuidado de no mancharlas ni dañarlas. Estamos en casa, no en un hotel.\n\nAquí encontrarás la información del wifi:\nNombre del wifi: APTO 1411\nContraseña: PuraVida\n\nEsperamos que te sientas como en casa en este hermoso espacio, y si falta algo, no dudes en ponerte en contacto con nuestro equipo para preguntar.\n\nEnviarnos un mensaje a través de Airbnb es siempre la mejor opción.\n\nGracias a ti, que tengas una buena estancia.\nVaro y Michi"
             },
             {
               "id": "u1411-checkin-en",
               "title": "Check In Vistas de Volcanes (1411)",
-              "body": "Hi again! 😊\n\nYour arrival is coming up! Here are some important instructions.\n\nWe want you to feel at home and enjoy your stay in this space designed for you! It's important to mention that this apartment is a home, please treat it as you would treat your friend or family's space — we'd really appreciate it if you could review our house rules by accessing this link: https://www.dropbox.com/s/9z69jm67eorgboj/Moutain%26City_House%20Rules.pdf?dl=0\n\nWhen you arrive at the building, go to the lobby. Let the concierge know you're going to APT: 1411. Please present the ID of all guests (passport, ID card, driver's license, etc.) and give the concierge the apartment number so they can speed up the check-in process and give you the access card and apartment key. If you requested a parking spot for your stay, it will be N4P25.\n\nYou'll need to scan a QR code with the building rules, so please help us follow those agreements.\n\nRemember that check-in is at 15:00 and check-out is at 11:00.\n\nWe've left some items in the kitchen for your convenience: Costa Rican coffee, black pepper, olive oil, salt, and other spices.\n\nThe following common areas are open to the public; alcohol and drugs are not allowed.\n\nCOMMON AREAS SCHEDULE:\n- POOL: 5:00 AM to 9:00 PM (Closed for maintenance: MONDAY, WEDNESDAY and FRIDAY from 3:00 PM to 4:00 PM). Located on the 7th floor.\n- GYM: 3:30 AM to 10:30 PM (Closed for cleaning from 11:00 AM to 12:00 PM). Located on the 7th floor.\n- CO-WORKING, YOGA ROOM & LOUNGE: 8:00 AM to 11:00 PM. Located on the 29th floor.\n- COMMON AREAS, ROOFTOP, TV ROOM, TERRACE: 8:00 AM to 11:00 PM. Located on the 29th floor.\n(Meeting rooms need to be reserved, subject to availability)\n\nWe kindly ask that you take care of the bedding and towels, being careful not to stain or damage them. We're a home, not a hotel.\n\nHere's the WiFi info:\nWiFi name: APTO 1411\nPassword: PuraVida\n\nWe hope you feel at home in this beautiful space, and if anything is missing, please don't hesitate to reach out to our team to ask.\n\nMessaging us through Airbnb is always the best option.\n\nThank you, have a great stay.\nVaro y Michi"
+              "body": "Hi again! 😊\n\nYour arrival is coming up! Here are some important instructions.\n\nWe want you to feel at home and enjoy your stay in this space designed for you! It's important to mention that this apartment is a home, please treat it as you would treat your friend or family's space — we'd really appreciate it if you could review our house rules by accessing this link: https://zafiro-rules.vercel.app/\n\nWhen you arrive at the building, go to the lobby. Let the concierge know you're going to APT: 1411. Please present the ID of all guests (passport, ID card, driver's license, etc.) and give the concierge the apartment number so they can speed up the check-in process and give you the access card and apartment key. If you requested a parking spot for your stay, it will be N4P25.\n\nYou'll need to scan a QR code with the building rules, so please help us follow those agreements.\n\nRemember that check-in is at 15:00 and check-out is at 11:00.\n\nWe've left some items in the kitchen for your convenience: Costa Rican coffee, black pepper, olive oil, salt, and other spices.\n\nThe following common areas are open to the public; alcohol and drugs are not allowed.\n\nCOMMON AREAS SCHEDULE:\n- POOL: 5:00 AM to 9:00 PM (Closed for maintenance: MONDAY, WEDNESDAY and FRIDAY from 3:00 PM to 4:00 PM). Located on the 7th floor.\n- GYM: 3:30 AM to 10:30 PM (Closed for cleaning from 11:00 AM to 12:00 PM). Located on the 7th floor.\n- CO-WORKING, YOGA ROOM & LOUNGE: 8:00 AM to 11:00 PM. Located on the 29th floor.\n- COMMON AREAS, ROOFTOP, TV ROOM, TERRACE: 8:00 AM to 11:00 PM. Located on the 29th floor.\n(Meeting rooms need to be reserved, subject to availability)\n\nWe kindly ask that you take care of the bedding and towels, being careful not to stain or damage them. We're a home, not a hotel.\n\nHere's the WiFi info:\nWiFi name: APTO 1411\nPassword: PuraVida\n\nWe hope you feel at home in this beautiful space, and if anything is missing, please don't hesitate to reach out to our team to ask.\n\nMessaging us through Airbnb is always the best option.\n\nThank you, have a great stay.\nVaro y Michi"
             }
           ]
         }
@@ -369,12 +417,22 @@
         {
           "id": "urban-checkin",
           "title": "Check In",
-          "body": "Hello again [guest first name]. Your arrival It's almost here! Here you have some important instructions.\n\nWe want you to feel at home and enjoy your stay in this space designed for you! It's important to mention that this apartment is a home, please treat it as you would treat your friend or family's space, we would really appreciate if you can review our house rules by accessing this link: https://www.dropbox.com/s/9z69jm67eorgboj/Moutain%26City_House%20Rules.pdf?dl=0\n\n[check-in method]\n\nWe have left some items in the kitchen for your convenience: Costa Rican coffee, black pepper, olive oil, salt and other spices.\n\nThe following common areas are open to public, alcohol or drugs are not allowed.\n\nCOMMON AREAS SCHEDULE:\n- POOL: 5AM - 9PM (Closed for maintenance: MON, WED & FRI from 3PM to 4PM). Located on the 7th floor.\n- GYM: 3:30AM - 10:30PM (Closed for cleaning from 11AM to 12MD). Located on the 7th floor.\n- COWORKING, YOGA ROOM & LOUNGE: 8AM to 11PM. Located on the 29th floor.\n- COMMON AREAS, ROOFTOP, TV ROOM, TERRACE: 8AM to 11PM. Located on the 29th floor. (Meeting rooms reservation needed, subject to availability)\n\nWe kindly request you take care of the sheet bedding and towels, be careful about stain or damage them, we are home not a hotel.\n\nWifi Name: [wifi name]\nPassword: [wifi password]\n\nWe hope you feel at home in this beautiful space, and if anything is missing, please don't hesitate to reach out to our team to ask! Messaging us through Airbnb is always the best option.\n\nThank you, have a good stay.\nVaro & Michi"
+          "body": "Hello again [guest first name]. Your arrival It's almost here! Here you have some important instructions.\n\nWe want you to feel at home and enjoy your stay in this space designed for you! It's important to mention that this apartment is a home, please treat it as you would treat your friend or family's space, we would really appreciate if you can review our house rules by accessing this link: https://zafiro-rules.vercel.app/\n\n[check-in method]\n\nWe have left some items in the kitchen for your convenience: Costa Rican coffee, black pepper, olive oil, salt and other spices.\n\nThe following common areas are open to public, alcohol or drugs are not allowed.\n\nCOMMON AREAS SCHEDULE:\n- POOL: 5AM - 9PM (Closed for maintenance: MON, WED & FRI from 3PM to 4PM). Located on the 7th floor.\n- GYM: 3:30AM - 10:30PM (Closed for cleaning from 11AM to 12MD). Located on the 7th floor.\n- COWORKING, YOGA ROOM & LOUNGE: 8AM to 11PM. Located on the 29th floor.\n- COMMON AREAS, ROOFTOP, TV ROOM, TERRACE: 8AM to 11PM. Located on the 29th floor. (Meeting rooms reservation needed, subject to availability)\n\nWe kindly request you take care of the sheet bedding and towels, be careful about stain or damage them, we are home not a hotel.\n\nWifi Name: [wifi name]\nPassword: [wifi password]\n\nWe hope you feel at home in this beautiful space, and if anything is missing, please don't hesitate to reach out to our team to ask! Messaging us through Airbnb is always the best option.\n\nThank you, have a good stay.\nVaro & Michi"
         },
         {
           "id": "urban-checkin-es",
           "title": "Check In (Español)",
-          "body": "Hola de nuevo, [nombre del huésped]. ¡Tu llegada está muy cerca! Aquí tenés algunas instrucciones importantes.\n\n¡Queremos que te sientas como en casa y disfrutes tu estadía en este espacio diseñado para vos! Es importante mencionar que este apartamento es un hogar, por favor trátalo como tratarías el espacio de tu amigo o familia — te agradeceríamos que revisés nuestras normas de la casa accediendo a este enlace: https://www.dropbox.com/s/9z69jm67eorgboj/Moutain%26City_House%20Rules.pdf?dl=0\n\n[método de check-in]\n\nDejamos algunos artículos en la cocina para tu comodidad: café costarricense, pimienta negra, aceite de oliva, sal y otras especias.\n\nLas siguientes zonas comunes están abiertas al público; no se permiten bebidas alcohólicas ni drogas.\n\nHORARIO DE LAS ZONAS COMUNES:\n- PISCINA: 5AM–9PM (cerrada por mantenimiento lunes, miércoles y viernes de 3PM a 4PM). Piso 7.\n- GIMNASIO: 3:30AM–10:30PM (cerrado por limpieza de 11AM a 12MD). Piso 7.\n- COWORKING, SALA DE YOGA Y SALÓN: 8AM a 11PM. Piso 29.\n- ZONAS COMUNES, AZOTEA, SALA DE TV, TERRAZA: 8AM a 11PM. Piso 29. (Se necesita reservar las salas, sujeto a disponibilidad)\n\nTe pedimos por favor cuidar la ropa de cama y las toallas, evitando mancharlas o dañarlas — estamos en un hogar, no en un hotel.\n\nNombre del WiFi: [nombre del wifi]\nContraseña: [contraseña del wifi]\n\nEsperamos que te sientas como en casa en este hermoso espacio, y si falta algo, no dudes en contactar a nuestro equipo para preguntar. Escribirnos por Airbnb siempre es la mejor opción.\n\nGracias, que tengas una buena estadía.\nVaro & Michi"
+          "body": "Hola de nuevo, [nombre del huésped]. ¡Tu llegada está muy cerca! Aquí tenés algunas instrucciones importantes.\n\n¡Queremos que te sientas como en casa y disfrutes tu estadía en este espacio diseñado para vos! Es importante mencionar que este apartamento es un hogar, por favor trátalo como tratarías el espacio de tu amigo o familia — te agradeceríamos que revisés nuestras normas de la casa accediendo a este enlace: https://zafiro-rules.vercel.app/\n\n[método de check-in]\n\nDejamos algunos artículos en la cocina para tu comodidad: café costarricense, pimienta negra, aceite de oliva, sal y otras especias.\n\nLas siguientes zonas comunes están abiertas al público; no se permiten bebidas alcohólicas ni drogas.\n\nHORARIO DE LAS ZONAS COMUNES:\n- PISCINA: 5AM–9PM (cerrada por mantenimiento lunes, miércoles y viernes de 3PM a 4PM). Piso 7.\n- GIMNASIO: 3:30AM–10:30PM (cerrado por limpieza de 11AM a 12MD). Piso 7.\n- COWORKING, SALA DE YOGA Y SALÓN: 8AM a 11PM. Piso 29.\n- ZONAS COMUNES, AZOTEA, SALA DE TV, TERRAZA: 8AM a 11PM. Piso 29. (Se necesita reservar las salas, sujeto a disponibilidad)\n\nTe pedimos por favor cuidar la ropa de cama y las toallas, evitando mancharlas o dañarlas — estamos en un hogar, no en un hotel.\n\nNombre del WiFi: [nombre del wifi]\nContraseña: [contraseña del wifi]\n\nEsperamos que te sientas como en casa en este hermoso espacio, y si falta algo, no dudes en contactar a nuestro equipo para preguntar. Escribirnos por Airbnb siempre es la mejor opción.\n\nGracias, que tengas una buena estadía.\nVaro & Michi"
+        },
+        {
+          "id": "urban-house-rules",
+          "title": "Reglas de la Casa (Español)",
+          "body": "BIENVENIDOS A ZAFIRO PROPERTY MANAGEMENT\n\nNORMAS DE LA CASA A RESPETAR\nAquí hay algunas reglas que solicitamos cumplir. Si tiene alguna pregunta, por favor consulte.\n\nReglas de estadía:\n- Horarios: Entrada (Check-in) 3:00 PM | Salida (Check-out) 11:00 AM.\n- Fumado: Prohibido fumar dentro del edificio o en el balcón.\n- Energía: Apague los dispositivos cuando no estén en uso.\n- Convivencia: Sea silencioso y discreto con sus vecinos.\n- Basura: El ducto de basura es solo para residuos convencionales. No introduzca botellas de vidrio.\n- Prohibiciones: No se permiten fiestas ni drogas. No se permiten visitas.\n- Reciclaje: El centro de reciclaje está en el sótano #1 (S1).\n- Toallas: No use las toallas para limpiar suciedad o quitar el maquillaje.\n- Seguridad: Cuide las llaves y la tarjeta de acceso.\n- Objetos: No arroje objetos en los pasillos, áreas comunes, balcón o ventanas.\n- Restricciones legales: La prostitución o el turismo sexual están prohibidos.\n- Alcohol: No se permite alcohol en las áreas comunes.\n- Fotografía: Se prohíbe el video o fotografía profesional fuera del apartamento.\n- Áreas comunes: Las áreas comunes requieren reservación.\n\n¡DISFRUTE SU ESTADÍA!\n\nDirectorio de contactos:\n- Emergencias: 911 | Policía: 117 | Bomberos: 118\n- Persona a cargo: +506 8831 4833\n- Taxi Copetico: 2224-7979 | Taxi Alfaro: 2221-8466 | Taxi Aeropuerto: 2221-6865"
+        },
+        {
+          "id": "urban-house-rules-en",
+          "title": "House Rules",
+          "body": "WELCOME TO ZAFIRO PROPERTY MANAGEMENT\n\nHOUSE GUIDELINES TO RESPECT\nHere are some rules that we ask to apply. If you ever have any question, please ask.\n\nStay rules:\n- Hours: Check in 3:00 PM | Check out 11:00 AM.\n- Smoking: No smoking inside the building or balcony.\n- Energy: Turn off devices when not in use.\n- Neighbors: Be silent and discrete with your neighbours.\n- Trash: Trash duct only for conventional waste. No glass bottles.\n- Not allowed: Parties or drugs are not allowed. No visits are allowed.\n- Recycling: Recycling center is in basement #1 (S1).\n- Towels: Do not use towels to remove dirt or make up.\n- Security: Take care of the keys and access card.\n- Objects: Don't throw objects in hallways, common areas, balcony or windows.\n- Legal: Prostitution or sexual tourism is prohibited.\n- Alcohol: No alcohol in common areas.\n- Photography: Professional video or photography is prohibited outside the apartment.\n- Common areas: Common areas require reservation.\n\nENJOY YOUR STAY!\n\nContact directory:\n- Emergencies: 911 | Police: 117 | Fireman: 118\n- Person in charge: +506 8831 4833\n- Taxi Copetico: 2224-7979 | Taxi Alfaro: 2221-8466 | Taxi Airport: 2221-6865"
         },
         {
           "id": "urban-checkout",
@@ -399,6 +457,10 @@
       "name": "Qbo Skyhomes",
       "zone": "San José · Rohrmoser",
       "owner": "Varo & Michi",
+      "requisitosCheckIn": {
+        "resumen": "Enviar correo a recepcion@condominioqbo.com antes de la llegada del huésped.",
+        "detalle": "Datos a incluir: nombres y apellidos, número de documento de identidad o pasaporte, dirección de correo electrónico del huésped principal, y si ocupa espacio de parqueo."
+      },
       "quickInfo": [
         [
           "Check in",
@@ -466,7 +528,7 @@
       "correoTemplate": {
         "id": "qbo-correo",
         "title": "Correo diario a recepción (huéspedes del día)",
-        "body": "Buenos dias, Adjunto la información de los huéspedes de hoy:\n\nhuesped principal:\n[nombre huésped principal]\n\nhuéspedes en total:\n[cantidad] personas\n\nfecha: [fechas de estadía]\n\nParqueo [número]\n\nGracias, saludos."
+        "body": "Buenos dias, Adjunto la información de los huéspedes de hoy:\n\nNombres y apellidos:\n[nombre y apellidos del huésped principal]\n\nNúmero de documento de identidad o pasaporte:\n[número de documento]\n\nCorreo electrónico del huésped principal:\n[correo electrónico]\n\n¿Ocupa espacio de parqueo?:\n[Sí / No]\n\nGracias, saludos."
       },
       "messages": [
         {
@@ -487,6 +549,10 @@
       "name": "Hermosa Palms",
       "zone": "Jacó · Playa Hermosa",
       "owner": "Gustavo y Bruno",
+      "requisitosCheckIn": {
+        "resumen": "Enviar mensaje a la caseta de seguridad antes de las 11AM.",
+        "detalle": "Por WhatsApp: datos de los huéspedes, fechas de la reserva, y número de casa."
+      },
       "quickInfo": [
         [
           "Check in",
@@ -678,6 +744,7 @@
           "name": "Casa 23A",
           "num": "23A",
           "pax": "8",
+          "note": "No tiene aire acondicionado en la zona compartida (sala/comedor). Para subir a las habitaciones de la segunda planta se entra por unas gradas exteriores.",
           "parqueo": "2 parqueos o dejar afuera todo bien",
           "accessCode": "Código de caja: #1991",
           "forms": "NO",
@@ -687,11 +754,13 @@
           "listing": {
             "title": "Hermosa Palms Breeze & Beach Club",
             "url": "https://zafiropm.hostify.club/listing/400017387",
+            "airbnbUrl": "https://www.airbnb.mx/rooms/1095899689699640924",
+            "airbnbTitle": "Hermosa casa Palms con club de playa y vista al mar",
             "guests": 8,
             "bedrooms": 3,
             "beds": 5,
             "bathrooms": 2,
-            "description": "Dúplex en comunidad cerrada frente al mar. Sala, cocina equipada, comedor exterior, bar, 2 baños completos, terraza en la azotea y 3 habitaciones. Parqueo para 3 vehículos, jardín trasero y acceso al Beach Club con spa, restaurante, bar y cafetería.",
+            "description": "Dúplex en comunidad cerrada frente al mar. Sala, cocina equipada, comedor exterior, bar, 2 baños completos, terraza en la azotea y 3 habitaciones (todas con A/C). Parqueo para 3 vehículos, jardín trasero y acceso al Beach Club con spa, restaurante, bar y cafetería. Cerca: Playa Jacó (15 min), Parque Nacional Carara (30 min), Puente de Cocodrilos Río Tárcoles (25 min), Los Sueños Marina (20 min), Playa Herradura (20 min), Parque Nacional Manuel Antonio (1h15).",
             "images": [
               "https://img.hostify.com/400000158/property/1f457b222695fd78a6a5a827e8a0363b-lg.jpg",
               "https://img.hostify.com/400000158/property/0516210dfb86d01bd7b0cd5e8a8f5024-lg.jpg",
@@ -756,11 +825,13 @@
           "listing": {
             "title": "Hermosa Palms Refuge Beach Front Club House",
             "url": "https://zafiropm.hostify.club/listing/400013842",
+            "airbnbUrl": "https://www.airbnb.mx/rooms/1019045547334632955",
+            "airbnbTitle": "Gran estudio",
             "guests": 6,
             "bedrooms": 3,
             "beds": 4,
             "bathrooms": 2,
-            "description": "Casa \"Refugio Hermosa\" dentro del Refugio Nacional de Vida Silvestre Playa Hermosa. Habitación principal con cama king, segunda habitación con cama king y balcón, tercera con dos camas individuales. Sala y cocina de concepto abierto, terraza para comer entre la naturaleza, y acceso al Beach Club con piscina vista al mar y restaurante.",
+            "description": "Casa \"Refugio Hermosa\" dentro del Refugio Nacional de Vida Silvestre Playa Hermosa. Habitación principal con cama king, segunda habitación con cama king y balcón, tercera con dos camas individuales (todas con A/C). Sala y cocina de concepto abierto, terraza para comer entre la naturaleza, y acceso al Beach Club con piscina vista al mar y restaurante. Parqueo para 2 vehículos. ⚠️ La lavandería NO es de acceso libre — solo se abre si el huésped la solicita. Cerca: Playa Jacó (15 min), Los Sueños Marina (20 min), Playa Herradura (20 min), Parque Nacional Manuel Antonio (1h15).",
             "images": [
               "https://img.hostify.com/400000158/property/29ecd8f305461b8437ab2d85ce826c88-lg.jpg",
               "https://img.hostify.com/400000158/property/a3c33b5f63319b034d25ed210839b6a4-lg.jpg",
@@ -771,8 +842,8 @@
           },
           "rooms": [
             "Habitación 1: Cama king",
-            "Habitación 2: Cama queen, 1 cama individual",
-            "Habitación 3: Cama queen, 1 cama individual",
+            "Habitación 2: Cama king",
+            "Habitación 3: 2 camas individuales",
             "2 baños separados de las habitaciones"
           ],
           "extra": [
@@ -810,6 +881,9 @@
       "name": "Del Roble Refuge - Hacienda Pinilla",
       "zone": "Guanacaste · Hacienda Pinilla (Lagos de Palma Real)",
       "owner": "Melissa Marie",
+      "requisitosCheckIn": {
+        "resumen": "Generar y enviar el código QR de acceso a través de la app HAC."
+      },
       "quickInfo": [
         [
           "Check in",
@@ -932,6 +1006,8 @@
           "listing": {
             "title": "Del Roble Refuge, Hacienda Pinilla, Beach House",
             "url": "https://zafiropm.hostify.club/listing/400035799",
+            "airbnbUrl": "https://www.airbnb.mx/rooms/1537070702417758761",
+            "airbnbTitle": "Luxury Pinilla de 3 habitaciones (10 personas), a pocos minutos de la playa",
             "guests": 10,
             "bedrooms": 3,
             "beds": 5,
@@ -946,10 +1022,10 @@
             ]
           },
           "rooms": [
-            "Habitación 1: Cama king",
-            "Habitación 2: Cama queen, 1 individual",
-            "Habitación 3: Cama queen, 1 individual",
-            "3.5 baños"
+            "Habitación 1: 2 camas queen",
+            "Habitación 2: 2 camas queen",
+            "Habitación 3: Cama king",
+            "4.5 baños (cada habitación con baño privado)"
           ],
           "extra": [
             [
@@ -1006,6 +1082,10 @@
       "name": "Casa Mística",
       "zone": "Jacó · Playa Hermosa (Místico)",
       "owner": "Jose Alberto",
+      "requisitosCheckIn": {
+        "resumen": "Enviar mensaje a la caseta de seguridad antes de las 11AM, y crear el ingreso del huésped en la app ADITUM.",
+        "detalle": "Por WhatsApp: datos de los huéspedes, fechas de la reserva, y número de casa. Además, hay que registrar el ingreso en la app ADITUM para que la caseta lo tenga habilitado."
+      },
       "quickInfo": [
         [
           "Check in",
@@ -1136,6 +1216,7 @@
           "name": "Barca 5",
           "num": "Barca 5",
           "pax": "8",
+          "note": "Si se agregan huéspedes adicionales después de la primera confirmación de la reserva, el costo puede aumentar.",
           "parqueo": "Espacio #5 (asignado exclusivamente a Barca 5)",
           "forms": "NO",
           "correo": "NO",
@@ -1144,6 +1225,8 @@
           "listing": {
             "title": "Mística Lakeside House (Místico)",
             "url": "https://zafiropm.hostify.club/listing/400030821",
+            "airbnbUrl": "https://www.airbnb.mx/rooms/1420476142534015378",
+            "airbnbTitle": "Casa Lakeside Piscina privada- Playa Hermosa",
             "guests": 8,
             "bedrooms": 3,
             "beds": 3,
@@ -1175,6 +1258,10 @@
             [
               "KeyPad",
               "74742"
+            ],
+            [
+              "Nombre Airbnb",
+              "Casa Lakeside Piscina privada- Playa Hermosa"
             ]
           ]
         }
@@ -1219,6 +1306,10 @@
       "zone": "Jacó · The Town at Praia",
       "owner": "Bruno Casalvolone",
       "note": "En las guías de cada propiedad está la información de la clave y del internet.",
+      "requisitosCheckIn": {
+        "resumen": "Enviar mensaje a la caseta de seguridad antes de las 11AM.",
+        "detalle": "Por WhatsApp: datos de los huéspedes, fechas de la reserva, y número de casa."
+      },
       "quickInfo": [
         [
           "Check in",
@@ -1263,6 +1354,10 @@
         [
           "Parrilla",
           "Llamar a Felipe si se necesita limpieza"
+        ],
+        [
+          "Servicios opcionales",
+          "Se pueden coordinar con cargo adicional: preabastecimiento de comestibles, chef privado, limpieza diaria (según anuncios de Airbnb)"
         ]
       ],
       "publicInfo": {
@@ -1401,6 +1496,7 @@
           "name": "Praia 43",
           "num": "43",
           "pax": "8",
+          "note": "Si se agregan huéspedes adicionales después de la primera confirmación de la reserva, el costo puede aumentar.",
           "parqueo": "1 parqueo y visitas",
           "forms": "NO",
           "correo": "NO",
@@ -1445,6 +1541,8 @@
           "listing": {
             "title": "The Town Praia 43",
             "url": "https://zafiropm.hostify.club/listing/400036456",
+            "airbnbUrl": "https://www.airbnb.mx/rooms/1548075920626225332",
+            "airbnbTitle": "Villa con piscina privada a minutos de la playa de Jacó",
             "guests": 8,
             "bedrooms": 3,
             "beds": 4,
@@ -1508,6 +1606,8 @@
           "listing": {
             "title": "The Town Praia 40",
             "url": "https://zafiropm.hostify.club/listing/400036453",
+            "airbnbUrl": "https://www.airbnb.mx/rooms/1548069108301621074",
+            "airbnbTitle": "Villa con piscina privada cerca de los lugares de surf de Jacó",
             "guests": 6,
             "bedrooms": 2,
             "beds": 3,
@@ -1571,6 +1671,8 @@
           "listing": {
             "title": "The Town Praia 38",
             "url": "https://zafiropm.hostify.club/listing/400036454",
+            "airbnbUrl": "https://www.airbnb.mx/rooms/1548069535822513327",
+            "airbnbTitle": "Villa en Jacó con piscina y Beach Club",
             "guests": 6,
             "bedrooms": 2,
             "beds": 3,
@@ -1630,6 +1732,8 @@
           "listing": {
             "title": "The Town Praia 37",
             "url": "https://zafiropm.hostify.club/listing/400036455",
+            "airbnbUrl": "https://www.airbnb.mx/rooms/1548072961229257403",
+            "airbnbTitle": "Villa en comunidad cerrada en Jacó con alberca privada",
             "guests": 6,
             "bedrooms": 2,
             "beds": 3,
@@ -1748,6 +1852,8 @@
           "listing": {
             "title": "The Town Praia 41",
             "url": "https://zafiropm.hostify.club/listing/400036452",
+            "airbnbUrl": "https://www.airbnb.mx/rooms/1548066448539019493",
+            "airbnbTitle": "Ubicación privilegiada, piscina privada, lugares para hacer surf en Jacó",
             "guests": 6,
             "bedrooms": 2,
             "beds": 3,
@@ -1770,7 +1876,10 @@
       "name": "Villa Verde - Oasis",
       "zone": "Herradura · Quebrada Ganado",
       "owner": "—",
-      "note": "El check-in interno queda tal cual estaba documentado. La distribución y fotos de cada Oasis se agregaron desde la ficha pública de Zafiro PM.",
+      "requisitosCheckIn": {
+        "resumen": "Enviar los datos del huésped por WhatsApp a la caseta de seguridad, y crear el ingreso en la app ADITUM.",
+        "detalle": "Confirmar también el ingreso en la app ADITUM para que la caseta lo tenga habilitado."
+      },
       "quickInfo": [
         [
           "Casa",
@@ -1791,6 +1900,10 @@
         [
           "Ingreso app",
           "SI (ADITUM)"
+        ],
+        [
+          "Complejo",
+          "4 apartamentos independientes, construidos en febrero 2026, cerca de la piscina"
         ]
       ],
       "publicInfo": {
@@ -1910,6 +2023,11 @@
           "num": "1",
           "pax": "5",
           "accessCode": "Lockbox cerca de la puerta: código 0501. Deslizar la tapa negra hacia abajo para ver los discos del código, ingresarlo, y jalar el panel frontal para abrir. Adentro está la llave. Al salir: volver a poner la llave, cerrar firme, y revolver los números para bloquearla.",
+          "rooms": [
+            "Habitación 1: Cama Queen",
+            "Habitación 2: Cama Queen",
+            "Sala: Sofá cama"
+          ],
           "extra": [
             [
               "WiFi",
@@ -1918,6 +2036,10 @@
             [
               "Dirección",
               "Casas Oasis del Pacifico, Villa Verde, Quebrada Ganado, Puntarenas"
+            ],
+            [
+              "Nombre Airbnb",
+              "Escapada Perfecta | Privacidad, Espacio y Confort"
             ]
           ],
           "checkin": [
@@ -1936,11 +2058,13 @@
           "listing": {
             "title": "Oasis 1 Near Jaco Beach Spacious Great Value Stay",
             "url": "https://zafiropm.hostify.club/listing/400041272",
+            "airbnbUrl": "https://www.airbnb.mx/rooms/1642013545896334036",
+            "airbnbTitle": "Escapada Perfecta | Privacidad, Espacio y Confort",
             "guests": 5,
             "bedrooms": 2,
             "beds": 3,
             "bathrooms": 1,
-            "description": "Unidad en Villa Verde, Quebrada Ganado, a pocos minutos de Playa Jacó. Áreas amplias, cocina funcional y ambiente privado; buena relación espacio/precio fuera del bullicio de Jacó.",
+            "description": "Unidad en Villa Verde, Quebrada Ganado, a pocos minutos de Playa Jacó. Áreas amplias, cocina funcional y ambiente privado; buena relación espacio/precio fuera del bullicio de Jacó. Cerca de Jacó (15 min), Herradura (8 min) y Punta Leona (5 min).",
             "images": [
               "https://img.hostify.com/400000158/property/f8f22d01629a5cd32ab3b798bd3d65a9-lg.jpg",
               "https://img.hostify.com/400000158/property/62fc73b3857643816b3ce769485b7436-lg.jpg",
@@ -1956,6 +2080,11 @@
           "num": "2",
           "pax": "5",
           "accessCode": "Caja de seguridad (lockbox) cerca de la puerta: código 0502. Deslizar la tapa negra hacia abajo para ver los discos del código, ingresarlo, y jalar el panel frontal para abrir. Adentro está la llave. Al salir: volver a poner la llave, cerrar firme, y revolver los números para bloquearla.",
+          "rooms": [
+            "Habitación 1: Cama queen",
+            "Habitación 2: Cama queen",
+            "Sala: Sofá cama"
+          ],
           "extra": [
             [
               "WiFi",
@@ -1986,6 +2115,8 @@
           "listing": {
             "title": "Oasis 2 Near Jaco Quiet And Comfortable Apartment",
             "url": "https://zafiropm.hostify.club/listing/400041273",
+            "airbnbUrl": "https://www.airbnb.mx/rooms/1642467124401607109",
+            "airbnbTitle": "Escapada minutos de Jacó | Paz y confort",
             "guests": 5,
             "bedrooms": 2,
             "beds": 3,
@@ -2006,6 +2137,11 @@
           "num": "3",
           "pax": "5",
           "accessCode": "Lockbox cerca de la puerta: código 0503. Deslizar la tapa negra hacia abajo para ver los discos del código, ingresarlo, y jalar el panel frontal para abrir. Adentro está la llave. Al salir: volver a poner la llave, cerrar firme, y revolver los números para bloquearla.",
+          "rooms": [
+            "Habitación 1: Cama queen",
+            "Habitación 2: Cama queen",
+            "Sala: Sofá cama"
+          ],
           "extra": [
             [
               "WiFi",
@@ -2032,6 +2168,8 @@
           "listing": {
             "title": "Oasis 3 Best Value Near Jacó Peaceful Stay",
             "url": "https://zafiropm.hostify.club/listing/400041271",
+            "airbnbUrl": "https://www.airbnb.mx/rooms/1641742453744802368",
+            "airbnbTitle": "Cerca de Jacó | Amplia, privada y relajante",
             "guests": 5,
             "bedrooms": 2,
             "beds": 3,
@@ -2060,6 +2198,10 @@
             [
               "Dirección",
               "Casas Oasis del Pacifico, Villa Verde, Quebrada Ganado, Puntarenas"
+            ],
+            [
+              "Nombre Airbnb",
+              "Apartamento cerca de Jacó | Espacio y privacidad"
             ]
           ],
           "checkin": [
@@ -2075,14 +2217,21 @@
             }
           ],
           "comoLlegar": "https://maps.app.goo.gl/KPJS8oMQr49c2tqB6",
+          "rooms": [
+            "Habitación 1: Cama Queen",
+            "Habitación 2: Cama Queen",
+            "Sala: Sofá cama"
+          ],
           "listing": {
             "title": "Oasis 4 Jaco Area Spacious Home Quiet Location",
             "url": "https://zafiropm.hostify.club/listing/400041270",
+            "airbnbUrl": "https://www.airbnb.mx/rooms/1641712883986018378",
+            "airbnbTitle": "Apartamento cerca de Jacó | Espacio y privacidad",
             "guests": 5,
             "bedrooms": 2,
             "beds": 3,
             "bathrooms": 1,
-            "description": "Unidad en Villa Verde, Quebrada Ganado, a pocos minutos de Playa Jacó. Áreas amplias, cocina funcional y ambiente privado; buena relación espacio/precio fuera del bullicio de Jacó.",
+            "description": "Unidad en Villa Verde, Quebrada Ganado, a pocos minutos de Playa Jacó. Áreas amplias, cocina funcional y ambiente privado; buena relación espacio/precio fuera del bullicio de Jacó. Cerca de Jacó (15 min), Herradura (8 min) y Punta Leona (5 min).",
             "images": [
               "https://img.hostify.com/400000158/property/83fdffe2f08e6ed2218649c44397c9cc-lg.jpg",
               "https://img.hostify.com/400000158/property/d881c06404ce45034d27da28f2c66d10-lg.jpg",
@@ -2133,6 +2282,10 @@
       "zone": "Herradura",
       "owner": "—",
       "note": "Distribución y fotos agregadas desde la ficha pública de Zafiro PM (Condominio Arenas).",
+      "requisitosCheckIn": {
+        "resumen": "Llenar el formulario correspondiente antes de la llegada del huésped.",
+        "detalle": "Confirmar también el ingreso en la app TREA."
+      },
       "quickInfo": [
         [
           "Casa",
@@ -2288,9 +2441,14 @@
         {
           "id": "arenas-celeste",
           "name": "Casa Celeste",
-          "num": "",
+          "num": "158",
           "pax": "6",
-          "accessCode": "Cerradura inteligente en puerta principal: código 3287 (tocar el teclado para activar la pantalla, ingresar el código, y presionar ✓ para confirmar)",
+          "accessCode": "Puerta principal (cerradura inteligente): código 42865 (tocar el teclado para activar la pantalla, ingresar el código, y presionar ✓ para confirmar). Caja de seguridad de llaves: código 2539.",
+          "rooms": [
+            "Habitación 1: Cama queen",
+            "Habitación 2: Cama matrimonial",
+            "Sala: Sofá cama + sofá"
+          ],
           "extra": [
             [
               "WiFi",
@@ -2301,12 +2459,12 @@
             {
               "id": "arenas-checkin",
               "title": "Check In Casa Celeste (Arenas) (Español)",
-              "body": "¡Hola! 😊\n\nTu llegada está a punto de llegar y queremos asegurarnos de que todo salga lo mejor posible.\n\nAl llegar al Condominio Arenas, por favor detente en la caseta de seguridad y da tu nombre — te van a guiar hasta la casa.\n\nAcceso a la casa:\nLa puerta principal tiene cerradura inteligente (smart lock). Para abrirla:\n1. Tocá suavemente el teclado con la palma de la mano para activar la pantalla.\n2. Ingresá el código: 3287\n3. Presioná el botón ✓ para confirmar.\n4. Si el código es correcto, la puerta se destraba automáticamente.\n\nWiFi:\nRed: Maki playa\nContraseña: Perrofoca2024\n\nCualquier duda antes o durante tu estadía, no dudes en escribirnos. ¡Que disfrutes tu tiempo en Arenas!"
+              "body": "¡Hola! 😊\n\nTu llegada está a punto de llegar y queremos asegurarnos de que todo salga lo mejor posible.\n\nAl llegar al Condominio Arenas, por favor detente en la caseta de seguridad y da tu nombre — te van a guiar hasta la casa 158.\n\nAcceso a la casa:\nLa puerta principal tiene cerradura inteligente (smart lock). Para abrirla:\n1. Tocá suavemente el teclado con la palma de la mano para activar la pantalla.\n2. Ingresá el código: 42865\n3. Presioná el botón ✓ para confirmar.\n4. Si el código es correcto, la puerta se destraba automáticamente.\n\nCaja de seguridad de llaves: código 2539.\n\nWiFi:\nRed: Maki playa\nContraseña: Perrofoca2024\n\nCualquier duda antes o durante tu estadía, no dudes en escribirnos. ¡Que disfrutes tu tiempo en Arenas!"
             },
             {
               "id": "arenas-checkin-en",
               "title": "Check In Casa Celeste (Arenas)",
-              "body": "Hi there! 😊\n\nYour arrival is right around the corner and we want to make sure everything goes as smoothly as possible.\n\nWhen you get to Condominio Arenas, please stop at the security gate and give your name — they'll guide you to the house.\n\nHouse access:\nThe front door has a smart lock. To open it:\n1. Gently tap the keypad with your palm to wake up the screen.\n2. Enter the code: 3287\n3. Press the ✓ button to confirm.\n4. If the code is correct, the door will unlock automatically.\n\nWiFi:\nNetwork: Maki playa\nPassword: Perrofoca2024\n\nIf you have any questions before or during your stay, feel free to reach out. Enjoy your time at Arenas!"
+              "body": "Hi there! 😊\n\nYour arrival is right around the corner and we want to make sure everything goes as smoothly as possible.\n\nWhen you get to Condominio Arenas, please stop at the security gate and give your name — they'll guide you to house 158.\n\nHouse access:\nThe front door has a smart lock. To open it:\n1. Gently tap the keypad with your palm to wake up the screen.\n2. Enter the code: 42865\n3. Press the ✓ button to confirm.\n4. If the code is correct, the door will unlock automatically.\n\nKey security box: code 2539.\n\nWiFi:\nNetwork: Maki playa\nPassword: Perrofoca2024\n\nIf you have any questions before or during your stay, feel free to reach out. Enjoy your time at Arenas!"
             }
           ],
           "guiaDigital": {
@@ -2317,11 +2475,13 @@
           "listing": {
             "title": "Family House in Herradura | Near Jacó | Near Beach",
             "url": "https://zafiropm.hostify.club/listing/400038676",
+            "airbnbUrl": "https://www.airbnb.mx/rooms/1592935499113594432",
+            "airbnbTitle": "Casa familiar en Herradura | Cerca de Jacó | Cerca de la playa",
             "guests": 6,
             "bedrooms": 2,
             "beds": 4,
             "bathrooms": 2,
-            "description": "Condominio Arenas: comunidad cerrada en Herradura con piscina estilo resort, casa club, zonas verdes, juegos infantiles y cancha deportiva. Cocina totalmente equipada, habitaciones con A/C, terraza privada y wifi rápido. A 2 minutos de Plaza Herradura (Auto Mercado) y cerca de Los Sueños Marina.",
+            "description": "Condominio Arenas: comunidad cerrada en Herradura con piscina estilo resort, casa club, zonas verdes, juegos infantiles y cancha deportiva. Cocina totalmente equipada, habitaciones con A/C, terraza privada y wifi rápido. A 2 minutos de Plaza Herradura (Auto Mercado) y cerca de Los Sueños Marina. Acceso a gimnasio, 3 piscinas, canchas de básquet/fútbol/vóleibol, parques infantiles, ping pong, billar y zona de coworking.",
             "images": [
               "https://img.hostify.com/400000158/property/23f0952cdae08cbc548b8877f697c029-lg.jpg",
               "https://img.hostify.com/400000158/property/91ce57c956881b0120b65794ce901e68-lg.jpg",
@@ -2340,6 +2500,9 @@
       "zone": "Nosara",
       "owner": "—",
       "note": "Distribución y fotos agregadas desde la ficha pública de Zafiro PM (Lévita Nosara).",
+      "requisitosCheckIn": {
+        "resumen": "Sin requisito de formulario, correo o WhatsApp registrado para esta propiedad."
+      },
       "quickInfo": [
         [
           "Casa",
@@ -2413,6 +2576,12 @@
           "name": "Casa Levita",
           "num": "",
           "pax": "6",
+          "rooms": [
+            "Habitación 1: Cama queen",
+            "Habitación 2: Cama individual",
+            "Habitación 3: Cama individual",
+            "Habitación 4: Cama queen"
+          ],
           "checkin": [
             {
               "id": "levita-checkin",
@@ -2428,6 +2597,8 @@
           "listing": {
             "title": "Lévita Nosara — Mountain-Top Retreat with Ocean View",
             "url": "https://zafiropm.hostify.club/listing/400045451",
+            "airbnbUrl": "https://www.airbnb.mx/rooms/1746423835691167461",
+            "airbnbTitle": "Lévita Nosara: retiro en la cima de la montaña con vista al mar",
             "guests": 6,
             "bedrooms": 4,
             "beds": 4,
@@ -2451,6 +2622,9 @@
       "zone": "Guanacaste · Hacienda Pinilla",
       "owner": "—",
       "note": "Distribución y fotos agregadas desde la ficha pública de Zafiro PM (Casa Malinches 26A).",
+      "requisitosCheckIn": {
+        "resumen": "Generar y enviar el código QR de acceso a través de la app HAC."
+      },
       "quickInfo": [
         [
           "Casa",
@@ -2560,6 +2734,10 @@
             [
               "Keypad",
               "1407"
+            ],
+            [
+              "Nombre Airbnb",
+              "Casa Malinches | 4BR Relax Stay | Hacienda Pinilla"
             ]
           ],
           "checkin": [
@@ -2577,6 +2755,8 @@
           "listing": {
             "title": "Casa Malinches 26A Nature Retreat",
             "url": "https://zafiropm.hostify.club/listing/400041562",
+            "airbnbUrl": "https://www.airbnb.mx/rooms/1663859606938607939",
+            "airbnbTitle": "Casa Malinches | 4BR Relax Stay | Hacienda Pinilla",
             "guests": 8,
             "bedrooms": 4,
             "beds": 4,
@@ -2589,6 +2769,104 @@
               "https://img.hostify.com/400000158/property/4043756ff7aa6b1fface6e8a9aae2416-lg.jpg",
               "https://img.hostify.com/400000158/property/76e05c0eb33e6fa64a56cc7c22bcfef8-lg.jpg"
             ]
+          },
+          "rooms": [
+            "Habitación 1: Cama queen (baño privado)",
+            "Habitación 2: Cama queen (baño privado)",
+            "Habitación 3: Cama queen (baño privado)",
+            "Habitación 4: Cama king (baño privado)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "casa-providencia",
+      "group": "guanacaste",
+      "name": "Casa Providencia",
+      "zone": "Guanacaste · Hacienda Pinilla (Pinilla)",
+      "owner": "Michelle / Bruno, Varo & Michi, Adriana (coanfitriones)",
+      "note": "Propiedad nueva del portal de Zafiro PM (villa construida en 2026). Códigos de acceso y wifi específicos aún no documentados — usa el mismo procedimiento de check-in que Del Roble y Malinches (misma comunidad, Hacienda Pinilla).",
+      "requisitosCheckIn": {
+        "resumen": "Generar y enviar el código QR de acceso a través de la app HAC.",
+        "detalle": "Mismo procedimiento que Del Roble Refuge y Malinches, por estar dentro de la misma comunidad (Hacienda Pinilla). Códigos de acceso y wifi específicos de la casa: pendientes de documentar."
+      },
+      "quickInfo": [
+        [
+          "Check in",
+          "3:00 PM"
+        ],
+        [
+          "Check out",
+          "11:00 AM"
+        ],
+        [
+          "Capacidad",
+          "22 personas (fijo — según camas, baños y reglas de la comunidad)"
+        ],
+        [
+          "Tamaño",
+          "940 m² (~10,100 pies²)"
+        ],
+        [
+          "Parqueo",
+          "6 vehículos (2 cubiertos, 4 en la entrada)"
+        ],
+        [
+          "Ingreso app",
+          "SI (HAC)"
+        ]
+      ],
+      "publicInfo": {
+        "amenities": [
+          "WiFi",
+          "A/C en toda la casa",
+          "Piscina privada",
+          "Cocina totalmente equipada",
+          "Parqueo gratis",
+          "Asador",
+          "Agua caliente en todos los baños",
+          "Terraza cubierta"
+        ],
+        "rules": [
+          "No se permiten mascotas.",
+          "No fumar.",
+          "No se permiten fiestas ni eventos.",
+          "Capacidad máxima fija de 22 personas — no se puede exceder (camas, baños y reglas de la comunidad).",
+          "Comunidad cerrada (Hacienda Pinilla) con entrada controlada."
+        ]
+      },
+      "units": [
+        {
+          "id": "providencia-main",
+          "name": "Casa Providencia",
+          "num": "",
+          "pax": "22",
+          "rooms": [
+            "Habitación 1: 1 cama King (principal)",
+            "Habitación 2: 2 camas queen",
+            "Habitación 3: 4 camas queen (2 camarotes)",
+            "Habitación 4: 2 camas queen",
+            "Habitación 5: 2 camas queen",
+            "Habitación 6: 1 cama King",
+            "Habitación 7: 1 cama King (principal)"
+          ],
+          "listing": {
+            "title": "Villa nueva de 7 recámaras con alberca · Hacienda Pinilla",
+            "url": "https://www.airbnb.mx/rooms/1757383237540886870",
+            "airbnbUrl": "https://www.airbnb.mx/rooms/1757383237540886870",
+            "airbnbTitle": "Villa nueva de 7 recámaras con alberca · Hacienda Pinilla",
+            "guests": 22,
+            "bedrooms": 7,
+            "beds": 13,
+            "bathrooms": 7,
+            "description": "Villa nueva de 2026 en Hacienda Pinilla, construida para grupos grandes: 7 recámaras, 7 baños, espacio para 22 personas, en 940 m². Cocina completa, aire acondicionado en todas las áreas, agua caliente y asador para largas cenas. Estacionamiento para 6 autos (2 cubiertos). Comunidad cerrada y tranquila, a minutos de las playas y el campo de golf de Pinilla. No se permiten mascotas, no fumar, no fiestas.",
+            "images": [
+              "https://a0.muscache.com/im/pictures/hosting/Hosting-1757383237540886870/original/ec5dae40-00bd-43e3-a95f-31600e68b0b6.jpeg",
+              "https://a0.muscache.com/im/pictures/hosting/Hosting-1757383237540886870/original/df4b20e7-acd3-42a9-8870-cdb6634ed910.jpeg",
+              "https://a0.muscache.com/im/pictures/hosting/Hosting-1757383237540886870/original/b32e176e-dc04-4090-9f30-4e37ba47084f.jpeg",
+              "https://a0.muscache.com/im/pictures/hosting/Hosting-1757383237540886870/original/f5c94462-765d-42b6-830f-f228c5b281c3.jpeg",
+              "https://a0.muscache.com/im/pictures/hosting/Hosting-1757383237540886870/original/e7c92673-b097-48b3-b2c3-d7d44c218869.jpeg"
+            ]
           }
         }
       ]
@@ -2600,6 +2878,10 @@
       "zone": "San José · Santa Ana / Tabarcia",
       "owner": "Bruno y Erica",
       "note": "Propiedad nueva del portal de Zafiro PM. Aún no tiene proceso operativo interno documentado (códigos, wifi, mensajes de check-in) — solo la ficha pública.",
+      "requisitosCheckIn": {
+        "resumen": "Sin requisito de formulario, correo o WhatsApp registrado para esta propiedad.",
+        "detalle": "Propiedad nueva — completar este dato apenas se defina el procedimiento interno de check-in."
+      },
       "quickInfo": [
         [
           "Check in",
